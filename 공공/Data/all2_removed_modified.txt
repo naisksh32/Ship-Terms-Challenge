@@ -1,0 +1,1695 @@
+영단어|한국단어
+AC BALANCER|교류 밸런서
+AC GENERATOR|교류 발전기 ( 交流發電機 )
+AC MOTOR|교류 전동기
+AC MOTOR|교류 정류자기 ( 交流整流子機 )
+AC SLNGLE SPEED CONTROL|교류 1 단 속도제어
+ACCESS HOLE|억세스홀
+ACCUMULATOR|어큐뮬레이터
+ACTIVE PASS FILTER|자동 오자 정정 장치
+ACTIVE PASS FILTER|능동 필터
+ACTIVE POWER|유효 전력
+ADAPTIVE DELTA MODULATION|적응 델타 변조
+ADAPTIVE DIFFERENTIAL PULSE CODE|적응 차등 펄스 부호 변조방식
+ADJUSTABLE CONDENSER, VARIABLE|가변 콘덴서
+ADJUSTABLE INDUCTOR|가변 인덕터
+ADJUSTABLE RESISTOR, VARIABLE RESISTOR|가변 저항기
+ADVANCE PAYMENT (BANK) GUARANTEE|환급보증
+AIR RELAY|공기식 계전기
+AIR-BLAST CIRCUIT BREAKER|공기 차단기
+AIR-BLAST CIRCUIT BREAKER|기중 차단기
+AIRBORNE COLLISION AVOIDANCE SYSTEM|기상 충돌 방지 장치
+ALIPHATIC HYDROCARBONS|지방족탄화수소용제
+ALTERNATING CURRENT|교류
+ALUMINUM CABLE STEEL REINFORCED|강심 알루미늄 연선
+AMERICAN BUREAU OF SHIPPING|미국 선급 협회
+AMERICAN INSTITUTE OF STEEL|미국 철구조물 건설 협회
+AMERICAN IRON AND STEEL INSTITUTE|미국 철강 협회
+AMERICAN NATIONAL STANDARD INSTITUTE|미국 국제 표준 협회
+AMERICAN PETROLEUM INSTITUTE|미국 석유 협회
+AMERICAN SOCIETY FOR TESTING AND|미국 재료시험 협회
+AMERICAN SOCIETY OF MECHANICAL|미국 기계 기술자 협회
+AMERICAN SOCIETY OF NON-|미국 비파괴 검사 협회
+AMERICAN WELDING SOCIETY|미국 용접 협회
+AMPERE|암페어
+AMPERE'S RIGHTHANDED SCREW RULE|암페어의 오른 나사의 법칙
+AMPLITUDE MODULATION|진폭 변조
+AMPLITUDE SHIFT KEYING|진폭 위상 변조
+ANALOG DIGITAL CONVERTER|아나로그 디지털 변환기
+ANGLE OF EXTINCTION|소호각
+ANTI CORROSIVE PAINT|부식 방지 도료
+ANTI FOULING PAINT|방오 도료
+APPARENT POWER|피상 전력
+APPLICATION SPECIFIC IC|응용 주문형 집적회로
+APPROVAL|승인
+ARMATURE REACTION|전기자 반작용
+ARTIFICIAL INTELLIGENCE|인공 지능
+ASSOCIATION FRANCAISE DE NORMALIZATION|프랑스 규격협회
+ASYNCHRONOUS MACHINE|비동기기
+ASYNCHRONOUS PHASE MODIFIER|비동기 조상기
+AUDIO FREQUENCY|가청 주파수
+AUDIO RESPONSE UNIT|음성 응답 장치
+AUTHORIZED INSPECTOR|공인검사관
+AUTO TRANSFORMER|단권 변압기
+AUTOMATIC BRIGHTNESS AND CONTRAST|자동 휘도 콘트라스트 조절
+AUTOMATIC BRIGHTNESS CONTROL|자동 휘도 조절
+AUTOMATIC DIRECTION FINDER|자동 방위 측정기
+AUTOMATIC ROUTE SELECTION|자동 경로 선택
+AUTOMATIC SEND/RECEIVE SET|자동 송수신 장치
+AUTOMATIC TRAIN CONTROL, AUTOMATIC|자동 열차 제어 , 자동 교통 제어
+AUTOMATIC VEHICLE MONITORING SYSTEM|차량 위치 모니터링 시스템
+AUTOMATIC VOLTAGE REGULATOR|자동 전압 조정기
+AUTOMATION DISTRIBUTION SYSTEM|배전 자동화 시스템
+AUTOMATION FINE TUNING|자동 세밀 조정
+AUTOMATION FREQUENCY CONTROL|자동 주파수 제어
+AUTOMATION GAIN CONTROL|자동 이득 제어
+BACKWARD WAVE OSCILLATOR|후진파 발진관
+BALANCED TRANSFORMERLESS|비티엘
+BALLAST|발라스트
+BAND COMPRESSION|대역 압축
+BARGE MOUNTED POWER PLANT|해상열병합 설비
+BARREL PER DAY|일일 생산량 .
+BASIC DRAWING|기본 도면
+BASIC WIND SPEED|기본 풍속
+BEAM|작은보
+BEFORE 3RD COAT INSPECTION|중도 도장 검사
+BID|입찰
+BID BOND|입찰 보증서
+BILL OF MATERIAL|자재불출 청구서
+BISMUTH SILICON OXIDE|비스무트 규소 산화물
+BLANK DIAMETER|블랭크지름
+BLOCK|블록
+BLOCK DIVISION|작업량
+BLOW OUT PREVENTION|분출방지장치
+BRACKET|브라켓트
+BREAKER|분기 개폐기
+BREAKER|조작 개폐기
+BRIDGE TYPE RELAY|브리지형 계전기
+BRIDGING AMPLIFIER|분기 증폭기
+BRIGHTNESS|휘도
+BRITISH STANDARD INSTITUTION|영국표준협회
+BRITISH STANDARDS INSTITUTION|영국 규격 협회
+BUILDING AUTOMATION SYSTEM|빌딩 자동화 시스템
+BULKHEAD|격벽
+BUREAU VERITAS|프랑스 선급 협회
+BURNER MANAGEMENT SYSTEM|버너조정시스템
+BUTTOCK LINE|종절선
+CABLE|전선
+CABLE|케이블
+CABLE|공칭 단면적
+CABLE|충실형 케이블
+CABLE|차폐층
+CABLE SCHEDULE|케이블 스케줄
+CABLE TV, COMMUNITY ANTENNA TV|공동시청 TV
+CANADIAN STANDARDS ASSOCIATION|캐나다 규격
+CANDELA|칸델라
+CAPACITOR MOTOR|콘덴서 모터
+CAPACITY|정전 용량
+CARBONFIBER REINFORCED PLASTICS|탄소섬유 강화 플라스틱
+CATHODE RAY TUBE|음극선관
+CAUSE & EFFECT|면동시험
+CENTER OF BUOY|부력 중심
+CENTER OF GRAVITY|무게 중심
+CENTER TO CENTER|중심간
+CENTRAL CONTROL ROOM|중안 제어실
+CHARGE COUPLED DEVICE|전하 결합 소자
+CHARGE TRANSFER LOGIC|전하 전송 소자
+CHECK VALVE|역지 밸브
+CHEMICAL CONVERSION COATING|화성 피막 저리
+CHEMICAL VAPOR DEPOSITION METHOD|화학 기상 성장법
+CIRCUIT|약전류회로
+CIRCULAR ERROR PROBABLE|확률 오차원
+CITIZEN BAND TRANSCEIVER|생활 무선
+CLAMP CIRCUIT|클램프 회로
+CLASS COMMENT ITEM|선급 NCR
+CLIENT REQUIREMENT ITEM|선주 요구 사항
+CLOSED CIRCUIT TV|폐쇄회로 TV
+COAMING|코밍
+COAXIAL CABLE|동축 케이블
+CODE|코드
+CODE DIVISION MULTIPLE ACCESS|부호 분할 다중 접속
+CODERDECODER|부호기와 복호기
+COHERENT OSCILLATOR|코히어런트 발진기
+COLD CATHODE DISCHARGE LAMP|냉음극 방전램프
+COLLECTOR RING, SLIP RING|슬립 링
+COMMISSION INTERNATIONAL DE I'ECLAIRAGE|국제 조명 위원회
+COMMISSION INTERNATIONALE DE REGE|유럽전기기기 통일 안전 규격
+COMMON MODE REJECTION RATIO|동상 전압 제거비
+COMMUNICATION DECK|회선 감시 장치
+COMMUTATOR|정류자
+COMPENSATING MACHINE|보상기
+COMPLEMENTARY TRANSISTOR LOGIC|상보 트랜지스터 논리
+COMPOUND GENERATOR|복권 발전기
+COMPOUND MOTOR|복권 전동기
+COMPUTER AIDED DESIGN|컴퓨터를 이용한 설계
+COMPUTER AIDED ENGINEERING|컴퓨터를 이용한 엔지니어링
+COMPUTER AIDED INSTRUCTION|컴퓨터를 이용한 학습
+COMPUTER AIDED LEARNING|컴퓨터
+COMPUTER AIDED MANUFACTURING|컴퓨터를 이용한 제조
+COMPUTER AIDED TESTING, COMPUTERIZED|컴퓨터를 이용한 검사
+COMPUTER INTEGRATED MANUFACTURING|컴퓨터에 의한 통합 생산
+COMPUTER NUMERICAL CONTROL|컴퓨터 수치 제어
+CONDENSER|콘덴서
+CONDUCTION CURRENT|도전 전류
+CONDUCTIVITY|도전율
+CONDUCTOR|집합연선
+CONDUCTOR|심선
+CONDUCTOR|단선
+CONDUCTOR|연선
+CONDUCTOR|선심
+CONDUCTOR|도체
+CONDUCTOR|소선
+CONDUCTOR|대연
+CONDUCTOR|복합연선
+CONDUCTOR|심연선
+CONDUCTOR MULTI|다심
+CONDUCTOR SINGLE|단심
+CONSTANT ANGULAR VELOCITY|정 각속도
+CONSTANT LINEAR VELOCITY|정 선속도 방식
+CONSTANT SPEED DRIVE UNIT|정속 구동장치
+CONSTANT VOLTAGE CONSTANT FREQUENCY|정전압 정주파 전원
+CONTINUITY TEST|도통 시험
+CONTINUOUS RATING|연속 정격
+CONTRACT|계약
+CONTRACT AWARD|계약 발효
+CONTROL CIRCUIT|제어회로
+CONTROL PANEL|제어반
+CORE|배전용 변압기 코어
+CORE LOSS|철손
+CORE TYPE TRANSFORMER|내철형 변압기
+CORELOSS CURRENT|철손 전류
+CORRECTIVE ACTION|시정 조치
+CORRECTIVE ACTION REQUEST|시정 조치 요구서
+COUNTER WEIGHT|균형추
+CRITICAL DAMPING RESISTANCE EXTERNAL|임계 제동 외부저항
+CRITICAL FUSION FREQUENCY|임계 융합 주파수
+CRITICAL TEMPERATURE RESISTOR|임계 온도 저항기
+CURIE POINT|퀴리점
+CURIE TEMPERATURE|퀴리 온도
+CURRENT CONTROLLED NEGATIVE RESISTANCE|전류제한 負 저항
+CURRENT MODE LOGIC|전류 논리 모드
+CURRENT STANDING WAVE RATIO|전류 정재파 비
+CURRENT TO PNEUMATIC|전류 - 공기압 전환기 .
+CURRENT TRANSFORMER|계기용 변류기
+CYCLIC DIGITAL TRANSMISSION|사이클릭 디지털 정보 전송
+DAMPER WINDING|난조 방지 권선
+DAMPER WINDING|제동권선
+DC MOTOR|직류 전동기
+DEEPSLOT SQUIRRELCAGE INDUCTION MOTOR|심구 농형 유도 전동기
+DET NORSKE VERITAS|노르웨이 선급
+DETAIL DRAWING|상세도면
+DETAILED ASSEMBLY PROCEDURE|상세작업요령서
+DETAILED ASSEMBLY PROCESS|작업시방서
+DEUTSCHES INSTITUT FUR NORMUNG|독일 국가 규격
+DIELECTRIC LOSS|유전손
+DIELECTRIC SUBSTANCE|유전체
+DIESEL ENGINE GENERATOR|디이젤발전기
+DIFFERENTIAL COMPOUND|차동 복권
+DIFFERENTIAL GAIN|미분 이득
+DIFFERENTIAL GAIN/DIFFERENTIAL PHASE|미분 이득 / 미분 위상
+DIFFERENTIAL PHASE|미분 위상
+DIFFERENTIAL PHASE SHIFT KEYING|차분위상 시프트 키잉
+DIFFERENTIAL PULSE CODE MODULATION|차분펄스 부호 변조방식
+DIFFERENTIAL TRANSFORMER|차동 변압기
+DIGITAL ANALOG CONVERTER|디지털 아나로그 변환기
+DIGITAL SIGNAL PROCESSOR|디지털 신호처리 장치
+DIGITAL VOLTMETER|디지털 전압계
+DILUENT|희석제
+DIRECT CURRENT|직류
+DIRECT CURRENT GENERATOR|직류 발전기 ( 直流發電機 )
+DIRECT DIGITAL CONTROL|직접 디지털 제어
+DIRECT NUMERICAL CONTROL|직접 수치 제어
+DISTORTION FACTOR|왜율
+DISTRIBUTED CONTROL SYSTEM|분산 제어 시스템
+DISTRIBUTED CONTSOLED SYSTEM|보일러플랜트자동운전제어시스템
+DISTRIBUTION AUTOMATION SYSTEM|배전자동화 시스템
+DISTRIBUTION SUBSTATION|배전 변전소
+DISTRIBUTION TRANSFORMER|배전 변압기
+DOPPLER EFFECT|도플러 효과
+DOUBLE BOTTOM|선저 밑바닥
+DOUBLE HETEROSTRUCTURE|더블 헤테로 접합
+DRAIN HOLE|배수공
+DRIVING CHAIN|구동체인
+DRIVING CHAIN SPROKET|구동체인 SPROCKET
+DRIVING SHEEVE|구동쉬브
+DUMPING FACTOR|제동 계수
+DYNAMIC MODEL|다이나모
+EARTH LEAKAGE BREAKER, GROUND FAULT|누전 차단기
+EARTH; GROUNDING|접지선
+EDDY CURRENT|와전류
+EFFECTIVE ISOTROPICALLY RADIATED POWER|실효 등방 방사 전력
+EFFECTIVE RADIATION POWER|실효 방사 전력
+ELECTRIC ENERGY|전력량
+ELECTRIC FLUX)|전속
+ELECTRIC POTENTIAL|전위
+ELECTRIC POWER|전력
+ELECTRIC POWER SUBSTATION|변전소
+ELECTRICAL DISCHARGING MACHINING|방전 가공
+ELECTRO COATINGS|전착 도료
+ELECTROCARDIOGRAM|심전도
+ELECTROLUMINESCENCE|전자 발광
+ELECTROLYTIC CONDENSER|전해 콘덴서
+ELECTROMAGNETIC COMPATIBILITY|전자적 적합성
+ELECTROMAGNETIC FIELD|전자장
+ELECTROMAGNETIC FORCE|전자력
+ELECTROMAGNETIC INDUCTION|전자 유도
+ELECTROMAGNETIC INTERFERENCE|전자기 방해
+ELECTROMOTIVE FORCE|기전력
+ELECTRON BEAM MACHINING|전자 빔 가공
+ELECTRON SPIN RESONANCE|전자 스핀 공명
+ELECTRONIC COMMERCE|전자 상거래
+ELECTRONIC CONCENTRATED ENGINE CONTROL|전자 집중 엔진제어 시스템
+ELECTRONIC INDUSTRIAL ASSOCIATION|미국 전자 공업회
+EMERGENCY POSITION INDICATING RADIO|비상용 위치표시 무선장치
+EMERGENCY SHUTDOWN|비상 차단
+EMITTER COUPLED TRANSISTOR LOGIC|이미터 트랜지스터 논리회로
+ENERGY MANAGEMENT SYSTEM|중앙 급전 시스템
+ENGINEMAGNET|무정전 전원장치의 한 방식
+EQUIVALENT CIRCUIT|등가 회로
+EQUIVALENT DIRECT RADIATION|상당 방열 면적
+ERECTION|탑재
+EXCITER|여자기
+EXCITING CURRENT|여자 전류
+EXPLOSION|방폭전기기기의 구조별표시방법
+EXPLOSION - GRADE|방폭형 전기기기 표시기호
+EXPLOSION - TEMP|방폭전기기기 최고표면온도
+EXPLOSION PROVE|방폭형
+EXTREME ULTRAVIOLET RADIATION|극자외선
+FABRICATION SEQUENCE DIAGRAM|제작순서도
+FACTORY AUTOMATION|공장 자동화
+FAILURE MODE EFFECT ANALYSIS|고장 모드 효과 해석
+FARADAY'S LAW|패러데이 법칙
+FAST TIME CONSTANT CIRCUIT|소 시상수 회로
+FASTENER|화스너
+FEDERAL COMMUNICATION COMMISSION|미국 연방 통신 위원회
+FIBER GLASS REINFORCED PLASTICS|유리섬유 강화 플라스틱
+FIELD EFFECT TRANSISTOR|전계 효과 트랜지스터
+FIELD STRENGTH|전계 강도
+FILLET WELDING|필렛용접
+FILTER|필터 [ 광학 ]
+FIRE & GAS DETECTION SYSTEM|화기가스 감지 시스템
+FIT-UP INSPECTION|취부검사
+FLAME CLEANING|화염 크리닝
+FLANGE [FLG]|후렌지
+FLASH|섬광
+FLAT BAR|평형강
+FLEMING'S LEFTHAND RULE|플레밍의 왼손법칙
+FLEXIBLE MANUFACTURING SYSTEM|다품종 소량 생산 시스템
+FLINITE ELEMENT METHOD|유한요소분석법
+FLOATING GATE AMPLIFIER|부동 게이트 증폭기
+FLOW COATING|흘림도장
+FLUX CHANGES PER INCH|매 인치 당 자속 반전수
+FLYING SPOT SCANNER|비점 주사 장치
+FORWARD ERROR CORRECTION|순방향 오류 정정법
+FRAME|늑골
+FRAME GROUND|프레임 접지
+FREQUENCY|공진주파수
+FREQUENCY DIVISION MULTIPLEX ACCESS|주파수 분할 다원 접속
+FREQUENCY DIVISION MULTIPLEX|주파수 분할 다중 통신
+FREQUENCY MODULATION|주파수 변조
+FREQUENCY OF OPTIMUM TRAFFIC|최적 사용 주파수
+FREQUENCY SHIFT KEYING|주파수 편이 방식
+FRESH WATER TANK|청수탱크
+FUEL GAS DESULFURIZATION|탈황설비
+FULL PENETRATION|완전용입용접
+FUNCTION TEST|작동 시험
+FUSE|퓨즈 -A 종
+FUSE|전동기용 퓨즈
+FUSE|한류퓨즈
+FUSE|비포장퓨즈
+FUSE|포장퓨즈
+FUSE|고리퓨즈
+FUSE|퓨즈 -B 종
+GAIN OVER TEMPERATURE|이득 초과 온도
+GALLIUM ARSENIDE|갈륨 비소
+GALVANIZED|아연도금 .
+GAS CIRCUIT BREAKER|가스 차단기
+GAS FILLED LAMP|가스든 전구
+GATE CONTROLLED SWITCH|게이트 제어 스위치
+GATE TURN OFF THYRISTOR|게이트 턴오프 사이리스터
+GENERAL PURPOSE INTERFACE BUS|범용 인터페이스 버스
+GENERAL PURPOSE SYSTEM SIMULATOR|범용 시스템 시뮬레이터
+GENERAL PURPOSE TEST EQUIPMENT|범용 시험 장치
+GENERATOR|발전기의 용도
+GIRDER|거어더
+GIRTH|띠장
+GLOBAL POSITIONING SYSTEM|범용 지구 측위 시스템
+GLOW DISCHARGE|글로우 방전
+GLOW STARTER|글로우 스타터
+GODOLINIUM GALLIUM GARNET|가돌리늄 갈륨 가닛
+GOVERNOR ROPE|가버너로프
+GRINDING|연삭
+GROUND|접지
+GROUND CONTROL APPROACH|지상 관제 진입 장치
+GROUND POSITION INDICATOR|대지 위치 표시기
+GROUND PROXIMITY WARNING SYSTEM|지상 접근 경보 장치
+GROUNDING SHORT CIRCUIT RELAY|이상 지락 검출 계전기
+GROUP CODED RECORDING|군 부호 기록
+GUIDE RAIL|가이드레일
+GUIDE SHOE|가이드슈
+HALL EFFECT|홀 효과
+HARMONIC WAVE|고조파
+HEAT ONLY BOILER|열전용보일러
+HEATING VENTILATION AND|공기조화시스템
+HERTZ|주파수
+HETERO BIPOLAR TRANSISTOR|헤테로바이폴라 트랜지스터
+HIGH BUILD COATING|후도막 도장
+HIGH FREQUENCY|고주파
+HIGH FREQUENCY GENERATOR|고주파 발전기 ( 高周波發電機 )
+HIGH INTENSITY DISCHARGE LAMP|고휘도 방전램프
+HIGH LEVEL TRANSISTOR|고수준 트랜지스터 논리
+HIGH OUTPUT FLUORESCENT LAMP|고출력 형광램프
+HIGH POTENTIAL TEST|내전압
+HIGH POTENTIAL TEST|절연내력
+HIGH PRESSURE MERCURY [VAPOUR] LAMP|고압수은 램프
+HIGHFIDELITY|고충실도
+HI-POT TEST|고전압 내압 시험
+HOISTING MACHINE|권상기
+HOME AUTOMATION|가정 자동화
+HOT LINE|핫 라인
+HULL PRODUCTION SCHEDULE|구조 생산 계획
+HYBRID IC|혼성 집적 회로
+ILLUMINATION|조도단위
+IMPEDANCE|임피던스
+IMPEDENCE|특성임피던스
+IMPORTANCE FACTOR|중요도계수
+IMPRESSED CURRENT CATHODIC PROTECTION|부식방지
+INCOMPLETE FUSION|불안전용융
+INDIRECT ILLUMINANCE|간접조도
+INDIRECT LIGHTING|간접조명
+INDUCED CURRENT|유도 전류
+INDUCED ELECTROMOTIVE FORCE|유도 기전력
+INDUCTION MOTOR, INTEGRATION MOTOR|유도 전동기 , 적분 모터
+INDUSTRIAL ENGINEERING|산업공학
+INERTIAL NAVIGATION SYSTEM|관성 항법 장치
+INERTIAL REFERENCE SYSTEM|관성 기준 장치
+INFRARED|적외선
+INITIAL PROGRAM LOADER|초기 프로그램 적재기
+INJECTION LASER DIODE|주입형 레이저 다이오드
+INPUT OUTPUT CONTROL SYSTEM|입출력 제어 시스템
+INSPECTION|검사
+INSPECTION RELEASE CERT.|최종검사합격증
+INSPECTION REQUIREMENT|검사요구
+INSTANTANEOUS AUTOMATIC GAIN|순시 자동 이득 조절
+INSTITUTE OF ELECTRICAL AND ELECTRONIC|전기 전자 학회
+INSTRUMENTATION|계장
+INSULATED GATE BIPOLAR TRANSISTOR|고전력 스위칭용 반도체
+INSULATED GATE BIPOLAR TRANSISTOR|전력용 반도체
+INSULATED GATE FET|절연 게이트 FET
+INSULATING CORE TRANSFORMER|절연 철심 변압기
+INSULATION|절연 C 종
+INSULATION|절연 B 종
+INSULATION|절연 F 종
+INSULATION CABLE|절연 전선
+INSULATION CABLE|절연전선
+INSULATION RESISTANCE TEST|절연저항시험
+INSULATION TEMPERATURE|절연 허용 온도
+INTEGER PROGRAMMING, INFORMATION|정수 계획법 , 정보 제공자
+INTEGRATED INJECTION LOGIC|직접 주입 논리 회로
+INTEGRATED SERVICES DIGITAL|종합 정보 통신망
+INTELLIGENT TIME DIVISION MULTIPLEXING|지능 시분할 다중화
+INTERFACIAL REFLECTION; REFLECTION FROM|계면 반사
+INTERFERENCE|간섭
+INTERMEDIATE DISTRIBUTING FRAME|중간 배선판
+INTERMEDIATE FREQUENCY|중간 주파수
+INTERMEDIATE FREQUENCY TRANSFORMER|중간 주파 트랜스
+INTERNAL FIELD|내부 전계
+INTERNATIONAL AMATEUR RADIO UNION|국제 아마츄어 무선협회
+INTERNATIONAL ATOMIC ENERGY|국제 원자력 기관
+INTERNATIONAL ELECTROTECHNICAL|국제 전기표준 협회
+INTERNATIONAL FREQUENCY REGISTRATION|국제 주파수 등록 위원회
+INTERNATIONAL MARINE SATELLITE CONSORTIUM|국제 海事 위성 기구
+INTERNATIONAL MARITIME ORANIZATION|국제 해상 기구
+INTERNATIONAL ORGANIZATION FOR|국제 표준화 기구
+INTERNATIONAL RADIO CONSULTATIVE|국제 무선통신 자문 위원회
+INTERNATIONAL SYSTEM OF UNITS|국제 단위계
+INTERNATIONAL TELECOMMUNICATION|국제 전기 통신 조약
+INTERNATIONAL TELECOMMUNICATION UNION|국제 전기 통신 연합
+INTERNATIONAL TELEGRAPH AND TELEPHONE|국제 전신전화 자문위원회
+ISOLATION AMPLIFIER|아이솔레이션 증폭기
+ISOMETRIC DRAWING|설치도
+ISSUE FOR APPROVAL|승인 제출도
+IUMINOUS FLUX|광속
+JAPANESE INDUSTRIAL STANDARDS|일본 공업 규격
+JCS|일본전선 공업협회
+JUNCTION FET|접합형 FET
+KALIUM DIHYDROGEN PHOSPHATE|인산 2 수소 칼륨
+KALIUM TANTALUM NIOBATE|칼륨 탄탈륨 니오브
+KEY PERFORMANCE INDICATOR|주요성과지표
+KEYBOARD SEND/RECEIVE SET|건반 송수신 장치
+KILOVOLT AMPERE|피상 전력단위
+KILOWATT|유효전력단위
+KILOWATT HOUR|전력량단위
+KOREA DISTRIBUTION AUTOMATION SYSTEM|한국형 배전자동화 시스템
+KOREAN REGISTER OF SHIPPING|한국 선급 협회
+KOREAN STANDARD|한국공업규격
+LABORATORY AUTOMATION|실험실 자동화
+LAMBERTIAN SURFACE|균등확산면
+LAMP VOLTAGE|램프 전압
+LARGE SCALE INTEGRATION|대규모 집적 회로
+LASER DOPPLER VELOCIMETER|레이저 도플러 속도계
+LEADLESS INVERTED DEVICE|직결 반전 디바이스
+LEAKAGE CONDUCTANCE|누설 컨덕턴스
+LEAKAGE CURRENT|누설 전류
+LEAKAGE FLUX|누설 자속
+LEAKAGE INDUCTANCE|누설 인덕턴스
+LEAKAGE REACTANCE|누설 리액턴스
+LEAKAGE TRANSFORMER|누설 변압기
+LENGTH OF SKIRT PART|스커트길이
+LETTER OF INTENT|발주 의향서
+LIGHT ACTIVATED NEGATIVE EMITTER|래너
+LIGHT ACTIVATED SILICON CONTROLLED|광 SCR
+LIGHT ACTIVATED SWITCH|광 스위치
+LIGHT EMITTING DIODE|발광 다이오드
+LIGHT SOURCE|광원
+LIGHT SOURE COLOUR;LIGHT SOURCE COLOR|광원색
+LIGHTNING STROKE|뇌격
+LIGHTNING SURGE|뇌 서지
+LIMIT SWITCH|스위치
+LINE CONSTANT|선로 상수
+LINE CONTROL UNIT|회선 제어 유닛
+LINE CURRENT|선로 전류
+LINE VOLTAGE|선간 전압
+LIQUID CRYSTAL DISPLAY|액정 표시 장치
+LLOYD'S REGISTER OF SHIPPING|영국 선급 협회
+LOAD CAPACITY|부하 용량
+LOAD FACTOR|부하율
+LOAD FACTOR [CF]|하중계수
+LOAD TEST|부하 시험
+LOAD-OUT|선적
+LOCAL AREA NETWORK|근거리 통신망
+LOCAL LIGHTING|국부조명
+LOCALIZED GENERAL LIGHTING|국부적 전반조명
+LOOP TEST|루프시험
+LOW FREQUENCY|저주파
+LOW NOISE AMPLIFIER|저잡음 증폭기
+LOWEST USABLE FREQUENCY|최저 사용 주파수
+LUMEN|루멘
+LUMEN METHOD; FLUX METHOD|광속법
+LUMINAIRE FOR EXPLOSIVE ATMOSPHERE|방폭조명기구
+LUMINOUS CEILING|광 천정
+LUMINOUS EXITANCE|광속 발산도
+LUMINOUS FLUX MAINTENANCE FACTOR|광속 유지율
+LUMINOUS INTENSITY|광도
+LUMINOUS RANGE|가시거리
+LUX|룩스
+MAGNETIC BUBBLE MEMORY|자기 버블 기억장치
+MAGNETIC DIRECTION INDICATOR|자기 방향 지시기
+MAGNETIC INK CHARACTER READER|자기 잉크 문자 판독장치
+MAGNETIC PARTICLE TEST|자기탐상검사
+MAGNETIC PERMEABILITY|투자율
+MAGNETO HYDRODYNAMICS GENERATION|전자 유체 역학 발전
+MAIN CIRCUIT BREAKER|주개폐기
+MAIN DISTRIBUTION FRAME|주배선반
+MAINTENANCE TO QUALITY|품질보전
+MANAGEMENT INFORMATION SYSTEM|경영 정보 시스템
+MANUFACTURER'S DESIGN REPORT|제작자설계보고서
+MANUFACTURING AUTOMATION PROTOCOL|제조 자동화 프로토콜
+MANUFACTURING DATA RECORD BOOK|제작자료기록서
+MARKING INSPECTION|마킹 검사
+MARKING INSPECTION|마킹검사
+MATERIAL|자재
+MAXIMUM USABLE FREQUENCY|최고 사용 주파수
+MAXWELL BRIDGE|맥스웰 브리지
+MAXWELL'S ELECTROMAGNETIC EQUATION|맥스웰의 전자방정식
+MEAN TIME BETWEEN ERROR|평균 오류시간
+MEAN TIME BETWEEN FAILURE|평균 고장 간격 시간
+MEAN TIME TO FAILURE|평균 고장 시간
+MEAN TIME TO REPAIR|평균 수리 시간
+MEAN UP TIME|평균 동작 시간
+MEDICAL ELECTRONICS , MICRO ELECTRONICS,|의용 전자공학
+MEDIUM AREA NETWORK|중규모 지역 통신망
+MEDIUM FREQUENCY WAVE|중파
+MEGOHM|저항 단위
+METAL CLAD|전선형태
+METAL CLAD CIRCUIT BREAKER|차단기
+METAL INSULATED SEMICONDUCTOR IC|미스 IC
+METAL NITRIDE OXIDE SEMICONDUCTOR|금속 질화 산화막 반도체
+METAL OXIDE SEMICONDUCTOR|금속 산화막 반도체
+METAL SEMICONDUCTOR FIELDEFFECT|금속반도체 효과 트랜지스터
+MICROCOMPUTER DEVELOPMENT SYSTEM|마이크로 컴퓨터 개발
+MILL SCALE|흑피
+MOLECULAR BEAM EPITAXY|분자선 에피탁시
+MONOLITHIC MICROWAVE IC|모노리식 마이크로파 집적회로
+MOS FET|금속 산화막 반도체 전계효과
+MOTOR|효율 ( 전동기 )
+MOTOR|출력 ( 전동기 )
+MOTOR|입력과 역률 ( 전동기 )
+MOTOR|전동기 Y- △기동방식
+MOTOR|전동기의 원리
+MOTOR CONTROL CENTER|모타제어반절연저항시험
+MOTOR PROTECTION|전동기 보호방식
+MULTIPLEX|다중화
+MUTUAL IMPEDANCE|상호 임피던스
+MUTUAL INDUCTION|상호 유도
+NARROW GAP WELD'G|협개선용접
+NATIONAL ASSOCIATION OF CORROSION|국제 방식 기술자 협회
+NATIONAL ELECTRICAL MANUFACTURERS|국제 전기 제작 협회
+NATIONAL INFORMATION SYSTEM|국가 정보 시스템
+NATIONALLY RECOGNIZED TESTING|국가인정시험소
+NEGATIVE-GLOW LAMP|네온램프
+NEGATIVEPHASE RELAY|역상 계전기
+NEGATIVEPHASESEQUENCE COMPONENT|역상분
+NEODYMIUM PENTAPHOSPHATE|네노디움 (5 인화 )
+NEON TRANSFORMER|네온 변압기
+NEON TUBE|네온관
+NETWORK CONTROL UNIT|망 제어 장치
+NEUTRAL|중성선
+NO FUSE BREAKER|배선용 차단기
+NOLOAD LOSS|무부하손
+NOLOAD SATURATION VOLTAGE|무부하 포화전압
+NOMINAL RATING|공칭 정격
+NOMINAL TRANSFORMATION RATIO|공칭 변압비
+NON CORFORMITY NOTE|외부심사지적사항
+NON DESTRUCTIVE TEST|비파괴검사
+NON RETURN TO ZERO|비 복귀기록
+NON RETURN TO ZERO INVERTED|비 제로 복귀 반전
+NONCONFORMITY REPORT|부적합보고서
+NONSALIENT MACHINE|비돌극기
+NUCLEAR MAGNETIC RESONANCE|핵 자기 공명
+OFFICE AUTOMATION|사무 자동화
+OFFSHORE PROJECT|해양 사업
+OIL CIRCUIT BREAKER|유입 차단기
+ON LOAD TAP CHANGER|부하시 탭 전환장치
+ON LOAD VOLTAGE REGULATOR|부하시 전압조정기
+OPERATING REGISTER|발진 레지스터
+OPTICAL BISTABLE DEVICE|광 2 안정 소자
+OPTICAL CHARACTER RECOGNITION|광학식 문자인식
+OPTICAL FIBER TUBE|광 섬유관
+OPTICAL MARK READER|광학식 마크 판독장치
+OPTICAL REDIATION|광방사
+OPTICAL TRANSFER FUNCTION|광학적 전달함수
+OPTIMUM WORKING FREQUENCY|최적 주파수 사용
+OPTOELECTRONICS INTEGRATED CIRCUIT|광전자 집적 회로
+ORGANIC PHOTOCONDUCTIVE CELL|유기 광도전체
+ORGANOMETALLIC COMPOUND CVD|유기 금속 CVD 법
+ORIGINAL EQUIPMENT MANUFACTURING|주문자 상표 부착 생산자
+OUT PUT TRANSFORMER|출력 변성기
+OUTFITTING|의장
+OUTPUT TRANSFORMERLESS|무변성 출력
+OUTPUT TRUNK|출력 트렁크
+OVER CURRENT|과전류
+OVER CURRENT BREAKER|과전류 차단기
+OVER CURRENT GROUND RELAY|과전류 접지 계전기
+OVER CURRENT RELAY|과전류 계전기
+OVER LOAD|과부하
+OVER LOAD RELAY|과부하 계전기
+OVER VOLTAGE RELAY|과전압 계전기
+OVERLOAD WEIGHTING DEVICE|과부하측정장치
+PEAK INVERSE VOLTAGE|피크 역전압
+PEEP HOLE [P.H]|화염관찰구멍
+PERFORMANCE(BANK)GUARANTEE|이행보증
+PETROCHEMICAL FACILITY PROJECT|화공설비사업
+PHASE DIFFERENCE|위상차
+PHASE MODULATION|위상 변조
+PHASE SHIFT KEYING|위상 편이 방식
+PHOTOCONDUCTIVE EFFECT|광도전 효과
+PHOTOELECTFIC EFFECT|광전효과
+PHOTO-ELETRIC DEVICE|광전장치
+PHOTOEMIS-SIVE EFFECT|광전자 방출효과
+PHOTOVOLTAIC CELL|광전지
+PHOTOVOLTAIC EFFECT|광기전 효과
+PICO FARAD|용량 단위
+PIEZO EFFECT|피에조 효과
+PIPE ISOMETRIC DRAWING|배관설치도
+PIPING AND INSTRUMENT DIAGRAM|배관 계장 계통도
+PITCH|피치
+PLANT DESIGN CONTROL SYSTEM|일정관리
+PLANT DESIGN GENERAL SYSTEM|문서관리
+PLANT PRODUCTION INFORMATION SYSTEM|작업관리
+PLATFORM|프렛폼
+POINT FINAL INSPECTION|최종도장검사
+POST|포스트
+POST WELD HEAT TREATMENT|응력제거 후열처리
+POTENTIAL TRANSFORMER|계기용 변압기
+POWER ACTUATED PRESSURE RELIEF VALVE|동력 구동 압력 이완 밸브
+POWER FACTOR|역률
+POWER GENERATOR|발전기
+POWER OF ATTORNEY|위임장
+PREVATE ACTION REQUIREMENT|예방조치요구서
+PRINTED CIRCUIT BOARD|프린트 배선 회로용 기판
+PRIVATE AUTOMATIC BRANCH EXCHANGE|구내 자동 교환기
+PROCEDURE QUALIFICATION REQUIRE|시공인정 기록서
+PROCESS FLOW DIAGRAM|제조공정계통도
+PRODUCTION NEED DATE|생산소요요구일
+PROJECT|프로젝트
+PROJECT ENGINEER|프로젝트엔지니어
+PROJECT MANAGEMENT|프로젝트관리
+PROTECTIVE RATIO|보호비
+PROTECTIVE RELAY|보호 계전기
+PULSATING CURRENT|맥동 전류
+PULSE AMPLITUDE MODULATION|펄스 진폭 변조
+PULSE CODE MODULATION|펄스 부호 변조
+PULSE DURATION MODULATION|펄스 지속 변조
+PULSE FREQUENCY MODULATION|펄스 주파수 변조
+PULSE NUMBER MODULATION|펄스수 변조
+PULSE PHASE MODULATION|펄스 위상 변조
+PULSE TIME MODULATION|펄스 시간 변조
+PULSE WIDTH MODULATION|펄스 폭 변조
+PUNCH CARD SYSTEM|천공 카드 시스템
+PURCHASE ODER|자재주문서
+PURCHASE ORDER REQUISITION|자재구매요구서
+PURCHASE SPECIFICATION|계약 사양서
+PURLIN|서까래도리
+QUADRATURE AMPLITUDE MODULATION|직교 진폭 변조
+QUALIFIED WELDER LIST|유자격용접사명단
+QUALITY ASSURANCE MANUAL|품질보증규정
+QUALITY ASSURANCE PROCEDURE|품질보증절차서절차로구성되어있
+QUALITY ASSURANCE SYSTEM|품질 보증 시스템
+QUALITY CONTROL|품질관리
+QUANTITY OF LIGHT|광량
+QUANTUM ELECTRO DYNAMICS|양자 전자기학
+RADIO DIRECTION FINDER|무선 방위 측정기
+RADIO FREQUENCY|무선 주파수
+RADIO INFLUENCE FIELD|무선 유도계
+RADIO MAGNETIC INDICATOR|무선 자기 방위 지시장치
+RADIOGRAPH TEST|방사선투과검사
+REACTIVE CURRENT|무효 전류
+REACTIVE POWER|무효 전력
+REACTOR START MOTOR|리액터 시동 전동기
+REAL TIME CONTROL FACILITY|실시간 처리기능
+RECEIVING INSPECTION CHECK LIST|입고검사체크리스트
+RECORD OF WELDER QUALIFICATION|용접사자격인정기록서
+RECORDER|기록계
+REDUCED LUMEN OUTPUT|감광
+REFUSE DERIVED FUEL|폐기물재생연료
+REGENERATIVE BRAKING|회생 제동
+REGISTERED PROFESSIONAL ENGINEER|공인전문기술자
+RELAY|계전기
+RELIEF VALVE|이완변
+RELIEF VALVE|릴리프 밸브
+RELUCTANCE|자기 저항
+REMOTE TERMINAL UNIT|원격 조정반
+REQUEST TO SEND|송신 요구
+RESISTOR CONDENSER TRANSISTOR LOGIC|저항 콘덴서 트랜지스터
+RESISTOR TRANSISTOR LOGIC|저항 트랜지스터 논리회로
+REVOLUTION PER MIN|회전속도 슬립 ( 전동기 )
+RIPPLE CURRENT MOTOR|맥동 전동기
+RIPPLE FACTOR|맥동율
+ROOT MEAN SQUARE VALUE|실효값
+ROTATING FIELD|회전 자계
+ROTOR|회전자
+ROUND BAR|둥근막대기 , 환봉 .
+RROOT-MEAN-SQUARE|평균값
+SAFETY RELIEF VALVE|안전 이완 밸브
+SAFETY VALVE|안전변
+SALIENT POLE FIELD|돌극 계자
+SALIENT POLE MACHINE|돌극기
+SCHEDULE|스케줄
+SEA CHEST|해수 흡입수
+SEA FASTENING|해상고박
+SECONDARY ELECTRON CONDUCTION|전자 도전작용 (2 차 )
+SECTION|단면
+SELF INSPECTION|자주검사
+SELF SUPPORTING CABLE|자기지지형 가공 케이블
+SEMICONDUCTOR ON INSULATOR|절연 기판상의 반도체
+SEMI-DRYER ABSORBER|반건식세정기
+SENSITIVENESS|감도
+SENSITIVITY|감도계수
+SENSITIVITY TIME CONTROL|감도의 시간 조정
+SEPARATELY EXCITED GENERATOR|타려 발전기
+SEPARATELY EXCITED MOTOR|타려 전동기
+SHELL TYPE PHASE TRANSFORMER|외철형 변압기
+SHUNT GENERATOR|분권 발전기 ( 分捲發電機 )
+SHUNT GENERATOR|분권 발전기
+SHUNT MOTOR|분권 전동기
+SILICON CARBIDE|탄화 규소
+SILICON CONTROLLED RECTIFIER|실리콘 제어 정류기
+SILICON CONTROLLED SWITCH|실리콘 제어 스위치
+SILICON INTENSIFIER TARGET TUBE, STATIC|정전유도형 트랜지스터
+SILICON STEEL PLATE|규소강판
+SINE WAVE|정현파
+SINGLE POLE SINGLE THROW|단극 단투 개폐기
+SINGLEPHASE INDUCTION MOTOR|단상 유도 전동기
+SINGLEPHASE TRANSFORMER|단상 변압기
+SOURCE INSPECTION|현지검사
+SPECIFICATION|사양서
+SPECTRUM|스펙트럼 [ 방사의 ]
+SPECULAR REFLECTION|경면 반사
+SPHERE PHOTOMETER,INTEGRATING|구형광속계
+SPRAYING VISCOSITY|흡착점도
+SPREAD SOLAR POWER GENERATOR|위성 태양 발전
+STACKED AVALANCHE INJECTION MOS|사모스
+STANDARD DRAWING|표준도
+STANDARD SIGNAL GENERATOR|표준신호 발생기
+STARTING ELECTRODE|시동전극
+STARTING VOLTAGE|시동전압
+STATIC ELECTRICITY|정전기
+STATIC INDUCTION|정전 유도
+STEERING GEAR|조타기
+STREET LIGHTING|가로조명
+STRUTUAL LIGHTING; ARCHITECTURAL LIGHTING|건축화 조명
+SUB-CONTRACTOR|협력회사
+SUPER CONDUCTING QUANTUM INTERFERENCE|스퀴드
+SUPERVISORY CONTROL & DATA ACQUISITION|지역 급전 시스템
+SUPERVISORY CONTROL AND DATA|원격감시제어장치
+SUPPORT|지지물
+SURFACE ACOUSTIC WAVE|찬성 표면파
+SURGE ABSORBER|서지 흡수기
+SURGE GENERATOR|서지 발생기
+SURGE IMPEDANCE|서지 임피던스
+SURGE VOLTAGE|서지 전압
+SWITCHBOARD, SWITCHGEAR|배전반
+SYNCHRONOUS GENERATOR|동기 발전기
+SYNCHRONOUS IMPEDANCE|동기 임피던스
+SYNCHRONOUS INDUCTION MOTOR|유도 전동기
+SYNCHRONOUS MOTOR|동기 전동기
+SYNCHRONOUS PHASE MODIFIER|동기 조상기
+SYNCHRONOUS REACTANCE|동기 리액턴스
+SYNCHRONOUS SPEED|동기 속도
+TACK WELDING|가용접
+TANGENT LINE|탄젠트라인
+TEMPERATURE INDICATING CRAYONS|템필스틱
+TEMPERATURE RELAY|온도 계전기
+TEMPERATURE RISE|온도 상승
+TERMINAL LUG|단자
+THERMALLY STIMULATED CURRENT|열자극 전류
+THERMISTER|서미스터
+THERMISTER WATTMETTER|서미스터 전력계
+THIN FILM TRANSISTOR|박막 트랜지스터
+THYRISTOR INVERTER|사이리스터 인버터
+THYRISTOR MOTOR|사이리스터 모터
+TIME BASE CORRECTION|시간축 교정장치
+TIME COMPRESSION MULTIPLEXING|시분할 방향 제어 전송방식
+TIME DELAY|지연시간
+TIME DIVISION MULTIPLE ACCESS|시분할 다원 접속
+TIME DIVISION MULTIPLEX|시분할 다중방식
+TIME SHARING SYSTEM|시분할 방식
+TOTAL PRODUCTIVE MAINTENANCE|종합생산보전
+TOTAL QUALITY CONTROL|종합품질관리
+TOTAL QUALITY MANAGEMENT|전사적품질경영
+TRACEABILITY|트레이셔 빌리티
+TRANSFORMER|몰드 변압기의 특징
+TRANSFORMER|배전용 변압기
+TRANSFORMER|변압기 ( 變壓器 )
+TRANSFORMER CORES|몰드 변압기 코어
+TRANSMISSION CONTROL|전송제어
+TRANSMISSION CONTROL UNIT|전송제어장치
+TRANSMISSIONLOSS COEFFICIENT|송전 손실
+TRANSMIT|송신
+TRANSMITTER DISTRIBUTOR|자동 송신기
+TRAVELLING WAVE TUBE|진행파관
+TRIGLYCINE SULFATE|황산 트리글리신
+TURBINE GENERATOR|터빈 발전기
+ULTRA HIGH FREQUENCY|극초단파
+ULTRASONIC TEST|초음파검사
+UNBALANCED CIRCUIT|불평형 회로
+UNBALANCED CURRENT|불평형 전류
+UNBALANCED LOAD|불평형 부하
+UNDERWRITERS LABORATORIES INC.|미국 화재보험협회
+UNIJUNCTION TRANSISTOR|단접합 트랜지스터
+UNINTERRUPTIBLE POWER SUPPLY|무정전 전원장치
+USER'S DESIGN SPECIFICATION|사용주의설계사양서
+VACUUM CIRCUIT BREAKER|진공 차단기
+VACUUM ELECTRIC FURNACE|진공 전기로
+VACUUM INTERRUPTER|진공 인터럽터
+VACUUM LOADBREAKER SWITCH|진공 개폐기
+VACUUM PRESSURE IMPREGNATION|진공 주입 ( 함침 )
+VACUUM PRESSURE IMPREGNATION|진공 함침
+VACUUM TUBE VOLT METER|진공관 전압계
+VALUE ADDED NETWORK|부가가치 통신망
+VAPOR PHASE INHIBITOR|기화성방청제
+VARIABLE FREQUENCY OSCILLATOR|가변 주파수 발진기
+VARIABLE VOLTAGE VARIABLE FREQUENCY|가변 전압 가변 주파수
+VEILING GLARE|광막 글레어
+VEILING LUMINANCE|광막휘도
+VEILING REFLECTION|광막반사
+VENDOR DEVIATION REQUEST|사양불일치승인요청서
+VERBAND DEUTSHER ELECTROTECHNIKER|독일 전기 기자협회
+VERIFICATION|확인(검증)
+VERTICAL LADDER|수직사다리
+VERY HIGH FREQUENCY|초단파
+VESTIGIAL SIDE BAND|잔류 측파대
+VIDEO RESPONSE SYSTEM|화상 응답 시스템
+VISIBLE RADIATION|가시 방사
+VISUAL DISPLAY TERMINAL|영상 표시 단말장치
+VISUAL FLUORESCENT DISPLAY|가시형광 표시장치
+VISUAL INSPECTION|용접외관검사
+VOLTAGE|공칭 전압
+VOLTAGE|전압
+VOLTAGE CONTROLLED OSCILLATOR|전압제어 발진기
+VOLTAGE FREQUENCY CONVERTER|전압 주파수 변환기
+VOLTAGE STANDING WAVE RATIO|전압 정재파비
+VOLTS ALTERNATING CURRENT|교류 전압
+VOLUME UNIT|음량 단위
+WATER TIGHT|수밀
+WAVELENGTH DIVISION MULTIPLEXING|파장 다중 분할
+WEIGHT & CENTER OF GRAVITY|무게및무게중심
+WELD PROCEDURE SPECIFICATION|용접절차사양서
+WELDER QUALIFICATION TEST|용접자격시험
+WELDING|용접
+WIDE ADDED NETWORK|광역 통신망
+WINDAGE LOSS|풍손
+WINDING|몰드 변압기 권선
+WINDING|배전용 변압기 권선
+WOUND CORE|권철심
+WOUND CORE TRANSFORMER|권철심 변압기
+WOUND ROTOR|권선형 회전자
+WOUNDROTOR INDUCTION MOTOR|권선형 유도전동기
+YARD NEED DATE|도착요구일
+YTTRIUM ALUMINUM GARNET|이트륨 알루미늄 가닛
+YTTRIUM IRON GARNET|이트륨 철 가닛
+가돌리늄 갈륨 가닛|Godolinium Gallium Garnet
+가로조명|Street lighting
+가버너로프|GOVERNOR ROPE
+가변 인덕터|Adjustable Inductor
+가변 저항기|Adjustable Resistor,
+가변 전압 가변 주파수|Variable Voltage Variable
+가변 주파수 발진기|Variable Frequency
+가변 콘덴서|Adjustable Condenser,
+가스 차단기|Gas Circuit Breaker
+가스든 전구|Gas filled lamp
+가시 방사|Visible radiation
+가시거리|Luminous range
+가시형광 표시장치|Visual Fluorescent Display
+가용접|Tack Welding
+가이드레일|GUIDE RAIL
+가이드슈|GUIDE SHOE
+가정 자동화|Home Automation
+가청 주파수|Audio Frequency
+간섭|Interference
+간접조도|Indirect illuminance
+간접조명|Indirect lighting
+갈륨 비소|Gallium Arsenide
+감광|Reduced lumen output
+감도|Sensitiveness
+감도계수|Sensitivity
+감도의 시간 조정|Sensitivity Time Control
+강심 알루미늄 연선|Aluminum Cable Steel
+거어더|GIRDER
+건반 송수신 장치|Keyboard Send/Receive set
+건축화 조명|Strutual lighting;
+검사|INSPECTION
+검사요구|INSPECTION REQUIREMENT
+게이트 제어 스위치|Gate Controlled Switch
+게이트 턴오프 사이리스터|Gate Turn Off thyristor
+격벽|BULKHEAD
+경면 반사|Specular reflection
+경영 정보 시스템|Management Information
+계기용 변류기|Current Transformer
+계기용 변압기|Potential Transformer
+계면 반사|Interfacial reflection;
+계약 발효|CONTRACT AWARD
+계약 사양서|Purchase Specification
+계장|Instrumentation
+계전기|Relay
+고리퓨즈|FUSE
+고수준 트랜지스터 논리|High Level Transistor
+고압수은 램프|High pressure mercury
+고장 모드 효과 해석|Failure Mode Effect
+고전력 스위칭용 반도체|Insulated Gate Bipolar
+고전압 내압 시험|Hi-Pot Test
+고조파|Harmonic Wave
+고주파|High Frequency
+고주파 발전기 ( 高周波發電機 )|High frequency generator
+고출력 형광램프|High output fluorescent lamp
+고충실도|HighFidelity
+고휘도 방전램프|High intensity discharge
+공기 차단기|Air-blast Circuit Breaker
+공기식 계전기|AIR RELAY
+공기조화시스템|HEATING VENTILATION AND
+공동시청 TV|Cable TV, Community
+공인검사관|AUTHORIZED INSPECTOR
+공인전문기술자|REGISTERED
+공장 자동화|Factory Automation
+공진주파수|Frequency
+공칭 단면적|Cable
+공칭 변압비|Nominal Transformation Ratio
+공칭 전압|Voltage
+공칭 정격|Nominal rating
+과부하|Over Load
+과부하 계전기|Over Load Relay
+과부하측정장치|OVERLOAD WEIGHTING
+과전류|Over Current
+과전류 계전기|Over Current Relay
+과전류 접지 계전기|Over Current Ground Relay
+과전류 차단기|Over current breaker
+과전압 계전기|Over Voltage Relay
+관성 기준 장치|Inertial Reference System
+관성 항법 장치|Inertial Navigation System
+광 섬유관|Optical Fiber Tube
+광 스위치|Light Activated Switch
+광 천정|Luminous ceiling
+광 SCR|Light Activated Silicon
+광 2 안정 소자|Optical Bistable Device
+광기전 효과|Photovoltaic effect
+광도|Luminous intensity
+광도전 효과|Photoconductive effect
+광량|Quantity of light
+광막 글레어|Veiling glare
+광막반사|Veiling reflection
+광막휘도|Veiling luminance
+광방사|Optical rediation
+광속|Iuminous flux
+광속 발산도|Luminous exitance
+광속 유지율|Luminous flux maintenance
+광속법|Lumen method; flux method
+광역 통신망|Wide Added Network
+광원|Light source
+광원색|Light soure colour;light
+광전자 방출효과|Photoemis-sive effect
+광전자 집적 회로|Optoelectronics Integrated
+광전장치|PHOTO-ELETRIC DEVICE
+광전지|Photovoltaic cell
+광전효과|Photoelectfic effect
+광학식 마크 판독장치|Optical Mark Reader
+광학식 문자인식|Optical Character
+광학적 전달함수|Optical Transfer Function
+교류|ALTERNATING CURRENT
+교류 발전기 ( 交流發電機 )|AC generator
+교류 밸런서|AC Balancer
+교류 전동기|AC Motor
+교류 전압|Volts Alternating Current
+교류 정류자기 ( 交流整流子機 )|AC Motor
+교류 1 단 속도제어|AC SLNGLE SPEED CONTROL
+구내 자동 교환기|Private Automatic Branch
+구동쉬브|DRIVING SHEEVE
+구동체인|DRIVING CHAIN
+구동체인 SPROCKET|DRIVING CHAIN SPROKET
+구조 생산 계획|Hull Production Schedule
+구형광속계|Sphere
+국가 정보 시스템|National Information System
+국가인정시험소|Nationally Recognized
+국부적 전반조명|localized general lighting
+국부조명|local lighting
+국제 단위계|International System of Units
+국제 무선통신 자문 위원회|International Radio
+국제 방식 기술자 협회|National Association of
+국제 아마츄어 무선협회|International Amateur Radio
+국제 원자력 기관|International Atomic Energy
+국제 전기 제작 협회|National Electrical
+국제 전기 통신 연합|International
+국제 전기 통신 조약|International
+국제 전기표준 협회|International
+국제 전신전화 자문위원회|International Telegraph and
+국제 조명 위원회|Commission International de
+국제 주파수 등록 위원회|International Frequency
+국제 표준화 기구|International Organization
+국제 海事 위성 기구|International Marine
+국제 해상 기구|International Maritime
+군 부호 기록|Group Coded Recording
+권상기|HOISTING MACHINE
+권선형 유도전동기|Woundrotor Induction Motor
+권선형 회전자|Wound Rotor
+권철심|Wound Core
+권철심 변압기|Wound Core Transformer
+규소강판|Silicon Steel Plate
+균등확산면|Lambertian surface
+균형추|COUNTER WEIGHT
+극자외선|Extreme Ultraviolet radiation
+극초단파|Ultra High Frequency
+근거리 통신망|Local Area Network
+글로우 방전|Glow discharge
+글로우 스타터|Glow starter
+금속 산화막 반도체|Metal Oxide Semiconductor
+금속 산화막 반도체 전계효과|MOS FET
+금속 질화 산화막 반도체|Metal Nitride Oxide
+금속반도체 효과 트랜지스터|Metal Semiconductor
+기록계|Recorder
+기본 도면|BASIC DRAWING
+기본 풍속|BASIC WIND SPEED
+기상 충돌 방지 장치|Airborne Collision
+기전력|Electromotive Force
+기중 차단기|Air-blast Circuit Breaker
+기화성방청제|VAPOR PHASE INHIBITOR
+난조 방지 권선|Damper Winding
+내부 전계|Internal Field
+내전압|HIGH POTENTIAL TEST
+내철형 변압기|Core type Transformer
+냉음극 방전램프|Cold cathode discharge lamp
+네노디움 (5 인화 )|Neodymium Pentaphosphate
+네온 변압기|Neon Transformer
+네온관|Neon tube
+네온램프|Negative-glow lamp
+노르웨이 선급|DET NORSKE VERITAS
+뇌 서지|Lightning Surge
+뇌격|Lightning Stroke
+누설 리액턴스|Leakage Reactance
+누설 변압기|Leakage Transformer
+누설 인덕턴스|Leakage Inductance
+누설 자속|Leakage Flux
+누설 전류|Leakage Current
+누설 컨덕턴스|Leakage Conductance
+누전 차단기|Earth Leakage Breaker,
+늑골|FRAME
+능동 필터|Active Pass Filter
+다심|Conductor multi
+다이나모|Dynamic Model
+다중화|Multiplex
+다품종 소량 생산 시스템|Flexible Manufacturing
+단권 변압기|Auto Transformer
+단극 단투 개폐기|Single Pole Single Throw
+단면|SECTION
+단상 변압기|Singlephase Transformer
+단상 유도 전동기|Singlephase Induction
+단선|Conductor
+단심|Conductor single
+단자|Terminal Lug
+단접합 트랜지스터|UniJunction Transistor
+대규모 집적 회로|Large Scale Integration
+대역 압축|Band Compression
+대연|Conductor
+대지 위치 표시기|Ground Position Indicator
+더블 헤테로 접합|Double Heterostructure
+도전 전류|Conduction Current
+도전율|Conductivity
+도착요구일|YARD NEED DATE
+도체|Conductor
+도통 시험|Continuity Test
+도플러 효과|Doppler Effect
+독일 국가 규격|Deutsches Institut fur
+독일 전기 기자협회|Verband Deutsher
+돌극 계자|Salient Pole Field
+돌극기|Salient Pole Machine
+동기 리액턴스|Synchronous Reactance
+동기 발전기|Synchronous Generator
+동기 속도|Synchronous Speed
+동기 임피던스|Synchronous Impedance
+동기 전동기|Synchronous Motor
+동기 조상기|Synchronous phase
+동력 구동 압력 이완 밸브|Power Actuated Pressure
+동상 전압 제거비|Common Mode Rejection
+동축 케이블|Coaxial Cable
+둥근막대기 , 환봉 .|ROUND BAR
+등가 회로|Equivalent Circuit
+디이젤발전기|DIESEL ENGINE GENERATOR
+디지털 신호처리 장치|Digital Signal Processor
+디지털 아나로그 변환기|Digital Analog Converter
+디지털 전압계|Digital Voltmeter
+띠장|GIRTH
+래너|Light Activated Negative
+램프 전압|Lamp voltage
+레이저 도플러 속도계|Laser Doppler Velocimeter
+루멘|Lumen
+루프시험|LOOP TEST
+룩스|Lux
+리액터 시동 전동기|Reactor Start Motor
+릴리프 밸브|Relief valve
+마이크로 컴퓨터 개발|Microcomputer Development
+마킹 검사|Marking Inspection
+마킹검사|MARKING INSPECTION
+망 제어 장치|Network Control Unit
+매 인치 당 자속 반전수|Flux Changes per Inch
+맥동 전동기|Ripple Current Motor
+맥동 전류|Pulsating Current
+맥동율|Ripple Factor
+맥스웰 브리지|Maxwell Bridge
+맥스웰의 전자방정식|Maxwell's Electromagnetic
+면동시험|CAUSE & EFFECT
+모노리식 마이크로파 집적회로|Monolithic Microwave IC
+모타제어반절연저항시험|MOTOR CONTROL CENTER
+몰드 변압기 권선|Winding
+몰드 변압기 코어|Transformer Cores
+몰드 변압기의 특징|Transformer
+무게 중심|CENTER OF GRAVITY
+무게및무게중심|WEIGHT & CENTER OF
+무변성 출력|Output Transformerless
+무부하 포화전압|Noload Saturation Voltage
+무부하손|Noload Loss
+무선 방위 측정기|Radio Direction Finder
+무선 유도계|Radio Influence Field
+무선 자기 방위 지시장치|Radio Magnetic Indicator
+무선 주파수|Radio Frequency
+무정전 전원장치|Uninterruptible Power Supply
+무정전 전원장치의 한 방식|EngineMagnet
+무효 전력|Reactive Power
+무효 전류|Reactive Current
+문서관리|Plant Design General System
+미국 국제 표준 협회|American National Standard
+미국 기계 기술자 협회|AMERICAN SOCIETY OF
+미국 석유 협회|AMERICAN PETROLEUM
+미국 선급 협회|AMERICAN BUREAU OF
+미국 연방 통신 위원회|Federal Communication
+미국 용접 협회|AMERICAN WELDING SOCIETY
+미국 재료시험 협회|AMERICAN SOCIETY FOR
+미국 전자 공업회|Electronic Industrial
+미국 철강 협회|AMERICAN IRON AND STEEL
+미국 철구조물 건설 협회|AMERICAN INSTITUTE OF
+미국 화재보험협회|Underwriters Laboratories
+미분 위상|Differential Phase
+미분 이득|Differential Gain
+미분 이득 / 미분 위상|Differential
+미스 IC|Metal Insulated
+박막 트랜지스터|Thin Film Transistor
+반건식세정기|SEMI-DRYER ABSORBER
+발광 다이오드|Light emitting diode
+발라스트|BALLAST
+발전기|POWER GENERATOR
+발전기의 용도|Generator
+발주 의향서|Letter of Intent
+발진 레지스터|Operating Register
+방사선투과검사|RADIOGRAPH TEST
+방오 도료|ANTI FOULING PAINT
+방전 가공|Electrical Discharging
+방폭전기기기 최고표면온도|Explosion - Temp
+방폭전기기기의 구조별표시방법|Explosion
+방폭조명기구|Luminaire for explosive
+방폭형|Explosion prove
+방폭형 전기기기 표시기호|Explosion - Grade
+배관 계장 계통도|Piping and Instrument
+배관설치도|PIPE ISOMETRIC DRAWING
+배선용 차단기|No Fuse Breaker
+배수공|DRAIN HOLE
+배전 변압기|Distribution Transformer
+배전 변전소|Distribution Substation
+배전 자동화 시스템|Automation Distribution
+배전반|Switchboard, Switchgear
+배전용 변압기|Transformer
+배전용 변압기 권선|Winding
+배전용 변압기 코어|Core
+배전자동화 시스템|Distribution Automation
+버너조정시스템|BURNER MANAGEMENT
+범용 시스템 시뮬레이터|General Purpose System
+범용 시험 장치|General Purpose Test
+범용 인터페이스 버스|General Purpose Interface
+범용 지구 측위 시스템|Global Positioning System
+변압기 ( 變壓器 )|Transformer
+변전소|Electric Power Substation
+보상기|Compensating Machine
+보일러플랜트자동운전제어시스템|DISTRIBUTED CONTSOLED
+보호 계전기|Protective Relay
+보호비|Protective Ratio
+복권 발전기|Compound Generator
+복권 전동기|Compound Motor
+복합연선|Conductor
+부가가치 통신망|Value Added Network
+부동 게이트 증폭기|Floating Gate Amplifier
+부식 방지 도료|ANTI CORROSIVE PAINT
+부식방지|Impressed Current Cathodic
+부적합보고서|NONCONFORMITY REPORT
+부하 시험|Load Test
+부하 용량|Load Capacity
+부하시 전압조정기|On Load Voltage Regulator
+부하시 탭 전환장치|On Load Tap Changer
+부하율|Load Factor
+부호 분할 다중 접속|Code Division Multiple
+부호기와 복호기|COderDECoder
+분권 발전기|Shunt Generator
+분권 발전기 ( 分捲發電機 )|Shunt generator
+분권 전동기|Shunt Motor
+분기 개폐기|Breaker
+분기 증폭기|Bridging Amplifier
+분산 제어 시스템|Distributed Control System
+분자선 에피탁시|Molecular Beam Epitaxy
+분출방지장치|blow out prevention
+불안전용융|INCOMPLETE FUSION
+불평형 부하|Unbalanced Load
+불평형 전류|Unbalanced Current
+불평형 회로|Unbalanced Circuit
+브라켓트|BRACKET
+브리지형 계전기|Bridge type Relay
+블랭크지름|BLANK DIAMETER
+블록|Block
+비 복귀기록|Non Return to Zero
+비 제로 복귀 반전|Non Return to Zero Inverted
+비돌극기|Nonsalient Machine
+비동기 조상기|Asynchronous phase
+비동기기|Asynchronous Machine
+비상 차단|Emergency Shutdown
+비상용 위치표시 무선장치|Emergency Position
+비스무트 규소 산화물|Bismuth Silicon Oxide
+비점 주사 장치|Flying Spot Scanner
+비티엘|Balanced Transformerless
+비파괴검사|NON DESTRUCTIVE TEST
+비포장퓨즈|FUSE
+빌딩 자동화 시스템|Building Automation System
+사모스|Stacked Avalanche
+사무 자동화|Office Automation
+사양불일치승인요청서|VENDOR DEVIATION
+사양서|SPECIFICATION
+사용주의설계사양서|USER'S DESIGN
+사이리스터 모터|Thyristor Motor
+사이리스터 인버터|Thyristor Inverter
+사이클릭 디지털 정보 전송|Cyclic Digital Transmission
+산업공학|Industrial Engineering
+상당 방열 면적|Equivalent Direct Radiation
+상보 트랜지스터 논리|Complementary Transistor
+상세도면|DETAIL DRAWING
+상세작업요령서|DETAILED ASSEMBLY
+상호 유도|Mutual Induction
+상호 임피던스|Mutual Impedance
+생산소요요구일|PRODUCTION NEED DATE
+생활 무선|Citizen Band transceiver
+서까래도리|PURLIN
+서미스터|Thermister
+서미스터 전력계|Thermister Wattmetter
+서지 발생기|Surge Generator
+서지 임피던스|Surge Impedance
+서지 전압|Surge Voltage
+서지 흡수기|Surge Absorber
+선간 전압|Line Voltage
+선급 NCR|Class Comment Item
+선로 상수|Line Constant
+선로 전류|Line Current
+선심|Conductor
+선저 밑바닥|Double Bottom
+선적|LOAD-OUT
+선주 요구 사항|Client Requirement Item
+설치도|ISOMETRIC DRAWING
+섬광|Flash
+소 시상수 회로|Fast Time constant Circuit
+소선|Conductor
+소호각|Angle of Extinction
+송신|Transmit
+송신 요구|Request To Send
+송전 손실|Transmissionloss
+수밀|WATER TIGHT
+수직사다리|VERTICAL LADDER
+순방향 오류 정정법|Forward Error Correction
+순시 자동 이득 조절|Instantaneous Automatic
+스위치|Limit Switch
+스커트길이|LENGTH OF SKIRT PART
+스케줄|SCHEDULE
+스퀴드|Super Conducting Quantum
+스펙트럼 [ 방사의 ]|Spectrum
+슬립 링|Collector Ring, Slip Ring
+승인|APPROVAL
+승인 제출도|Issue for Approval
+시간축 교정장치|Time Base Correction
+시공인정 기록서|Procedure Qualification
+시동전극|Starting electrode
+시동전압|Starting voltage
+시분할 다원 접속|Time Division Multiple
+시분할 다중방식|Time Division Multiplex
+시분할 방식|Time Sharing System
+시분할 방향 제어 전송방식|Time Compression
+시정 조치|Corrective Action
+시정 조치 요구서|Corrective Action Request
+실리콘 제어 스위치|Silicon Controlled Switch
+실리콘 제어 정류기|Silicon Controlled Rectifier
+실시간 처리기능|Real Time Control Facility
+실험실 자동화|Laboratory Automation
+실효 등방 방사 전력|Effective Isotropically
+실효 방사 전력|Effective Radiation Power
+실효값|Root Mean Square value
+심구 농형 유도 전동기|Deepslot Squirrelcage
+심선|Conductor
+심연선|Conductor
+심전도|Electrocardiogram
+아나로그 디지털 변환기|Analog Digital Converter
+아연도금 .|GALVANIZED
+아이솔레이션 증폭기|Isolation Amplifier
+안전 이완 밸브|Safety Relief Valve
+안전변|Safety Valve
+암페어|Ampere
+암페어의 오른 나사의 법칙|Ampere's Righthanded
+액정 표시 장치|Liquid Crystal Display
+약전류회로|Circuit
+양자 전자기학|Quantum Electro Dynamics
+어큐뮬레이터|ACCUMULATOR
+억세스홀|Access Hole
+여자 전류|Exciting Current
+여자기|Exciter
+역률|Power Factor
+역상 계전기|Negativephase Relay
+역상분|Negativephasesequence
+역지 밸브|Check Valve
+연삭|Grinding
+연선|Conductor
+연속 정격|Continuous rating
+열자극 전류|Thermally Stimulated Current
+열전용보일러|HEAT ONLY BOILER
+영국 선급 협회|Lloyd's Register of
+영국표준협회|British Standard Institution
+영상 표시 단말장치|Visual Display Terminal
+예방조치요구서|Prevate Action Requirement
+온도 계전기|Temperature Relay
+온도 상승|Temperature Rise
+와전류|Eddy Current
+완전용입용접|FULL PENETRATION
+왜율|Distortion Factor
+외부심사지적사항|NON CORFORMITY NOTE
+외철형 변압기|Shell type phase
+용량 단위|Pico Farad
+용접|WELDING
+용접사자격인정기록서|RECORD OF WELDER
+용접외관검사|VISUAL INSPECTION
+용접자격시험|WELDER QUALIFICATION
+용접절차사양서|WELD PROCEDURE
+원격 조정반|Remote Terminal Unit
+원격감시제어장치|SUPERVISORY CONTROL
+위상 변조|Phase Modulation
+위상 편이 방식|Phase Shift Keying
+위상차|Phase Difference
+위성 태양 발전|Spread Solar Power
+위임장|POWER OF ATTORNEY
+유기 광도전체|Organic Photoconductive
+유기 금속 CVD 법|Organometallic Compound
+유도 기전력|Induced Electromotive
+유도 전동기|Synchronous Induction
+유도 전동기 , 적분 모터|Induction Motor, Integration
+유도 전류|Induced Current
+유럽전기기기 통일 안전 규격|Commission Internationale
+유리섬유 강화 플라스틱|Fiber glass Reinforced
+유입 차단기|Oil Circuit Breaker
+유자격용접사명단|QUALIFIED WELDER LIST
+유전손|Dielectric Loss
+유전체|Dielectric substance
+유한요소분석법|FLINITE ELEMENT METHOD
+유효 전력|Active Power
+유효전력단위|Kilowatt
+음극선관|Cathode ray tube
+음량 단위|Volume Unit
+음성 응답 장치|Audio Response Unit
+응력제거 후열처리|POST WELD HEAT
+응용 주문형 집적회로|Application Specific IC
+의용 전자공학|Medical Electronics , Micro
+의장|Outfitting
+이득 초과 온도|Gain over Temperature
+이미터 트랜지스터 논리회로|Emitter Coupled Transistor
+이상 지락 검출 계전기|Grounding Short Circuit
+이완변|Relief Valve
+이트륨 알루미늄 가닛|Yttrium Aluminum Garnet
+이트륨 철 가닛|Yttrium Iron Garnet
+이행보증|PERFORMANCE(BANK)GUARA
+인공 지능|Artificial Intelligence
+인산 2 수소 칼륨|Kalium Dihydrogen
+일본 공업 규격|Japanese Industrial
+일본전선 공업협회|JCS
+일정관리|Plant Design Control
+임계 온도 저항기|Critical Temperature
+임계 융합 주파수|Critical Fusion Frequency
+임계 제동 외부저항|Critical Damping Resistance
+임피던스|Impedance
+입고검사체크리스트|RECEIVING INSPECTION
+입력과 역률 ( 전동기 )|Motor
+입찰|BID
+입찰 보증서|BID BOND
+입출력 제어 시스템|Input Output Control
+자기 방향 지시기|Magnetic Direction Indicator
+자기 버블 기억장치|Magnetic Bubble Memory
+자기 잉크 문자 판독장치|Magnetic Ink Character
+자기 저항|Reluctance
+자기지지형 가공 케이블|Self Supporting cable
+자기탐상검사|MAGNETIC PARTICLE TEST
+자동 경로 선택|Automatic Route Selection
+자동 방위 측정기|Automatic Direction Finder
+자동 세밀 조정|Automation Fine Tuning
+자동 송수신 장치|Automatic Send/Receive
+자동 송신기|Transmitter Distributor
+자동 열차 제어 , 자동 교통 제어|Automatic Train Control,
+자동 오자 정정 장치|Active Pass Filter
+자동 이득 제어|Automation Gain Control
+자동 전압 조정기|Automatic Voltage Regulator
+자동 주파수 제어|Automation Frequency
+자동 휘도 조절|Automatic Brightness
+자동 휘도 콘트라스트 조절|Automatic Brightness and
+자재|MATERIAL
+자재구매요구서|PURCHASE ORDER
+자재불출 청구서|BILL OF MATERIAL
+자재주문서|PURCHASE ODER
+자주검사|SELF INSPECTION
+작동 시험|Function Test
+작업관리|Plant Production
+작업량|Block Division
+작업시방서|DETAILED ASSEMBLY
+작은보|BEAM
+잔류 측파대|Vestigial Side Band
+저잡음 증폭기|Low Noise Amplifier
+저주파|Low Frequency
+저항 단위|MEGOHM
+저항 콘덴서 트랜지스터|Resistor Condenser
+저항 트랜지스터 논리회로|Resistor Transistor Logic
+적외선|Infrared
+적응 델타 변조|Adaptive Delta Modulation
+적응 차등 펄스 부호 변조방식|Adaptive Differential Pulse
+전계 강도|Field Strength
+전계 효과 트랜지스터|Field Effect Transistor
+전기 전자 학회|Institute of Electrical and
+전기자 반작용|Armature Reaction
+전동기 보호방식|Motor protection
+전동기 Y- △기동방식|Motor
+전동기용 퓨즈|FUSE
+전동기의 원리|Motor
+전력|Electric Power
+전력량|Electric Energy
+전력량단위|Kilowatt Hour
+전력용 반도체|Insulated Gate Bipolar
+전류 논리 모드|Current Mode Logic
+전류 정재파 비|Current Standing Wave Ratio
+전류 - 공기압 전환기 .|Current to Pneumatic
+전류제한 負 저항|Current Controlled Negative
+전사적품질경영|TOTAL QUALITY
+전선|Cable
+전선형태|Metal Clad
+전속|Electric Flux)
+전송제어|Transmission Control
+전송제어장치|Transmission Control Unit
+전압|Voltage
+전압 정재파비|Voltage Standing Wave Ratio
+전압 주파수 변환기|Voltage Frequency
+전압제어 발진기|Voltage Controlled
+전위|Electric Potential
+전자 도전작용 (2 차 )|Secondary Electron
+전자 발광|Electroluminescence
+전자 빔 가공|Electron Beam Machining
+전자 상거래|Electronic Commerce
+전자 스핀 공명|Electron Spin Resonance
+전자 유도|Electromagnetic Induction
+전자 유체 역학 발전|Magneto Hydrodynamics
+전자 집중 엔진제어 시스템|Electronic Concentrated
+전자기 방해|Electromagnetic
+전자력|Electromagnetic Force
+전자장|Electromagnetic Field
+전자적 적합성|Electromagnetic
+전착 도료|ELECTRO COATINGS
+전하 결합 소자|Charge Coupled Device
+전하 전송 소자|Charge Transfer Logic
+전해 콘덴서|Electrolytic Condenser
+절연 게이트 FET|Insulated Gate FET
+절연 기판상의 반도체|Semiconductor On Insulator
+절연 전선|Insulation Cable
+절연 철심 변압기|Insulating Core Transformer
+절연 허용 온도|Insulation Temperature
+절연 B 종|Insulation
+절연 C 종|Insulation
+절연 F 종|Insulation
+절연내력|High Potential Test
+절연저항시험|INSULATION RESISTANCE
+절연전선|Insulation cable
+접지|Ground
+접지선|Earth; Grounding
+접합형 FET|Junction FET
+정 각속도|Constant Angular Velocity
+정 선속도 방식|Constant Linear Velocity
+정류자|Commutator
+정속 구동장치|Constant Speed Drive unit
+정수 계획법 , 정보 제공자|Integer Programming,
+정전 용량|Capacity
+정전 유도|Static Induction
+정전기|Static Electricity
+정전압 정주파 전원|Constant Voltage Constant
+정전유도형 트랜지스터|Silicon Intensifier Target
+정현파|Sine Wave
+제동 계수|Dumping Factor
+제동권선|Damper Winding
+제어반|Control Panel
+제어회로|Control Circuit
+제작순서도|FABRICATION SEQUENCE
+제작자료기록서|MANUFACTURING DATA
+제작자설계보고서|MANUFACTURER'S DESIGN
+제조 자동화 프로토콜|Manufacturing Automation
+제조공정계통도|PROCESS FLOW DIAGRAM
+조도단위|Illumination
+조작 개폐기|Breaker
+조타기|STEERING GEAR
+종절선|BUTTOCK LINE
+종합 정보 통신망|Integrated Services Digital
+종합생산보전|TOTAL PRODUCTIVE
+종합품질관리|TOTAL QUALITY CONTROL
+주개폐기|Main Circuit Breaker
+주문자 상표 부착 생산자|Original Equipment
+주배선반|Main Distribution Frame
+주요성과지표|Key Performance Indicator
+주입형 레이저 다이오드|Injection laser Diode
+주파수|Hertz
+주파수 변조|Frequency Modulation
+주파수 분할 다원 접속|Frequency Division
+주파수 분할 다중 통신|Frequency Division
+주파수 편이 방식|Frequency Shift Keying
+중간 배선판|Intermediate Distributing
+중간 주파 트랜스|Intermediate Frequency
+중간 주파수|Intermediate Frequency
+중규모 지역 통신망|Medium Area Network
+중도 도장 검사|BEFORE 3RD COAT
+중성선|Neutral
+중심간|CENTER TO CENTER
+중안 제어실|Central Control Room
+중앙 급전 시스템|Energy Management System
+중요도계수|IMPORTANCE FACTOR
+중파|Medium Frequency wave
+지능 시분할 다중화|Intelligent Time Division
+지방족탄화수소용제|ALIPHATIC HYDROCARBONS
+지상 관제 진입 장치|Ground Control Approach
+지상 접근 경보 장치|Ground Proximity Warning
+지역 급전 시스템|Supervisory Control & Data
+지연시간|Time Delay
+지지물|Support
+직결 반전 디바이스|Leadless Inverted Device
+직교 진폭 변조|Quadrature Amplitude
+직류|Direct Current
+직류 발전기 ( 直流發電機 )|Direct current generator
+직류 전동기|DC Motor
+직접 디지털 제어|Direct Digital Control
+직접 수치 제어|Direct Numerical Control
+직접 주입 논리 회로|Integrated Injection Logic
+진공 개폐기|Vacuum Loadbreaker Switch
+진공 인터럽터|Vacuum Interrupter
+진공 전기로|Vacuum Electric Furnace
+진공 주입 ( 함침 )|Vacuum Pressure
+진공 차단기|Vacuum Circuit Breaker
+진공 함침|Vacuum Pressure
+진공관 전압계|Vacuum Tube Volt Meter
+진폭 변조|Amplitude Modulation
+진폭 위상 변조|Amplitude Shift Keying
+진행파관|Travelling Wave Tube
+집합연선|Conductor
+차단기|Metal Clad Circuit Breaker
+차동 변압기|Differential Transformer
+차동 복권|Differential Compound
+차량 위치 모니터링 시스템|Automatic Vehicle
+차분위상 시프트 키잉|Differential Phase Shift
+차분펄스 부호 변조방식|Differential Pulse Code
+차폐층|Cable
+찬성 표면파|Surface Acoustic Wave
+천공 카드 시스템|Punch Card System
+철손|Core Loss
+철손 전류|Coreloss Current
+청수탱크|FRESH WATER TANK
+초기 프로그램 적재기|Initial Program Loader
+초단파|Very High Frequency
+초음파검사|ULTRASONIC TEST
+최고 사용 주파수|Maximum Usable Frequency
+최저 사용 주파수|Lowest Usable Frequency
+최적 사용 주파수|Frequency of Optimum
+최적 주파수 사용|Optimum Working Frequency
+최종검사합격증|INSPECTION RELEASE CERT.
+최종도장검사|POINT FINAL INSPECTION
+출력 ( 전동기 )|Motor
+출력 변성기|Out Put Transformer
+출력 트렁크|Output Trunk
+충실형 케이블|Cable
+취부검사|FIT-UP INSPECTION
+칸델라|Candela
+칼륨 탄탈륨 니오브|Kalium Tantalum Niobate
+캐나다 규격|Canadian Standards
+컴퓨터|Computer Aided Learning
+컴퓨터 수치 제어|Computer Numerical Control
+컴퓨터를 이용한 검사|Computer Aided Testing,
+컴퓨터를 이용한 설계|Computer Aided Design
+컴퓨터를 이용한 엔지니어링|Computer Aided Engineering
+컴퓨터를 이용한 제조|Computer Aided
+컴퓨터를 이용한 학습|Computer Aided Instruction
+컴퓨터에 의한 통합 생산|Computer Integrated
+케이블|Cable
+케이블 스케줄|Cable Schedule
+코드|Code
+코밍|Coaming
+코히어런트 발진기|Coherent Oscillator
+콘덴서|Condenser
+콘덴서 모터|Capacitor Motor
+퀴리 온도|Curie Temperature
+퀴리점|Curie Point
+클램프 회로|Clamp Circuit
+타려 발전기|Separately Excited
+타려 전동기|Separately Excited Motor
+탄소섬유 강화 플라스틱|Carbonfiber Reinforced
+탄젠트라인|TANGENT LINE
+탄화 규소|Silicon Carbide
+탈황설비|FUEL GAS
+탑재|ERECTION
+터빈 발전기|Turbine generator
+템필스틱|TEMPERATURE INDICATING
+투자율|Magnetic Permeability
+트레이셔 빌리티|Traceability
+특성임피던스|Impedence
+파장 다중 분할|Wavelength Division
+패러데이 법칙|Faraday's Law
+펄스 부호 변조|Pulse Code Modulation
+펄스 시간 변조|Pulse Time Modulation
+펄스 위상 변조|Pulse Phase Modulation
+펄스 주파수 변조|Pulse Frequency
+펄스 지속 변조|Pulse Duration Modulation
+펄스 진폭 변조|Pulse Amplitude Modulation
+펄스 폭 변조|Pulse Width Modulation
+펄스수 변조|Pulse Number Modulation
+평균 고장 간격 시간|Mean Time Between Failure
+평균 고장 시간|Mean Time To Failure
+평균 동작 시간|Mean Up Time
+평균 수리 시간|Mean Time To Repair
+평균 오류시간|Mean Time between Error
+평균값|Rroot-mean-square
+평형강|Flat Bar
+폐기물재생연료|REFUSE DERIVED FUEL
+폐쇄회로 TV|Closed Circuit TV
+포스트|POST
+포장퓨즈|FUSE
+표준도|Standard Drawing
+표준신호 발생기|Standard Signal Generator
+품질 보증 시스템|Quality Assurance System
+품질관리|QUALITY CONTROL
+품질보전|MAINTENANCE TO QUALITY
+품질보증규정|QUALITY ASSURANCE
+품질보증절차서절차로구성되어있음 .|QUALITY ASSURANCE
+풍손|Windage Loss
+퓨즈 -A 종|FUSE
+퓨즈 -B 종|FUSE
+프랑스 규격협회|Association Francaise de
+프랑스 선급 협회|BUREAU VERITAS
+프레임 접지|Frame Ground
+프렛폼|Platform
+프로젝트|PROJECT
+프로젝트관리|PROJECT MANAGEMENT
+프로젝트엔지니어|PROJECT ENGINEER
+프린트 배선 회로용 기판|Printed Circuit Board
+플레밍의 왼손법칙|Fleming's Lefthand Rule
+피상 전력|Apparent Power
+피상 전력단위|Kilovolt Ampere
+피에조 효과|Piezo Effect
+피치|Pitch
+피크 역전압|Peak Inverse Voltage
+필렛용접|FILLET WELDING
+필터 [ 광학 ]|Filter
+하중계수|LOAD FACTOR [Cf]
+한국 선급 협회|Korean Register of Shipping
+한국공업규격|Korean Standard
+한국형 배전자동화 시스템|Korea Distribution
+한류퓨즈|FUSE
+핫라인|HOT LINE
+해상고박|SEA FASTENING
+해상열병합 설비|BARGE MOUNTED POWER
+해수 흡입수|Sea Chest
+해양사업|OFFSHORE PROJECT
+핵 자기 공명|Nuclear Magnetic Resonance
+허용|CONCESSION
+헤테로바이폴라 트랜지스터|Hetero Bipolar Transistor
+현지검사|SOURCE INSPECTION
+협개선용접|NARROW GAP WELD'G
+협력회사|SUB-CONTRACTOR
+혼성 집적 회로|Hybrid IC
+홀 효과|Hall Effect
+화기가스 감지 시스템|Fire & Gas Detection
+화상 응답 시스템|Video Response System
+화스너|FASTENER
+화염관찰구멍|PEEP HOLE [P.H]
+화염크리닝|FLAME CLEANING
+화학 기상 성장법|Chemical Vapor Deposition
+확률 오차원|Circular Error Probable
+확인 ( 검증|VERIFICATION
+환급보증|ADVANCE PAYMENT (BANK)
+황산 트리글리신|Triglycine Sulfate
+회생 제동|Regenerative Braking
+회선 감시 장치|Communication Deck
+회선 제어 유닛|Line Control Unit
+회전 자계|Rotating Field
+회전속도 슬립 ( 전동기 )|Revolution per min
+회전자|Rotor
+효율 ( 전동기 )|Motor
+후도막도장|HIGH BUILD COATING
+후렌지|FLANGE [FLG]
+후진파 발진관|Backward Wave Oscillator
+휘도|Brightness
+흑피|MILL SCALE
+흘림도장|FLOW COATING
+흡착점도|SPRAYING VISCOSITY
+희석제|DILUENT
