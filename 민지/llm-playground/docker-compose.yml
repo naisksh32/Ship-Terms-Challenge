@@ -1,0 +1,49 @@
+version: "3.9"
+
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    restart: unless-stopped
+    ports:
+      - "11434:11434"
+    environment:
+      - OLLAMA_HOST=0.0.0.0
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    runtime: nvidia
+    volumes:
+      - ollama_models:/root/.ollama  # 모델 캐시 공유
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile.app
+    container_name: llm-app
+    restart: unless-stopped
+    depends_on:
+      - ollama
+    ports:
+      - "12321:12321"
+    environment:
+      - HF_HOME=/data/hf
+      - TRANSFORMERS_CACHE=/data/hf/transformers
+      - OLLAMA_HOST=ollama
+      - OLLAMA_PORT=11434
+      - HF_MODEL_ID=TinyLlama/TinyLlama-1.1B-Chat-v1.0
+      - OLLAMA_MODEL=qwen2.5:1.5b
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    runtime: nvidia
+    volumes:
+      - hf_cache:/data/hf
+
+volumes:
+  hf_cache:
+  ollama_models:
