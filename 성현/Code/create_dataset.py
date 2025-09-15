@@ -1,3 +1,5 @@
+# csv 데이터셋으로 10,000개의 예제를 만드는 코드
+
 import pandas as pd
 import random
 import re
@@ -9,7 +11,7 @@ def create_training_data():
     10,000개의 학습 데이터셋(JSONL 형식)을 생성합니다.
     """
     try:
-        df = pd.read_csv('eng_word.csv', delimiter='|')
+        df = pd.read_csv('eng_word_fixed.csv', delimiter='|')
     except FileNotFoundError:
         print("오류: 'eng_word.csv' 파일을 찾을 수 없습니다.")
         print("스크립트와 동일한 폴더에 파일이 있는지 확인해주세요.")
@@ -56,6 +58,7 @@ def create_training_data():
         "{terms}의 정확한 의미를 아는 사람 있나요?",
         "매뉴얼에 {terms} 관련 내용이 어디에 있는지 찾아봐 주세요.",
         "이 부품은 {terms} 역할을 수행합니다."
+
         '''
         추가 형식들 -> 실제 test시 활용
         ,
