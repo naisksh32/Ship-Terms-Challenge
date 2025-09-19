@@ -1,7 +1,7 @@
 영단어|한국단어|설명
 (Bulbous)Bow Warning Light|구상선수 주의등|구상선수가 있음을 알리기 위하여 켜는 선수등으로 적색 또는 청색이 있음
 0.50% Sulphur limit|연료유 0.5% 황 함유량 규제|0.50% Sulphur limit under MARPOL Annex VI, 선박에서 배출되는 대기오염물질 중 황산화물(SO 2 및 SO 3 )의 배출량 감축을 위해 기존 중유(3.5% S 이하) 대신 황 함유량 0.50% 이하 연료를 사용하는 규제로 2020년부터 시작된 글로벌 규제임 < 출처: DNV-GL >
-2|2세대 비손상 복원성|nd
+2nd GENERATION INTACT STABLILITY|2세대 비손상 복원성|
 2010 HNS Protocol|2010년 위험 유해물질의 해상운송에 따른|‘위험·유해 물질의 해상운송에 따른 손해배상책임에 관한 국제협약’(International Convention on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea, 1996; ‘HNS 협약’)은 국제해사기구의 법률위원회에서 1980년 최초로 논의된 뒤 1996년 외교 회의에서 채택되었음. HNS 협약은 유류, LNG, LPG 및 산적 고체·액체·가스 위험물 등 다양한 위험 유해물질의 해상운송 과정에서 사고가 발생한 경우 선박소유자 및 보험사가 1차로 보상하고, 2차로 HNS 기금이 보상하는 2단계 체계를 마련하여, 대형사고가 발생하더라도 피해자들에게 충분하고 신속하게 보상할 수 있도록 규정하고 있음. 그러나 HNS 협약이 발효되기 위해서는 12개국이 비준해야 하며 물동량이 1년 일반회계 기준 4천만 톤을 넘어야 하지만 다수 국가의 의견이 하나로 수렴되지 않아 발효 요건이 충족되지 않았고 결국 1996년 HNS 협약은 발효되지 않았음. 이후 법률위원회에서 각국의 의견을 수렴하여 기존 HNS 협약을 개정하는바, 이 개정된 의정서의 명칭이 ‘1996년 위험·유해 물질의 해상운송에 따른 손해배상책임에 관한 국제협약의 2010년 의정서 (Protocol of 2010 to Amend the International Convention on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea, 1996; HNS PROT 2010)이며 2020년 6월 기준 아직 발효되지 않았음
 2010 Manila Amendments|2010 마닐라 개정|2010년 6월에 필리핀 마닐라에서 열린 외교 회의에서 채택되었 으며, 선원들이 기술적으로 진보된 선박을 운영하기 위해 선원을 교육하고 인증하는데 필요한 글로벌 표준을 마련하는 목표로 협약 및 각 규칙에 대하여 변경 사항을 포함
 2011 Guidelines for the control and management of ship’s biofouling to minimize the transfer of invasive aquatic species|2011 선박 생물오손 관리 지침서|선박의 생물오손을 통한 수중생물의 이동을 최소화하기 위해 선체와 생물부착에 취약한 구역 등을 관리하기 위한 지침
@@ -79,7 +79,7 @@ ALLOY STEEL TUBES FOR STRUCTURAL PURPOSE|구조용 합금강 강관|
 ALTERNATE CURRENT|교류|
 ALTERNATING CURRENT|교류|
 ALUMINUM CABLE STEEL REINFORCED|강심 알루미늄 연선|
-AM ( Amplitude Modulation)|진폭 변조|
+AM (Amplitude Modulation)|진폭 변조|
 AMERICAN BUREAU OF|미국 선급 협회|
 AMERICAN BUREAU OF SHIPPING|미국 선급 협회|
 AMERICAN INSTITUTE OF|미국 철구조물 건설 협회|
@@ -173,10 +173,10 @@ AUXILIARY CONTROL CONSOLE|보기 제어 콘솔|
 AUXILIARY ENGINE|보조 기관|
 AUXILIARY MACHINERY ROOM|보조 기관실|
 AVR (Automatic Voltage Regulator)|자동전압 조정기|
-AWB (Airway Bill ) No.|항공화물수취증번호|
+AWB (Airway Bill) No.|항공화물수취증번호|
 AWES(The Association of Western European Shipbuilders)|서유럽 조선공업협회|
 AWG(American Wire Gauge)|미국 전선번호 규격|
-AWS ( American Welding Society)|미국 용접협회|
+AWS(American Welding Society)|미국 용접협회|
 AWWF(Australian Waterside Workers' Federation)|오스트레일리아 연안(沿岸)노동자연합|
 Abaft|선미(船尾)방향으로|
 Abandoned, Lost or otherwise Discarded Fishing Gear (ALDFG)|버려지거나 유실되는 폐어구|어업 활동 중 버려지거나(abandoned) 유실(lost) 또는 고의로 버려지는(discarded) 폐어구를 총칭. 해양 플라스틱 쓰레기의 상당 부분이 ALDFG로 구성되어 있어 이에 대한 국제적 차원의 대응이 진행되고 있음
@@ -5194,7 +5194,7 @@ PHOTOVOLTAIC CELL|광전지|
 PHOTOVOLTAIC EFFECT|광기전 효과|
 PI (Performance Index)|성과지표|국제해사기구(IMO)는 총회에서 채택된 7개 전략 방향(Strategic Direction 1~7)과 관련, 향후 이에 관한 개선사항을 식별하고 정량적인 이행 정도를 평가하기 위해 40개의 성과지표(PI)를 선정
 PI (pressure Indicator)|압력 지시기|
-PIC ( Press. Indicating Controller)|압력지시 제어기|
+PIC (Press. Indicating Controller)|압력지시 제어기|
 PICO FARAD|용량 단위|
 PIEZO EFFECT|피에조 효과|
 PILOT HOUSE|조타실|
@@ -5268,7 +5268,7 @@ PSC|항만국통제|PSC(Port State Control), 외국 선박에 의한 해양사�
 PSC (Port State Control)|항만국(港灣國) 통제|
 PSC White List PSC Gray List PSC Black List|항만국통제 화이트리스트|항만국통제 기준 이행 여부에 따라 기항하는 선박의 선적국을 화이트리스트, 그레이리스트, 블랙리스트로 구분함. 블랙리스트 국가는 항만국통제 기준을 가장 많이 위반한 국가임. 2015년, 우리나라는 Paris MoU 평가에 의거 화이트리스트에서 그레이리스트로 단계가 하락된 이력이 있음.
 PSCO|항만국통제관|PSCO(Port State Control Officer), 항만국통제(PSC) 검사를 수행할 수 있는 권한을 부여받은 항만 당국의 점검관으로 전 세계적으로 통상 항만 당국의 공무원이 수행하고 있음. 우리나라의 경우 지방해양수산청에서 PSC 업무를 담당함
-PSI ( Pounds per Square Inch)|압력단위 ( 1psi =1/14.22kg/cm2)|
+PSI (Pounds per Square Inch)|압력단위 ( 1psi =1/14.22kg/cm2)|
 PSMA|항만국 조치협정|PSMA (Port State Measures Agreement), PSMA는 불법, 비보고, 비규제 어업(IUU 어업) 의심 선박에 대한 입항 전·후 검사를 통해 IUU 어업 선박의 입항, 항만서비스의 사용 등을 제한하는 조치에 관한 협정임
 PSPC|보호도장 성능 기준|Performance Standard for Protective Coating (PSPC) 선체 부식을 방지하여 유지보수를 용이하게 하고 선박을 양호한 상태로 유지하기 위한 선박 건조 시 보호 도장 성능 기준. 도장 횟수, 두께, 모서리 처리, 도장검사 요건 등을 규정
 PSSA|특별민감해역|PSSA (Particularly Sensitive Sea Area), 국제해사기구(IMO)에서 지정한 생태학적으로 그리고 사회 경제 및 과학적으로 중요하고 민감하다고 판단되는 해역을 지칭함. 총회 결의서 Resolution A.982(24)를 통해 PSSA 식별과 지정에 관한 지침을 제정한 바 있음
@@ -5342,7 +5342,7 @@ Partial Penetration|부분용입 용접|
 Participants|참석자|IMO 회의에 회원국을 대표하여 참석하는 대표단 리스트를 정보 문서 형식으로 매회의 공개함. 참석자의 직급은 아래와 같이 구분 영문 국문 1 Head of Delegation 수석대표 2 Representatives 대표 3 Alternates 교체대표 4 Advisers 자문가 5 Observer 옵저버
 Partition Wall|칸막이 벽|
 Party|당사국|특정 협약을 체결, 가입 및 비준한 국가. 그리고, 국제간의 분쟁, 교역 등의 사건 및 조약에 직접 관계가 있거나 관계한 국가를 의미함
-Pascal (1pascal =1Newton/sq. m)|파스칼 (압력단위) (1 kPa=0.0102kg/cm2|
+Pascal|파스칼 (압력단위) (1 kPa=0.0102kg/cm2)|
 Pass Sequence|패스순서|용접비드를 넣는 순서
 Passageway|통로(通路)|
 Passenger Liner|정기여객선|일정한 항로를 정기적으로 운항하는 여객선
