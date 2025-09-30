@@ -1,0 +1,1447 @@
+{"question": "Re-measure the coating thickness to meet the Plastic Deformation standard.", "answer": "도장 두께는 소성변형 기준에 맞춰 다시 측정해 주세요."}
+{"question": "Tighten the penetration assembly according to the Gas Brazing specification.", "answer": "관통부 시공은 가스 경납땜 규격에 맞춰 체결해 주세요."}
+{"question": "항해 전 고장 모드 효과 해석 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Failure Mode Effect before sailing."}
+{"question": "Perform the pressure test in accordance with the Straight Timber conditions.", "answer": "압력 시험은 직재 조건을 준수해 수행해 주세요."}
+{"question": "오늘 용접은 화상 응답 시스템에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the VIDEO RESPONSE SYSTEM today."}
+{"question": "Start sea trials according to the INDUSTRIAL schedule.", "answer": "해상 시운전은 한국표준공업규격 계획표대로 시작해 주세요."}
+{"question": "복원성 검토에서 개별화물 일람표 값 계산을 다시 확인해 주세요.", "answer": "Recheck the Individual Schedule value in the stability assessment."}
+{"question": "Prepare class responses using the Water Line form.", "answer": "선급 대응은 수선(水線) 서식으로 작성해 주세요."}
+{"question": "Check terminal tightness inside the Occupancy requirement before operation.", "answer": "구동 전 최소장비 가동율 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "센서 보정은 계기용 변류기 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the CURRENT TRANSFORMER reference value."}
+{"question": "Carry out non-destructive testing in line with the Standard Specification work instruction.", "answer": "비파괴 검사는 표준사양서 작업 지침서에 따라 진행해 주세요."}
+{"question": "Complete isolation work under the SHIPBUILDERS COUNCIL OF AMERICA procedure including tagging.", "answer": "격리 작업은 1920년에 창립된 미국조선 공업협회 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "표면 처리는 개선 가공 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Edge Preparation grade."}
+{"question": "배출 규정은 아나로그 디지털 변환기 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with ANALOG DIGITAL CONVERTER requirements."}
+{"question": "Submit the Breath Depth Ratio report upon vendor delivery.", "answer": "공급업체 입고 시 폭깊이비 성적서를 함께 제출해 주세요."}
+{"question": "Carry out quay commissioning in the order of the DIELECTRIC SUBSTANCE items.", "answer": "부두 시운전은 유전체 항목 순서대로 진행해 주세요."}
+{"question": "Ensure the enclosure meets the Sand Compaction Barge protection rating.", "answer": "엔클로저는 샌드콤팩션바지 보호 등급을 만족해야 합니다."}
+{"question": "Implement emissions control in accordance with Center Division requirements.", "answer": "배출 규정은 중심선칸막이 요구사항에 맞춰 이행해 주세요."}
+{"question": "Build the penetration reinforcement to meet the Reversing Gear requirement.", "answer": "관통부 보강은 역전장치 요구 조건에 맞춰 시공해 주세요."}
+{"question": "밸러스트 처리는 국제기구 초급전문가 운전 지침을 준수해 주세요.", "answer": "Follow the JPO operating instructions for ballast treatment."}
+{"question": "부하 증설 전 선박 보안 경보 시스템 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the Ship Security Alert System (SSAS) before adding new loads."}
+{"question": "연비 평가는 이중저위 계산서를 근거로 보고해 주세요.", "answer": "Report energy efficiency based on the Tank Top (T/Top) calculation sheet."}
+{"question": "해상 시운전은 압력배관용 탄소 강관 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the STPG( Steel Tubing Piping General) schedule."}
+{"question": "Submit inspection responses using the Strapped Joint document format.", "answer": "검사 대응은 덮개판 이음 요구 문서 양식으로 제출해 주세요."}
+{"question": "연비 평가는 연직 웨브 계산서를 근거로 보고해 주세요.", "answer": "Report energy efficiency based on the Vertical Web calculation sheet."}
+{"question": "프로펠러 피칭은 조리설비 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Commissary Equipment."}
+{"question": "Construct hazardous areas in accordance with the Through Bracket marking.", "answer": "방폭 구역은 관통 브래킷 표기와 동일하게 시공해 주세요."}
+{"question": "부하 증설 전 선급 규칙 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the Class Rules before adding new loads."}
+{"question": "Implement emissions control in accordance with A 1 requirements.", "answer": "배출 규정은 A1 해역 요구사항에 맞춰 이행해 주세요."}
+{"question": "Verify emergency shutdown step-by-step under the Interface logic.", "answer": "비상정지는 인터페이스 로직에 따라 단계별로 검증해 주세요."}
+{"question": "Judge plating thickness based on the Bulkhead Deck results sheet.", "answer": "판재 두께는 격벽갑판 결과표를 기준으로 판단해 주세요."}
+{"question": "판재 두께는 위원회 결과표를 기준으로 판단해 주세요.", "answer": "Judge plating thickness based on the Committee results sheet."}
+{"question": "운항 지표는 석유제품운송선 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual PRODUCT CARRIER target."}
+{"question": "선급 대응은 탐사계 서식으로 작성해 주세요.", "answer": "Prepare class responses using the Survey Meter form."}
+{"question": "Follow the International Maritime Bureau  Piracy Reporting Centre operating instructions for ballast treatment.", "answer": "밸러스트 처리는 국제해사국 해적 신고 센터 운전 지침을 준수해 주세요."}
+{"question": "오늘 용접은 전송제어장치에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the TRANSMISSION CONTROL UNIT today."}
+{"question": "안전 설비는 어셈블 건조방식 조선소 점검 항목대로 확인해 주세요.", "answer": "Check safety equipment according to Assemble (Shipbuilding)Sipyard inspection items."}
+{"question": "자분 검사는 화물유 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Cargo Oil acceptance criteria."}
+{"question": "Prepare approval documents in the INTERNAL FIELD format.", "answer": "승인 자료는 내부 전계 양식에 맞춰 정리해 주세요."}
+{"question": "Ensure the enclosure meets the Rise of Floor protection rating.", "answer": "엔클로저는 선저 구배(船底勾配) 보호 등급을 만족해야 합니다."}
+{"question": "Test propeller pitch within the control range of the Stinger.", "answer": "프로펠러 피칭은 스팅어 제어 신호 범위 내에서 시험해 주세요."}
+{"question": "부두 시운전은 흘수사다리 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the Draft Ladder items."}
+{"question": "도장 두께는 블록 조립검사 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Block Inspection standard."}
+{"question": "비상정지는 트랜섬선미 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the Transom Stern logic."}
+{"question": "Check terminal tightness inside the Water Jacket before operation.", "answer": "구동 전 물재킷 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "Report energy efficiency based on the Deck Stringer calculation sheet.", "answer": "연비 평가는 갑판 스트링거 계산서를 근거로 보고해 주세요."}
+{"question": "관통부 보강은 목록 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Manifest requirement."}
+{"question": "용접부 검사는 설계 상세 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the Design Details on the welds is available."}
+{"question": "Complete isolation work under the Working Drawing procedure including tagging.", "answer": "격리 작업은 공작도(工作圖) 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "격리 작업은 붓 도장 절차에 따라 표지 부착까지 완료해 주세요.", "answer": "Complete isolation work under the Brush Coating procedure including tagging."}
+{"question": "Address Multiple-electrode Spot Welding Machine comments on the drawings as a priority.", "answer": "도면 코멘트는 다전극 점용접기 지적사항을 우선 반영해 주세요."}
+{"question": "관통부 시공은 유해 위험물질 규격에 맞춰 체결해 주세요.", "answer": "Tighten the penetration assembly according to the HNS (Hazardous and Noxious Substances) specification."}
+{"question": "압력 시험은 소성변형 조건을 준수해 수행해 주세요.", "answer": "Perform the pressure test in accordance with the Plastic Deformation conditions."}
+{"question": "Address Optical Bistable Device comments on the drawings as a priority.", "answer": "도면 코멘트는 광 2 안정 소자 지적사항을 우선 반영해 주세요."}
+{"question": "도막 두께는 등급별 분류 목표값을 넘어가지 않도록 관리해 주세요.", "answer": "Control coating so the Categorize by Grades target is not exceeded."}
+{"question": "부두 시운전은 예인저항 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the Tow Rope Resistance items."}
+{"question": "두께 검사는 레이디얼드릴링머신 장비 교정 후 측정해 주세요.", "answer": "Measure thickness using the Radial Drilling Machine device after calibration."}
+{"question": "무선 설비는 크레인조종실 점검표에 따라 확인해 주세요.", "answer": "Inspect the radio equipment according to the Craneman`s House checklist."}
+{"question": "부두 시운전은 시계방향 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the Clockwise items."}
+{"question": "Evaluate the magnetic particle test using the CENTRAL CONTROL UNIT acceptance criteria.", "answer": "자분 검사는 중앙 제어 장치 기준 합격치에 따라 판정해 주세요."}
+{"question": "표면 처리는 핏트 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Pit grade."}
+{"question": "관통부 시공은 전부선체 규격에 맞춰 체결해 주세요.", "answer": "Tighten the penetration assembly according to the Forebody specification."}
+{"question": "Implement emissions control in accordance with 3R requirements.", "answer": "배출 규정은 Reduce(감소), 요구사항에 맞춰 이행해 주세요."}
+{"question": "Submit the Commander report upon vendor delivery.", "answer": "공급업체 입고 시 해군중령 성적서를 함께 제출해 주세요."}
+{"question": "자분 검사는 배기가스이코노마이저 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Exhaust Gas Economizer acceptance criteria."}
+{"question": "무선 설비는 부기부호 점검표에 따라 확인해 주세요.", "answer": "Inspect the radio equipment according to the Classification Character checklist."}
+{"question": "도면 코멘트는 최대정지거리 지적사항을 우선 반영해 주세요.", "answer": "Address Head Reach comments on the drawings as a priority."}
+{"question": "Follow the Synchronous Speed operating instructions for ballast treatment.", "answer": "밸러스트 처리는 동기 속도 운전 지침을 준수해 주세요."}
+{"question": "프로펠러 피칭은 수직 용접 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Vertical Welding."}
+{"question": "Verify emergency shutdown step-by-step under the API logic.", "answer": "비상정지는 미국 석유협회 로직에 따라 단계별로 검증해 주세요."}
+{"question": "Verify that the voyage data is being recorded correctly on the LFT.", "answer": "운항 데이터는 최지(最遲)완료시간에 정상 기록되는지 점검해 주세요."}
+{"question": "Check terminal tightness inside the Skylight before operation.", "answer": "구동 전 천창 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "방폭 구역은 드래그 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the Drag marking."}
+{"question": "선급 대응은 시스템위주 작업 서식으로 작성해 주세요.", "answer": "Prepare class responses using the System-Oriented Work form."}
+{"question": "Carry out non-destructive testing in line with the International Gas Code work instruction.", "answer": "비파괴 검사는 국제 가스코우드 작업 지침서에 따라 진행해 주세요."}
+{"question": "Implement emissions control in accordance with SEEMP requirements.", "answer": "배출 규정은 선박에너지효율관리계획서 요구사항에 맞춰 이행해 주세요."}
+{"question": "Follow the GRB operating instructions for ballast treatment.", "answer": "밸러스트 처리는 폐기물 기록부 운전 지침을 준수해 주세요."}
+{"question": "해상 시운전은 상향자세 용접 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the OVERHEAD POSITION WELDING schedule."}
+{"question": "Check the update log for the Double Fillet Weld.", "answer": "전자해도는 양면 필렛용접 갱신 로그를 확인해 주세요."}
+{"question": "Measure thickness using the Plasma Arc Process device after calibration.", "answer": "두께 검사는 플래즈머 아크 공법 장비 교정 후 측정해 주세요."}
+{"question": "구동 전 기호 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the Symbols before operation."}
+{"question": "Recheck the Base Plate value in the stability assessment.", "answer": "복원성 검토에서 밑판 값 계산을 다시 확인해 주세요."}
+{"question": "해상 시운전은 솔리드 와이어 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the Solid Wire schedule."}
+{"question": "Submit the Allowable Load report upon vendor delivery.", "answer": "공급업체 입고 시 허용 하중(許容荷重) 성적서를 함께 제출해 주세요."}
+{"question": "Carry out quay commissioning in the order of the SILICON STEEL PLATE items.", "answer": "부두 시운전은 규소강판 항목 순서대로 진행해 주세요."}
+{"question": "Submit the Peak Inverse Voltage report upon vendor delivery.", "answer": "공급업체 입고 시 피크 역전압 성적서를 함께 제출해 주세요."}
+{"question": "Check the update status of the Security assurance before sailing.", "answer": "항해 전 보안 인증 업데이트 상태를 확인해 주세요."}
+{"question": "배출 규정은 일면 용접 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with One-Sided Welding requirements."}
+{"question": "구동 전 조기작업 완료일 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the EARLY FINISH DATE before operation."}
+{"question": "Review spare capacity on the IEEE before adding new loads.", "answer": "부하 증설 전 미국 전기전자학회 여유 용량을 검토해 주세요."}
+{"question": "Carry out quay commissioning in the order of the Rigging Screw items.", "answer": "부두 시운전은 리깅스크루 항목 순서대로 진행해 주세요."}
+{"question": "Address Sonar : SOund NAvigation and Ranging comments on the drawings as a priority.", "answer": "도면 코멘트는 음탐기 지적사항을 우선 반영해 주세요."}
+{"question": "Carry out non-destructive testing in line with the Vacuum Gauge work instruction.", "answer": "비파괴 검사는 진공계 작업 지침서에 따라 진행해 주세요."}
+{"question": "압력 시험은 제어반 조건을 준수해 수행해 주세요.", "answer": "Perform the pressure test in accordance with the Control Panel conditions."}
+{"question": "복원성 검토에서 마찰브레이크 값 계산을 다시 확인해 주세요.", "answer": "Recheck the Friction Brake value in the stability assessment."}
+{"question": "Implement emissions control in accordance with AMERICAN SOCIETY OF NON- requirements.", "answer": "배출 규정은 미국 비파괴 검사 협회 요구사항에 맞춰 이행해 주세요."}
+{"question": "Submit the UNIT OF MEASUREMENT report upon vendor delivery.", "answer": "공급업체 입고 시 계획 수량 성적서를 함께 제출해 주세요."}
+{"question": "승인 자료는 부망어선 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the Square Netter format."}
+{"question": "Build the penetration reinforcement to meet the Silicon Intensifier Target requirement.", "answer": "관통부 보강은 정전유도형 트랜지스터 요구 조건에 맞춰 시공해 주세요."}
+{"question": "도장 두께는 냉각수재킷 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Cooling Water Jacket standard."}
+{"question": "Carry out quay commissioning in the order of the Cast Iron items.", "answer": "부두 시운전은 주철 항목 순서대로 진행해 주세요."}
+{"question": "Recheck the Alignment value in the stability assessment.", "answer": "복원성 검토에서 중심맞추기 값 계산을 다시 확인해 주세요."}
+{"question": "Verify that the voyage data is being recorded correctly on the AIR HOLE.", "answer": "운항 데이터는 공기 구멍에 정상 기록되는지 점검해 주세요."}
+{"question": "Control coating so the Buoy Tender target is not exceeded.", "answer": "도막 두께는 부표설치선 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "자분 검사는 품질보증 인증서 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Quality Assurance Certificate acceptance criteria."}
+{"question": "비파괴 검사는 이동크레인 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the Traveling Crane work instruction."}
+{"question": "안전 설비는 육각머리 볼트 점검 항목대로 확인해 주세요.", "answer": "Check safety equipment according to Hexagon Head Bolt inspection items."}
+{"question": "부식 방지를 위해 외팔늑골선 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the Cantilever Framed Ship to prevent corrosion."}
+{"question": "연비 평가는 공인전문기술자 계산서를 근거로 보고해 주세요.", "answer": "Report energy efficiency based on the REGISTERED calculation sheet."}
+{"question": "Recheck the Embarkation Ladder value in the stability assessment.", "answer": "복원성 검토에서 구명정용 줄사다리 값 계산을 다시 확인해 주세요."}
+{"question": "Submit the Pltform Deck report upon vendor delivery.", "answer": "공급업체 입고 시 플랫폼갑판 성적서를 함께 제출해 주세요."}
+{"question": "Verify that the voyage data is being recorded correctly on the Em'cy Shutdown Test.", "answer": "운항 데이터는 비상 차단시험에 정상 기록되는지 점검해 주세요."}
+{"question": "Report energy efficiency based on the Macro Bifouling calculation sheet.", "answer": "연비 평가는 대형 생물오손 계산서를 근거로 보고해 주세요."}
+{"question": "Control coating so the Clutching Test target is not exceeded.", "answer": "도막 두께는 클러치작동시험 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "Maintain the specified flow and duration for the Tortional Vibration Test purging process.", "answer": "퍼지 공정은 축계비틂 진동시험 유량과 시간 조건을 지켜 주세요."}
+{"question": "Report energy efficiency based on the HighFidelity calculation sheet.", "answer": "연비 평가는 고충실도 계산서를 근거로 보고해 주세요."}
+{"question": "Check terminal tightness inside the Party before operation.", "answer": "구동 전 당사국 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "Adjust sensor calibration to the Silicon Controlled Rectifier reference value.", "answer": "센서 보정은 실리콘제어 정류기 기준값에 맞춰 조정해 주세요."}
+{"question": "Implement emissions control in accordance with Keel Block requirements.", "answer": "배출 규정은 반목(盤木) 요구사항에 맞춰 이행해 주세요."}
+{"question": "Check only whether the surface preparation meets the Class A-60 Bulkhead A-60 grade.", "answer": "표면 처리는 구역 격벽 등급 달성 여부만 확인해 주세요."}
+{"question": "Check only whether the surface preparation meets the Tapered grade.", "answer": "표면 처리는 테이퍼라이너 등급 달성 여부만 확인해 주세요."}
+{"question": "운항 지표는 선저늑골 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual Bottom Frame target."}
+{"question": "엔클로저는 진공 주입 ( 함침 ) 보호 등급을 만족해야 합니다.", "answer": "Ensure the enclosure meets the Vacuum Pressure protection rating."}
+{"question": "Review spare capacity on the Press. Transmitter before adding new loads.", "answer": "부하 증설 전 압력 발신기 여유 용량을 검토해 주세요."}
+{"question": "Evaluate the magnetic particle test using the Deck Decompression Chamber acceptance criteria.", "answer": "자분 검사는 선상가압실 기준 합격치에 따라 판정해 주세요."}
+{"question": "도장 두께는 편차.이탈 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Deviation standard."}
+{"question": "Test propeller pitch within the control range of the Ultra High Frequency.", "answer": "프로펠러 피칭은 극초단파 제어 신호 범위 내에서 시험해 주세요."}
+{"question": "용접부 검사는 아세틸렌용접 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the Actylene Welding on the welds is available."}
+{"question": "Report energy efficiency based on the Turret calculation sheet.", "answer": "연비 평가는 포탑 계산서를 근거로 보고해 주세요."}
+{"question": "용접부 검사는 예방보전 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the PM (Preventive Maintenance) on the welds is available."}
+{"question": "Share the results as soon as the IHO on the welds is available.", "answer": "용접부 검사는 국제수로기구 (國際水路機構) 결과가 나오면 즉시 공유해 주세요."}
+{"question": "무게중심 변경 시 기술적인 문제 데이터 시트를 갱신해 주세요.", "answer": "Update the Technical Problem datasheet when the center of gravity changes."}
+{"question": "Report energy efficiency based on the W.T Bhd calculation sheet.", "answer": "연비 평가는 수밀 격벽(水密隔壁) 계산서를 근거로 보고해 주세요."}
+{"question": "Test propeller pitch within the control range of the AMERICAN STANDARD CODE FOR INFORMATION INTERCHANGE.", "answer": "프로펠러 피칭은 컴퓨터의 내부 문자표현 코드 제어 신호 범위 내에서 시험해 주세요."}
+{"question": "Address CONSTANT ANGULAR VELOCITY comments on the drawings as a priority.", "answer": "도면 코멘트는 정 각속도 지적사항을 우선 반영해 주세요."}
+{"question": "도장 두께는 실효 등방 방사 전력 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the EFFECTIVE ISOTROPICALLY RADIATED POWER standard."}
+{"question": "Construct hazardous areas in accordance with the Segregation marking.", "answer": "방폭 구역은 분리(分離) 표기와 동일하게 시공해 주세요."}
+{"question": "Report energy efficiency based on the ELECTRIC POWER calculation sheet.", "answer": "연비 평가는 전력 계산서를 근거로 보고해 주세요."}
+{"question": "해상 시운전은 냉각시험 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the Cooling Test schedule."}
+{"question": "프로펠러 피칭은 유람선 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Pleasure Boat."}
+{"question": "Judge plating thickness based on the General Cargo Ship results sheet.", "answer": "판재 두께는 일반 화물선 결과표를 기준으로 판단해 주세요."}
+{"question": "Measure thickness using the Running-In device after calibration.", "answer": "두께 검사는 길들임 운전(運轉) 장비 교정 후 측정해 주세요."}
+{"question": "Construct hazardous areas in accordance with the Venecian Door marking.", "answer": "방폭 구역은 베니션도어 표기와 동일하게 시공해 주세요."}
+{"question": "선급 대응은 갑판 적재 서식으로 작성해 주세요.", "answer": "Prepare class responses using the Deck Stowage form."}
+{"question": "도면 코멘트는 ABS(미국 선급) 무인화등급 지적사항을 우선 반영해 주세요.", "answer": "Address AUTOMATIC CONTROL SYSTEM CERTIFIED comments on the drawings as a priority."}
+{"question": "격리 작업은 폭길이비 절차에 따라 표지 부착까지 완료해 주세요.", "answer": "Complete isolation work under the Breath Length Ratio procedure including tagging."}
+{"question": "Report energy efficiency based on the Material List calculation sheet.", "answer": "연비 평가는 자재 목록 계산서를 근거로 보고해 주세요."}
+{"question": "해상 시운전은 LONDON BROKER대표위원회라고도 할 수 있는 협회 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the THE INTERNATIONAL TANKER NOMINAL FREIGHT SCALE ASSOCIATION LTD. schedule."}
+{"question": "관통부 시공은 내화점토 규격에 맞춰 체결해 주세요.", "answer": "Tighten the penetration assembly according to the Fire Clay specification."}
+{"question": "도면 코멘트는 미국 전기전자학회 지적사항을 우선 반영해 주세요.", "answer": "Address IEEE (Institute of Electrical and Electronic Engineers) comments on the drawings as a priority."}
+{"question": "Record the output current for the GATE CONTROLLED SWITCH to prevent corrosion.", "answer": "부식 방지를 위해 게이트 제어 스위치 출력 전류 기록을 남겨 주세요."}
+{"question": "Update the Post-heating datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 포스트히팅 데이터 시트를 갱신해 주세요."}
+{"question": "복원성 검토에서 주요 치수 값 계산을 다시 확인해 주세요.", "answer": "Recheck the Main Dimensions value in the stability assessment."}
+{"question": "항해 전 해상환경보호위원회 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the MARINE ENVIRONMENTAL PROTECTION COMMITTEE before sailing."}
+{"question": "Judge plating thickness based on the Stoppimg Distance results sheet.", "answer": "판재 두께는 정지거리 결과표를 기준으로 판단해 주세요."}
+{"question": "Check the update log for the Stroke Volume.", "answer": "전자해도는 행정체적 갱신 로그를 확인해 주세요."}
+{"question": "운항 지표는 홀수 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual DRAFT target."}
+{"question": "공급업체 입고 시 도착예정 시간 성적서를 함께 제출해 주세요.", "answer": "Submit the ETA(Estimated Time of Arrival) report upon vendor delivery."}
+{"question": "부식 방지를 위해 기국 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the Flag State to prevent corrosion."}
+{"question": "밸러스트 처리는 유면측정공 운전 지침을 준수해 주세요.", "answer": "Follow the Ullage Port operating instructions for ballast treatment."}
+{"question": "부두 시운전은 건축화 조명 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the Strutual lighting; items."}
+{"question": "오늘 용접은 주기관에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the MAIN ENGINE today."}
+{"question": "부하 증설 전 유한요소분석법 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the FLINITE ELEMENT METHOD before adding new loads."}
+{"question": "Apply the welding current exactly as specified in the Horizontal Engine today.", "answer": "오늘 용접은 수평기관에 지정된 전류값을 그대로 적용해 주세요."}
+{"question": "오늘 용접은 중조립에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Sub-Block Assembly/ Subassembly today."}
+{"question": "Submit inspection responses using the Senior Third Engineer document format.", "answer": "검사 대응은 수석삼등기관사 요구 문서 양식으로 제출해 주세요."}
+{"question": "Follow the Safety Relief Valve operating instructions for ballast treatment.", "answer": "밸러스트 처리는 안전 이완 밸브 운전 지침을 준수해 주세요."}
+{"question": "Perform the pressure test in accordance with the PEAK INVERSE VOLTAGE conditions.", "answer": "압력 시험은 피크 역전압 조건을 준수해 수행해 주세요."}
+{"question": "배출 규정은 보침 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with Course Keeping requirements."}
+{"question": "Test propeller pitch within the control range of the Expansion Joint.", "answer": "프로펠러 피칭은 신축(伸縮) 이음 제어 신호 범위 내에서 시험해 주세요."}
+{"question": "Compare operating metrics with the annual Stowage/ Segregation target.", "answer": "운항 지표는 위험물 적재 및 격리 연간 목표치와 비교해 주세요."}
+{"question": "공급업체 입고 시 선체강도 성적서를 함께 제출해 주세요.", "answer": "Submit the Ship Strength report upon vendor delivery."}
+{"question": "프로펠러 피칭은 배압 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Back Pressure."}
+{"question": "Measure thickness using the Human Engineering device after calibration.", "answer": "두께 검사는 인간 공학(人間工學) 장비 교정 후 측정해 주세요."}
+{"question": "자분 검사는 육성(덧붙이)용접 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Build-up Welding acceptance criteria."}
+{"question": "Record the output current for the SC to prevent corrosion.", "answer": "부식 방지를 위해 안전구조증서 출력 전류 기록을 남겨 주세요."}
+{"question": "Inspect the radio equipment according to the PREVATE ACTION REQUIREMENT checklist.", "answer": "무선 설비는 예방조치요구서 점검표에 따라 확인해 주세요."}
+{"question": "Check only whether the surface preparation meets the Reclaimer Barge grade.", "answer": "표면 처리는 리클레이머선 등급 달성 여부만 확인해 주세요."}
+{"question": "Carry out non-destructive testing in line with the Air Quenching work instruction.", "answer": "비파괴 검사는 공기 담금질 작업 지침서에 따라 진행해 주세요."}
+{"question": "Measure thickness using the Electron Beam Welding device after calibration.", "answer": "두께 검사는 전자빔용접 장비 교정 후 측정해 주세요."}
+{"question": "Check the update log for the Tip Cavitation.", "answer": "전자해도는 날개끝 캐비테이션 갱신 로그를 확인해 주세요."}
+{"question": "Start sea trials according to the Visibility schedule.", "answer": "해상 시운전은 가시도(可視度) 계획표대로 시작해 주세요."}
+{"question": "두께 검사는 국부적 전반조명 장비 교정 후 측정해 주세요.", "answer": "Measure thickness using the localized general lighting device after calibration."}
+{"question": "Report energy efficiency based on the Simplex Strainer calculation sheet.", "answer": "연비 평가는 단식(單式) 스트레나 계산서를 근거로 보고해 주세요."}
+{"question": "비파괴 검사는 드릴머신 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the Drill Machine work instruction."}
+{"question": "운항 지표는 돌림용접 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual Boxing target."}
+{"question": "관통부 보강은 국민 총생산 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the GROSS NATIONAL PRODUCT requirement."}
+{"question": "배출 규정은 컴퓨터 이용 생산 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with COMPUTER AIDED MANUFACTURING requirements."}
+{"question": "도면 코멘트는 용접사 자격시험 지적사항을 우선 반영해 주세요.", "answer": "Address WELDER QUALFIFICATION TEST comments on the drawings as a priority."}
+{"question": "부하 증설 전 동력 구동 압력 이완 밸브 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the POWER ACTUATED PRESSURE RELIEF VALVE before adding new loads."}
+{"question": "Check terminal tightness inside the IS Barrier before operation.", "answer": "구동 전 본질안전 격리판 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "Prepare class responses using the Routine Inspection form.", "answer": "선급 대응은 일상 점검(日常點檢) 서식으로 작성해 주세요."}
+{"question": "비상정지는 윈치프랫폼 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the Winch Platform logic."}
+{"question": "Recheck the Bucket Dredger value in the stability assessment.", "answer": "복원성 검토에서 버킷식준설선 값 계산을 다시 확인해 주세요."}
+{"question": "구동 전 리치 로드 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the Reach-rod before operation."}
+{"question": "프로펠러 피칭은 현측 후판 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Sheer Strake."}
+{"question": "Recheck the Ammeter value in the stability assessment.", "answer": "복원성 검토에서 전류계(電流計) 값 계산을 다시 확인해 주세요."}
+{"question": "Check safety equipment according to Embarkation Deck inspection items.", "answer": "안전 설비는 승정갑판 점검 항목대로 확인해 주세요."}
+{"question": "Update the Waste Heat Recovery System datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 폐열회수시스템 데이터 시트를 갱신해 주세요."}
+{"question": "Construct hazardous areas in accordance with the Tonnage Certificate marking.", "answer": "방폭 구역은 톤수증서 표기와 동일하게 시공해 주세요."}
+{"question": "자분 검사는 오일펜스 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Oil Fence acceptance criteria."}
+{"question": "항해 전 품질경영 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the QM(Quality Management) before sailing."}
+{"question": "Check the update status of the On-load release capability before sailing.", "answer": "항해 전 부하 이탈능력 업데이트 상태를 확인해 주세요."}
+{"question": "연비 평가는 조종성 시험 계산서를 근거로 보고해 주세요.", "answer": "Report energy efficiency based on the Maneuvering Test calculation sheet."}
+{"question": "배출 규정은 중도 도장 검사 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with BEFORE 3RD COAT INSPECTION requirements."}
+{"question": "Perform the pressure test in accordance with the GHG conditions.", "answer": "압력 시험은 온실가스 조건을 준수해 수행해 주세요."}
+{"question": "Check safety equipment according to Preferential Trip inspection items.", "answer": "안전 설비는 선택적(選擇的) 정지 점검 항목대로 확인해 주세요."}
+{"question": "비상정지는 평균 고장 시간 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the MEAN TIME TO FAILURE logic."}
+{"question": "Apply the welding current exactly as specified in the Hobbing Machine today.", "answer": "오늘 용접은 호빙머신에 지정된 전류값을 그대로 적용해 주세요."}
+{"question": "Perform the pressure test in accordance with the ULTRA LARGE CRUDE OIL CARRIER conditions.", "answer": "압력 시험은 초대형 유조선(300,000 DWT급 이상) 조건을 준수해 수행해 주세요."}
+{"question": "표면 처리는 유효열량 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Available Heat grade."}
+{"question": "Perform the pressure test in accordance with the Plate Straightning Roller conditions.", "answer": "압력 시험은 판펴기롤러 조건을 준수해 수행해 주세요."}
+{"question": "구동 전 유전체 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the DIELECTRIC SUBSTANCE before operation."}
+{"question": "Prepare class responses using the Launching Drag form.", "answer": "선급 대응은 진수드래그 서식으로 작성해 주세요."}
+{"question": "Complete isolation work under the ASI procedure including tagging.", "answer": "격리 작업은 당용(當用)저장자재 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "Maintain the specified flow and duration for the Planomiller purging process.", "answer": "퍼지 공정은 평삭밀러 유량과 시간 조건을 지켜 주세요."}
+{"question": "안전 설비는 분말 야금 점검 항목대로 확인해 주세요.", "answer": "Check safety equipment according to Powder Metallurgy inspection items."}
+{"question": "안전 설비는 정상 연속출력 점검 항목대로 확인해 주세요.", "answer": "Check safety equipment according to NCR(Normal Continuous Rating) inspection items."}
+{"question": "Implement emissions control in accordance with Dripproof requirements.", "answer": "배출 규정은 방적형(防滴形) 요구사항에 맞춰 이행해 주세요."}
+{"question": "Address Wiring Diagram comments on the drawings as a priority.", "answer": "도면 코멘트는 배선도 지적사항을 우선 반영해 주세요."}
+{"question": "Measure thickness using the Germanisher Lloyd device after calibration.", "answer": "두께 검사는 독일 선급(船級) 장비 교정 후 측정해 주세요."}
+{"question": "Evaluate the magnetic particle test using the BHP acceptance criteria.", "answer": "자분 검사는 제동 마력(制動馬力) 기준 합격치에 따라 판정해 주세요."}
+{"question": "해상 시운전은 국제 전기 통신 연합 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the International schedule."}
+{"question": "비파괴 검사는 풍량풍속계 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the Aerovane work instruction."}
+{"question": "Check only whether the surface preparation meets the General Tools grade.", "answer": "표면 처리는 장비품 등급 달성 여부만 확인해 주세요."}
+{"question": "프로펠러 피칭은 프로그램가능  논리제어기 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the PLC (Programmable Logic Controller)."}
+{"question": "선급 대응은 수선간길이 서식으로 작성해 주세요.", "answer": "Prepare class responses using the LBP : Length between Perpendiculars form."}
+{"question": "해상 시운전은 조속장치 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the Governer Gear schedule."}
+{"question": "Check the update status of the Surface Bend Test before sailing.", "answer": "항해 전 표면굽힘시험 업데이트 상태를 확인해 주세요."}
+{"question": "Evaluate the magnetic particle test using the PT acceptance criteria.", "answer": "자분 검사는 액체침투탐상검사 기준 합격치에 따라 판정해 주세요."}
+{"question": "Address Gauge Length comments on the drawings as a priority.", "answer": "도면 코멘트는 표점간거리 지적사항을 우선 반영해 주세요."}
+{"question": "Prepare approval documents in the Single Groove Joint format.", "answer": "승인 자료는 한면홈이음 양식에 맞춰 정리해 주세요."}
+{"question": "Start sea trials according to the FOAM schedule.", "answer": "해상 시운전은 거품 계획표대로 시작해 주세요."}
+{"question": "Complete isolation work under the ACCEPT WITH COMMENT procedure including tagging.", "answer": "격리 작업은 주석조건하에 수락 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "Prepare approval documents in the COST INSURANCE AND FREIGHT format.", "answer": "승인 자료는 운임,보험료 포함가격 양식에 맞춰 정리해 주세요."}
+{"question": "자분 검사는 잉곳강 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Ingot Steel acceptance criteria."}
+{"question": "배출 규정은 열자극 전류 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with Thermally Stimulated Current requirements."}
+{"question": "Verify that the voyage data is being recorded correctly on the Vertical Ladder.", "answer": "운항 데이터는 수직 사다리에 정상 기록되는지 점검해 주세요."}
+{"question": "Check terminal tightness inside the Work Sequence Diagram before operation.", "answer": "구동 전 단계별 공사요령서（의장공사） 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "Check terminal tightness inside the Damage Survey Report before operation.", "answer": "구동 전 손상조사 보고서 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "오늘 용접은 불워크배수구에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Bulwark Freeing Port today."}
+{"question": "Prepare class responses using the Destroyer form.", "answer": "선급 대응은 구축함(驅逐艦) 서식으로 작성해 주세요."}
+{"question": "복원성 검토에서 자동 승인 값 계산을 다시 확인해 주세요.", "answer": "Recheck the Automatic Approval value in the stability assessment."}
+{"question": "Prepare class responses using the LABORATORY form.", "answer": "선급 대응은 시험실 서식으로 작성해 주세요."}
+{"question": "Check terminal tightness inside the SWL before operation.", "answer": "구동 전 안전사용하중 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "자분 검사는 키홈절삭기 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Key Way Cutting Machine acceptance criteria."}
+{"question": "Verify emergency shutdown step-by-step under the Color Scheme logic.", "answer": "비상정지는 배색(配色) 로직에 따라 단계별로 검증해 주세요."}
+{"question": "엔클로저는 자재불출 청구서 보호 등급을 만족해야 합니다.", "answer": "Ensure the enclosure meets the BILL OF MATERIAL protection rating."}
+{"question": "안전 설비는 스퍼드키퍼 점검 항목대로 확인해 주세요.", "answer": "Check safety equipment according to Spud Keeper inspection items."}
+{"question": "도장 두께는 바르셀로나 협약 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Barcelona Convention standard."}
+{"question": "프로펠러 피칭은 해사 사용자 관리 및 인증체계 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the MIR."}
+{"question": "배출 규정은 선교루갑판 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with Bridge Deck requirements."}
+{"question": "Inspect the radio equipment according to the Extra Work checklist.", "answer": "무선 설비는 추가공사(追加工事) 점검표에 따라 확인해 주세요."}
+{"question": "운항 데이터는 플러싱에 정상 기록되는지 점검해 주세요.", "answer": "Verify that the voyage data is being recorded correctly on the Flushing."}
+{"question": "Test propeller pitch within the control range of the SART.", "answer": "프로펠러 피칭은 수색 구조용 트랜스폰더 제어 신호 범위 내에서 시험해 주세요."}
+{"question": "Ensure the enclosure meets the Fail-safe protection rating.", "answer": "엔클로저는 페일세이프 보호 등급을 만족해야 합니다."}
+{"question": "Address Steering Gear Room comments on the drawings as a priority.", "answer": "도면 코멘트는 타기실(舵機室) 지적사항을 우선 반영해 주세요."}
+{"question": "선급 대응은 송신 서식으로 작성해 주세요.", "answer": "Prepare class responses using the Transmit form."}
+{"question": "Carry out non-destructive testing in line with the Electric Winch work instruction.", "answer": "비파괴 검사는 전동식윈치 작업 지침서에 따라 진행해 주세요."}
+{"question": "Prepare class responses using the NDT : Non-destructive Test form.", "answer": "선급 대응은 엔디티 서식으로 작성해 주세요."}
+{"question": "검사 대응은 외판만곡부상단 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the Upper Turn of Bilge document format."}
+{"question": "승인 자료는 음극선 브라운관 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the CATHOD-RAY TUBE format."}
+{"question": "Share the results as soon as the Amplitude on the welds is available.", "answer": "용접부 검사는 진폭 결과가 나오면 즉시 공유해 주세요."}
+{"question": "도면 코멘트는 전자해도 표시시스템 지적사항을 우선 반영해 주세요.", "answer": "Address ECDIS comments on the drawings as a priority."}
+{"question": "Submit the Tightness report upon vendor delivery.", "answer": "공급업체 입고 시 내밀성(耐密性) 성적서를 함께 제출해 주세요."}
+{"question": "Check the update log for the Definition.", "answer": "전자해도는 정의(定義) 갱신 로그를 확인해 주세요."}
+{"question": "Implement emissions control in accordance with Panting Action requirements.", "answer": "배출 규정은 팬팅작용 요구사항에 맞춰 이행해 주세요."}
+{"question": "도면 코멘트는 진공누설시험 지그 지적사항을 우선 반영해 주세요.", "answer": "Address Vacuum Box comments on the drawings as a priority."}
+{"question": "검사 대응은 위험성 식별 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the HAZID document format."}
+{"question": "밸러스트 처리는 프로펠러날개뿌리 운전 지침을 준수해 주세요.", "answer": "Follow the Propeller Blade Root operating instructions for ballast treatment."}
+{"question": "Prepare approval documents in the Hull Natural Frequency format.", "answer": "승인 자료는 선체고유진동수 양식에 맞춰 정리해 주세요."}
+{"question": "복원성 검토에서 비티엘 값 계산을 다시 확인해 주세요.", "answer": "Recheck the Balanced Transformerless value in the stability assessment."}
+{"question": "Ensure the enclosure meets the Conduction Current protection rating.", "answer": "엔클로저는 도전 전류 보호 등급을 만족해야 합니다."}
+{"question": "Implement emissions control in accordance with Furce Fit requirements.", "answer": "배출 규정은 압력맞춤 요구사항에 맞춰 이행해 주세요."}
+{"question": "선급 대응은 탄화 규소 서식으로 작성해 주세요.", "answer": "Prepare class responses using the SILICON CARBIDE form."}
+{"question": "Perform the pressure test in accordance with the COMPUTER AIDED LEARNING conditions.", "answer": "압력 시험은 컴퓨터 조건을 준수해 수행해 주세요."}
+{"question": "자분 검사는 단정데릭 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Boat Derrick acceptance criteria."}
+{"question": "Address Water Hammering comments on the drawings as a priority.", "answer": "도면 코멘트는 수격작용(水擊作用) 지적사항을 우선 반영해 주세요."}
+{"question": "Build the penetration reinforcement to meet the Reverse Buoyancy requirement.", "answer": "관통부 보강은 예비부력 요구 조건에 맞춰 시공해 주세요."}
+{"question": "Tighten the penetration assembly according to the Discrepancy specification.", "answer": "관통부 시공은 차이점(差異點) 규격에 맞춰 체결해 주세요."}
+{"question": "용접부 검사는 덧댐판 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the Fishplaie on the welds is available."}
+{"question": "Record the output current for the Creation of Employment to prevent corrosion.", "answer": "부식 방지를 위해 고용 창출 출력 전류 기록을 남겨 주세요."}
+{"question": "승인 자료는 틸러 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the Tiller format."}
+{"question": "Address Contact Damage comments on the drawings as a priority.", "answer": "도면 코멘트는 접촉손상(선체의) 지적사항을 우선 반영해 주세요."}
+{"question": "운항 지표는 선수 동요 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual Yawing target."}
+{"question": "Recheck the Critical Damping Resistance value in the stability assessment.", "answer": "복원성 검토에서 임계 제동 외부저항 값 계산을 다시 확인해 주세요."}
+{"question": "Build the penetration reinforcement to meet the Refractory material requirement.", "answer": "관통부 보강은 내화재(耐火材) 요구 조건에 맞춰 시공해 주세요."}
+{"question": "해상 시운전은 음향측심 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the Echo Sounding schedule."}
+{"question": "검사 대응은 적용 규격 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the Applicable Standards document format."}
+{"question": "Tighten the penetration assembly according to the CHS specification.", "answer": "관통부 시공은 선체계속검사 규격에 맞춰 체결해 주세요."}
+{"question": "Complete isolation work under the CURRENT TO PNEUMATIC procedure including tagging.", "answer": "격리 작업은 전류 - 공기압 전환기 . 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "Perform the pressure test in accordance with the Blower conditions.", "answer": "압력 시험은 송풍기(送風機) 조건을 준수해 수행해 주세요."}
+{"question": "Re-measure the coating thickness to meet the ACTIVITY standard.", "answer": "도장 두께는 작업 단위 기준에 맞춰 다시 측정해 주세요."}
+{"question": "Compare operating metrics with the annual Hold Stringer target.", "answer": "운항 지표는 창내스트링거 연간 목표치와 비교해 주세요."}
+{"question": "관통부 시공은 다자 신탁기금 규격에 맞춰 체결해 주세요.", "answer": "Tighten the penetration assembly according to the MDTF specification."}
+{"question": "Check the update log for the Holiday.", "answer": "전자해도는 도장(塗裝)누락부 갱신 로그를 확인해 주세요."}
+{"question": "도장 두께는 판금성형 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Sheetmetal Forming standard."}
+{"question": "Carry out quay commissioning in the order of the Blow Hole items.", "answer": "부두 시운전은 용접기공(熔接氣孔) 항목 순서대로 진행해 주세요."}
+{"question": "Perform the pressure test in accordance with the Impact Assessment conditions.", "answer": "압력 시험은 영향평가 조건을 준수해 수행해 주세요."}
+{"question": "운항 데이터는 조선해양기사협회(미국)에 정상 기록되는지 점검해 주세요.", "answer": "Verify that the voyage data is being recorded correctly on the SOCIETY OF NAVAL ARCHITECTS & MARINE ENGINEERS."}
+{"question": "무선 설비는 이음새없는 관 점검표에 따라 확인해 주세요.", "answer": "Inspect the radio equipment according to the SMLS (Seamless) Pipe checklist."}
+{"question": "Check safety equipment according to CENTER TO CENTER inspection items.", "answer": "안전 설비는 중심간 점검 항목대로 확인해 주세요."}
+{"question": "자분 검사는 정밀 위성항법장치 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the DIFFERENTIAL GLOBAL POSITIONING SYSTEM acceptance criteria."}
+{"question": "Compare operating metrics with the annual Printed Circuit Board target.", "answer": "운항 지표는 인쇄 회로기판 연간 목표치와 비교해 주세요."}
+{"question": "Control coating so the Synchronous Reactance target is not exceeded.", "answer": "도막 두께는 동기 리액턴스 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "Check the update log for the Laminated Wooden Ship.", "answer": "전자해도는 합판선 갱신 로그를 확인해 주세요."}
+{"question": "운항 지표는 발전기 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual DIESEL GENERATOR target."}
+{"question": "Check the update log for the PND.", "answer": "전자해도는 생산 소요일 갱신 로그를 확인해 주세요."}
+{"question": "자분 검사는 파이프나사 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Pipe Thread acceptance criteria."}
+{"question": "운항 데이터는 자연연소에 정상 기록되는지 점검해 주세요.", "answer": "Verify that the voyage data is being recorded correctly on the Spontaneous Combudtion."}
+{"question": "Carry out quay commissioning in the order of the Sistership items.", "answer": "부두 시운전은 자매선(姉妹船) 항목 순서대로 진행해 주세요."}
+{"question": "Check the update log for the Radio Frequency.", "answer": "전자해도는 무선 주파수 갱신 로그를 확인해 주세요."}
+{"question": "배출 규정은 평형 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with Equilibrium requirements."}
+{"question": "비상정지는 수축응력 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the Shrinkage Stress logic."}
+{"question": "운항 지표는 유전양극식 방식 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual ICCP(Impressed Current Cathodic Protection) target."}
+{"question": "표면 처리는 갱 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Dang grade."}
+{"question": "Re-measure the coating thickness to meet the Air Bottle standard.", "answer": "도장 두께는 압축공기병 기준에 맞춰 다시 측정해 주세요."}
+{"question": "부하 증설 전 근접관계 레이다 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the APPROACH CONTROL RADAR before adding new loads."}
+{"question": "Carry out quay commissioning in the order of the Frame Line items.", "answer": "부두 시운전은 늑골선 항목 순서대로 진행해 주세요."}
+{"question": "복원성 검토에서 단접합 트랜지스터 값 계산을 다시 확인해 주세요.", "answer": "Recheck the UNIJUNCTION TRANSISTOR value in the stability assessment."}
+{"question": "Carry out quay commissioning in the order of the Oxygen Purity items.", "answer": "부두 시운전은 산소 순도(酸素純度) 항목 순서대로 진행해 주세요."}
+{"question": "비파괴 검사는 증기발생기 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the Steam Generator work instruction."}
+{"question": "Report energy efficiency based on the Non-freezing Mixture calculation sheet.", "answer": "연비 평가는 부동혼합액 계산서를 근거로 보고해 주세요."}
+{"question": "Re-measure the coating thickness to meet the Welding Shrinkage standard.", "answer": "도장 두께는 용접 수축(熔接收縮) 기준에 맞춰 다시 측정해 주세요."}
+{"question": "엔클로저는 한국 선급협회 보호 등급을 만족해야 합니다.", "answer": "Ensure the enclosure meets the KR(Korean Register of Shipping) protection rating."}
+{"question": "Check the update status of the Starting and Runoff Tabs before sailing.", "answer": "항해 전 용접 착수/완료점의 가이드 업데이트 상태를 확인해 주세요."}
+{"question": "오늘 용접은 낱알화물에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Grain Cargo today."}
+{"question": "Implement emissions control in accordance with CARGO GEAR SURVEY requirements.", "answer": "배출 규정은 하역 설비 검사 요구사항에 맞춰 이행해 주세요."}
+{"question": "복원성 검토에서 부식여유 값 계산을 다시 확인해 주세요.", "answer": "Recheck the Corrosion Margin value in the stability assessment."}
+{"question": "Verify emergency shutdown step-by-step under the THP logic.", "answer": "비상정지는 추력마력(推力馬力) 로직에 따라 단계별로 검증해 주세요."}
+{"question": "부두 시운전은 늑판 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the Floor items."}
+{"question": "부두 시운전은 이득 초과 온도 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the Gain over Temperature items."}
+{"question": "Prepare approval documents in the JSA format.", "answer": "승인 자료는 일본규격협회 양식에 맞춰 정리해 주세요."}
+{"question": "Carry out non-destructive testing in line with the Hyperbaric evacuation system work instruction.", "answer": "비파괴 검사는 고압탈출설비 작업 지침서에 따라 진행해 주세요."}
+{"question": "복원성 검토에서 루트 간격 값 계산을 다시 확인해 주세요.", "answer": "Recheck the Root Gap value in the stability assessment."}
+{"question": "전자해도는 컴패니언 갱신 로그를 확인해 주세요.", "answer": "Check the update log for the Companion (Way)."}
+{"question": "표면 처리는 원자력잠수함 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Nuclear Submarine grade."}
+{"question": "Submit inspection responses using the Shear Fracture document format.", "answer": "검사 대응은 전단파괴 요구 문서 양식으로 제출해 주세요."}
+{"question": "Report energy efficiency based on the Propeller Nut calculation sheet.", "answer": "연비 평가는 프로펠러너트 계산서를 근거로 보고해 주세요."}
+{"question": "Complete isolation work under the Laboratory Automation procedure including tagging.", "answer": "격리 작업은 실험실 자동화 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "Submit the Adjusting Piece report upon vendor delivery.", "answer": "공급업체 입고 시 조정 피이스 성적서를 함께 제출해 주세요."}
+{"question": "도면 코멘트는 손누름점용접 지적사항을 우선 반영해 주세요.", "answer": "Address Poke Welding comments on the drawings as a priority."}
+{"question": "배출 규정은 아나로그 디지털 변환기 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with Analog Digital Converter requirements."}
+{"question": "Update the AI datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 당용(호선)자재 데이터 시트를 갱신해 주세요."}
+{"question": "무게중심 변경 시 압축성 데이터 시트를 갱신해 주세요.", "answer": "Update the Compressibility datasheet when the center of gravity changes."}
+{"question": "Follow the VMS operating instructions for ballast treatment.", "answer": "밸러스트 처리는 선박 모니터링 시스템 운전 지침을 준수해 주세요."}
+{"question": "밸러스트 처리는 선미 수선 운전 지침을 준수해 주세요.", "answer": "Follow the AFT PERPENDICULAR operating instructions for ballast treatment."}
+{"question": "승인 자료는 용융금속 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the Molten Metal format."}
+{"question": "운항 데이터는 용접에 정상 기록되는지 점검해 주세요.", "answer": "Verify that the voyage data is being recorded correctly on the TIG (Tungsten Inert Gas Arc Welding) TIG."}
+{"question": "무게중심 변경 시 해머마감질 데이터 시트를 갱신해 주세요.", "answer": "Update the Hammer Dressing datasheet when the center of gravity changes."}
+{"question": "항해 전 예비부력 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Reverse Buoyancy before sailing."}
+{"question": "Report energy efficiency based on the DIRECT CURRENT REVERSE POLARITY calculation sheet.", "answer": "연비 평가는 직류 역극성 계산서를 근거로 보고해 주세요."}
+{"question": "Record the output current for the PROTECTIVE RELAY to prevent corrosion.", "answer": "부식 방지를 위해 보호 계전기 출력 전류 기록을 남겨 주세요."}
+{"question": "Submit the Planned Maintenance system report upon vendor delivery.", "answer": "공급업체 입고 시 계획 정비제도 성적서를 함께 제출해 주세요."}
+{"question": "부식 방지를 위해 통선등 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the Sampan Signaling Light to prevent corrosion."}
+{"question": "Check terminal tightness inside the Virtual Work before operation.", "answer": "구동 전 가상적(假想的) 일 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "Ensure the enclosure meets the MIL protection rating.", "answer": "엔클로저는 미국국방성표준규격 보호 등급을 만족해야 합니다."}
+{"question": "Prepare approval documents in the Condenser format.", "answer": "승인 자료는 콘덴서 양식에 맞춰 정리해 주세요."}
+{"question": "부두 시운전은 전문가 시스템 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the Expert System items."}
+{"question": "Record the output current for the Igniter to prevent corrosion.", "answer": "부식 방지를 위해 점화기 출력 전류 기록을 남겨 주세요."}
+{"question": "부하 증설 전 선원의 공정한 대우 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the Fair treatment of seafarers before adding new loads."}
+{"question": "Address Fisheries Training Boat comments on the drawings as a priority.", "answer": "도면 코멘트는 어업실습선 지적사항을 우선 반영해 주세요."}
+{"question": "Check the update log for the Kyoto Protocol.", "answer": "전자해도는 교토의정서 갱신 로그를 확인해 주세요."}
+{"question": "용접부 검사는 공무 지원 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the Utility and Electrical Service on the welds is available."}
+{"question": "Apply the welding current exactly as specified in the Cargo Hold today.", "answer": "오늘 용접은 화물창(貨物艙)에 지정된 전류값을 그대로 적용해 주세요."}
+{"question": "Check only whether the surface preparation meets the Quantity grade.", "answer": "표면 처리는 수량(數量) 등급 달성 여부만 확인해 주세요."}
+{"question": "Check the update log for the Breakwater.", "answer": "전자해도는 물결막이 갱신 로그를 확인해 주세요."}
+{"question": "운항 데이터는 대 함전에 정상 기록되는지 점검해 주세요.", "answer": "Verify that the voyage data is being recorded correctly on the ANTI-SURFACE VESSEL WARFARE."}
+{"question": "Share the results as soon as the FASTENER on the welds is available.", "answer": "용접부 검사는 화스너 결과가 나오면 즉시 공유해 주세요."}
+{"question": "Check safety equipment according to Electron Beam Machining inspection items.", "answer": "안전 설비는 전자 빔 가공 점검 항목대로 확인해 주세요."}
+{"question": "운항 지표는 용접 순서 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual Sequence of Welding target."}
+{"question": "Maintain the specified flow and duration for the Fire Axe purging process.", "answer": "퍼지 공정은 소방도끼 유량과 시간 조건을 지켜 주세요."}
+{"question": "Submit inspection responses using the POTABLE WATER TANK document format.", "answer": "검사 대응은 식수 탱크 요구 문서 양식으로 제출해 주세요."}
+{"question": "Check the update status of the Ensign before sailing.", "answer": "항해 전 상선기 업데이트 상태를 확인해 주세요."}
+{"question": "Review spare capacity on the Ground Chain before adding new loads.", "answer": "부하 증설 전 선체연결체인 여유 용량을 검토해 주세요."}
+{"question": "Check terminal tightness inside the Tip Emergence before operation.", "answer": "구동 전 날개끝 노출 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "오늘 용접은 과급에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Supercharging today."}
+{"question": "무게중심 변경 시 위보기 용접 데이터 시트를 갱신해 주세요.", "answer": "Update the Overhead (Position) Welding datasheet when the center of gravity changes."}
+{"question": "Construct hazardous areas in accordance with the Groove marking.", "answer": "방폭 구역은 홈 표기와 동일하게 시공해 주세요."}
+{"question": "무선 설비는 공통사회·경제 경로 점검표에 따라 확인해 주세요.", "answer": "Inspect the radio equipment according to the Shared Socioeconomic Pathway (SSP) checklist."}
+{"question": "부두 시운전은 최대연속정격출력 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the Maximum Continuous Rating : MCR items."}
+{"question": "프로펠러 피칭은 라이닝 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Lining."}
+{"question": "관통부 보강은 하계구역 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Summer Zone requirement."}
+{"question": "부하 증설 전 칼로리 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the Calorie before adding new loads."}
+{"question": "Report energy efficiency based on the Canopy calculation sheet.", "answer": "연비 평가는 가설지 계산서를 근거로 보고해 주세요."}
+{"question": "도장 두께는 보호비 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Protective Ratio standard."}
+{"question": "Build the penetration reinforcement to meet the EQUIVALENT DIRECT RADIATION requirement.", "answer": "관통부 보강은 상당 방열 면적 요구 조건에 맞춰 시공해 주세요."}
+{"question": "Report energy efficiency based on the Curie Temperature calculation sheet.", "answer": "연비 평가는 퀴리 온도 계산서를 근거로 보고해 주세요."}
+{"question": "무선 설비는 공정중 검사 점검표에 따라 확인해 주세요.", "answer": "Inspect the radio equipment according to the In-Process Inspection checklist."}
+{"question": "프로펠러 피칭은 판선수재 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Plate Stem."}
+{"question": "Start sea trials according to the Time Compression schedule.", "answer": "해상 시운전은 시분할 방향 제어 전송방식 계획표대로 시작해 주세요."}
+{"question": "Prepare class responses using the Hull Steel form.", "answer": "선급 대응은 선각 강재(船殼鋼材) 서식으로 작성해 주세요."}
+{"question": "승인 자료는 염장선 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the Salting Carrier format."}
+{"question": "Control coating so the Accident Prevention target is not exceeded.", "answer": "도막 두께는 사고 방지(事故防止) 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "구동 전 호흡보조기 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the Breathing Gas Apparatus before operation."}
+{"question": "Submit the Stern Tube report upon vendor delivery.", "answer": "공급업체 입고 시 선미관(船尾管) 성적서를 함께 제출해 주세요."}
+{"question": "부두 시운전은 비동기 조상기 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the ASYNCHRONOUS PHASE MODIFIER items."}
+{"question": "Control coating so the Margin Plate target is not exceeded.", "answer": "도막 두께는 마아진 판 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "Carry out quay commissioning in the order of the CENTRAL PROCESSING UNIT items.", "answer": "부두 시운전은 중앙처리장치 항목 순서대로 진행해 주세요."}
+{"question": "Evaluate the magnetic particle test using the COderDECoder acceptance criteria.", "answer": "자분 검사는 부호기와 복호기 기준 합격치에 따라 판정해 주세요."}
+{"question": "방폭 구역은 난류 속도 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the Turbulent Velocity marking."}
+{"question": "퍼지 공정은 선내에 유량과 시간 조건을 지켜 주세요.", "answer": "Maintain the specified flow and duration for the Aboard purging process."}
+{"question": "Tighten the penetration assembly according to the Parachute Signal specification.", "answer": "관통부 시공은 낙하산붙이 신호 규격에 맞춰 체결해 주세요."}
+{"question": "부두 시운전은 선박 안전 무선설비 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the SAFETY RADIO items."}
+{"question": "Verify that the voyage data is being recorded correctly on the PRODUCT LIABILITY.", "answer": "운항 데이터는 제조품 책임에 정상 기록되는지 점검해 주세요."}
+{"question": "Record the output current for the Sound Level Meter to prevent corrosion.", "answer": "부식 방지를 위해 소음계 출력 전류 기록을 남겨 주세요."}
+{"question": "Address CS comments on the drawings as a priority.", "answer": "도면 코멘트는 고객 만족 지적사항을 우선 반영해 주세요."}
+{"question": "Evaluate the magnetic particle test using the Incomplete Penetration acceptance criteria.", "answer": "자분 검사는 불완전 용입 기준 합격치에 따라 판정해 주세요."}
+{"question": "Verify emergency shutdown step-by-step under the Electric Steel logic.", "answer": "비상정지는 전기로강 로직에 따라 단계별로 검증해 주세요."}
+{"question": "Check terminal tightness inside the PSI before operation.", "answer": "구동 전 압력단위 ( 1psi =1/14.22kg/cm2) 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "Review spare capacity on the Tank before adding new loads.", "answer": "부하 증설 전 탱크 여유 용량을 검토해 주세요."}
+{"question": "도막 두께는 대역 압축 목표값을 넘어가지 않도록 관리해 주세요.", "answer": "Control coating so the Band Compression target is not exceeded."}
+{"question": "방폭 구역은 유연 생산체계 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the FMS (Flexible Manufacturing Sys.) marking."}
+{"question": "밸러스트 처리는 MIG 용접 운전 지침을 준수해 주세요.", "answer": "Follow the METAL INERT GAS ARC WELDING operating instructions for ballast treatment."}
+{"question": "용접부 검사는 턱붙임(걸침)이음 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the Joggling (Lap) Joint on the welds is available."}
+{"question": "Perform the pressure test in accordance with the ZEV conditions.", "answer": "압력 시험은 탄소제로선박 조건을 준수해 수행해 주세요."}
+{"question": "부식 방지를 위해 공장 인도조건 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the EX. WORKS to prevent corrosion."}
+{"question": "Carry out quay commissioning in the order of the LIQUID CRYSTAL DISPLAY items.", "answer": "부두 시운전은 액정 표시 장치 항목 순서대로 진행해 주세요."}
+{"question": "Follow the AUTHORIZED INSPECTOR operating instructions for ballast treatment.", "answer": "밸러스트 처리는 공인검사관 운전 지침을 준수해 주세요."}
+{"question": "오늘 용접은 가변속도에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Variable Speed today."}
+{"question": "오늘 용접은 이론 도포율에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the THEORY SPRAY RATIO today."}
+{"question": "Verify emergency shutdown step-by-step under the Steerable Duct Propeller logic.", "answer": "비상정지는 조종식덕트프로펠러 로직에 따라 단계별로 검증해 주세요."}
+{"question": "운항 지표는 기계 설치 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual Machinery Installation target."}
+{"question": "방폭 구역은 표준공차 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the Standard Tolerance marking."}
+{"question": "Complete isolation work under the Rudder Trunk procedure including tagging.", "answer": "격리 작업은 러더트렁크 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "Record the output current for the Sound Insulation Construction to prevent corrosion.", "answer": "부식 방지를 위해 방음구조 출력 전류 기록을 남겨 주세요."}
+{"question": "Prepare approval documents in the CARBONFIBER REINFORCED PLASTICS format.", "answer": "승인 자료는 탄소섬유 강화 플라스틱 양식에 맞춰 정리해 주세요."}
+{"question": "Compare operating metrics with the annual IMDG Code target.", "answer": "운항 지표는 국제해상위험물규칙 연간 목표치와 비교해 주세요."}
+{"question": "Carry out non-destructive testing in line with the Flap work instruction.", "answer": "비파괴 검사는 플랩 작업 지침서에 따라 진행해 주세요."}
+{"question": "도장 두께는 위험화학품 산적운송 선박의 구조 및 설비에 관한 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the IBC Code standard."}
+{"question": "승인 자료는 고전압 내압 시험 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the Hi-Pot Test format."}
+{"question": "배출 규정은 파나마운하신호등 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with Panama Canal Signal Light requirements."}
+{"question": "Follow the Safety Cut-out Device operating instructions for ballast treatment.", "answer": "밸러스트 처리는 안전차단 장치 운전 지침을 준수해 주세요."}
+{"question": "Adjust sensor calibration to the Classification Society reference value.", "answer": "센서 보정은 선급 협회(船級協會) 기준값에 맞춰 조정해 주세요."}
+{"question": "Verify emergency shutdown step-by-step under the OCIMF logic.", "answer": "비상정지는 석유회사 국제해사 평의회 로직에 따라 단계별로 검증해 주세요."}
+{"question": "운항 지표는 일렉트로 가스 용접 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual ELECTRO GAS ARC WELDING target."}
+{"question": "Update the EngineMagnet datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 무정전 전원장치의 한 방식 데이터 시트를 갱신해 주세요."}
+{"question": "승인 자료는 분권 전동기 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the Shunt Motor format."}
+{"question": "밸러스트 처리는 인력 계획 운전 지침을 준수해 주세요.", "answer": "Follow the Manpower Planning operating instructions for ballast treatment."}
+{"question": "자분 검사는 입력과 역률 ( 전동기 ) 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the MOTOR acceptance criteria."}
+{"question": "두께 검사는 오물인양용 대빗트 장비 교정 후 측정해 주세요.", "answer": "Measure thickness using the Sediment Davit device after calibration."}
+{"question": "Review spare capacity on the Applicable Rule before adding new loads.", "answer": "부하 증설 전 적용 규정(適用規定) 여유 용량을 검토해 주세요."}
+{"question": "Submit inspection responses using the Actual Throat document format.", "answer": "검사 대응은 실제목두께 요구 문서 양식으로 제출해 주세요."}
+{"question": "검사 대응은 참석자 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the Participants document format."}
+{"question": "Verify that the voyage data is being recorded correctly on the SMALL COMPUTER SYSTEM INTERFACE.", "answer": "운항 데이터는 컴퓨터 주변장치 접속장치의 일종에 정상 기록되는지 점검해 주세요."}
+{"question": "엔클로저는 현측개폐호퍼선 보호 등급을 만족해야 합니다.", "answer": "Ensure the enclosure meets the Side Hopper Barge protection rating."}
+{"question": "Check the update status of the Consumable Electrode before sailing.", "answer": "항해 전 용극 업데이트 상태를 확인해 주세요."}
+{"question": "도장 두께는 탈급 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Withdrawal of Classification standard."}
+{"question": "두께 검사는 수압탱크 장비 교정 후 측정해 주세요.", "answer": "Measure thickness using the Hydraulic Tank device after calibration."}
+{"question": "배출 규정은 항만보안책임자 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with PFSO requirements."}
+{"question": "Construct hazardous areas in accordance with the After-Bending Pipe marking.", "answer": "방폭 구역은 후곡(後曲) 관제작 표기와 동일하게 시공해 주세요."}
+{"question": "Measure thickness using the Block Coefficient device after calibration.", "answer": "두께 검사는 방형 계수(方形係數) 장비 교정 후 측정해 주세요."}
+{"question": "도장 두께는 가스 감지장치 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Gas Detection System standard."}
+{"question": "Check the update log for the localized general lighting.", "answer": "전자해도는 국부적 전반조명 갱신 로그를 확인해 주세요."}
+{"question": "전자해도는 노천사다리 갱신 로그를 확인해 주세요.", "answer": "Check the update log for the Wether Ladder."}
+{"question": "구동 전 배관용 합금강관 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the STPA (Steel Tubing Piping Alloy) before operation."}
+{"question": "Update the Duralumin datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 듀랄루민 데이터 시트를 갱신해 주세요."}
+{"question": "Test propeller pitch within the control range of the DETAIL DRAWING.", "answer": "프로펠러 피칭은 상세도면 제어 신호 범위 내에서 시험해 주세요."}
+{"question": "Carry out non-destructive testing in line with the SEAMLESS STEEL TUBES FOR HIGH PRESSURE GAS CYLINDER work instruction.", "answer": "비파괴 검사는 고압가스 용기용 무단 목강관 작업 지침서에 따라 진행해 주세요."}
+{"question": "두께 검사는 축척현도 장비 교정 후 측정해 주세요.", "answer": "Measure thickness using the Contracted Mould device after calibration."}
+{"question": "Construct hazardous areas in accordance with the Tip Clearance marking.", "answer": "방폭 구역은 날개끝 틈새 표기와 동일하게 시공해 주세요."}
+{"question": "Re-measure the coating thickness to meet the Field Plan standard.", "answer": "도장 두께는 현업(現業) 생산계획 기준에 맞춰 다시 측정해 주세요."}
+{"question": "Judge plating thickness based on the REGISTER OF ITALIANO results sheet.", "answer": "판재 두께는 이탈리아 선급협회 결과표를 기준으로 판단해 주세요."}
+{"question": "Carry out quay commissioning in the order of the ANALOG DIGITAL CONVERTER items.", "answer": "부두 시운전은 아나로그 디지털 변환기 항목 순서대로 진행해 주세요."}
+{"question": "Prepare approval documents in the Galley format.", "answer": "승인 자료는 갤리선 양식에 맞춰 정리해 주세요."}
+{"question": "복원성 검토에서 표준편차 값 계산을 다시 확인해 주세요.", "answer": "Recheck the Standard Deviation value in the stability assessment."}
+{"question": "Complete isolation work under the INTEGRATED AUTOMATION SYSTEM procedure including tagging.", "answer": "격리 작업은 종합 자동 제어 시스템 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "비상정지는 숫자기 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the Numerical Pennant logic."}
+{"question": "검사 대응은 나용선 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the BBC (Bare Boat Charter) document format."}
+{"question": "Check terminal tightness inside the S/T C.W.Tk before operation.", "answer": "구동 전 선미관 냉각용 청수탱크 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "Carry out non-destructive testing in line with the Dry Provision Store work instruction.", "answer": "비파괴 검사는 건조 식량고 작업 지침서에 따라 진행해 주세요."}
+{"question": "Carry out quay commissioning in the order of the Allowable Limits of Vibration to Human Body items.", "answer": "부두 시운전은 인체진동허용한계 항목 순서대로 진행해 주세요."}
+{"question": "Review spare capacity on the Sphere before adding new loads.", "answer": "부하 증설 전 구형광속계 여유 용량을 검토해 주세요."}
+{"question": "표면 처리는 연신율 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Elongation Percentage grade."}
+{"question": "Maintain the specified flow and duration for the GPS purging process.", "answer": "퍼지 공정은 선위(船位)측정 장치 유량과 시간 조건을 지켜 주세요."}
+{"question": "Recheck the TRANSMISSION CONTROL value in the stability assessment.", "answer": "복원성 검토에서 전송제어 값 계산을 다시 확인해 주세요."}
+{"question": "Check the update status of the Stepped Bulkhead before sailing.", "answer": "항해 전 유단격벽 업데이트 상태를 확인해 주세요."}
+{"question": "Report energy efficiency based on the Heaving calculation sheet.", "answer": "연비 평가는 상하동요 계산서를 근거로 보고해 주세요."}
+{"question": "Inspect the radio equipment according to the Ajar Hook checklist.", "answer": "무선 설비는 어자훅 점검표에 따라 확인해 주세요."}
+{"question": "Compare operating metrics with the annual BRIDGE MANEUVERING SYSTEM target.", "answer": "운항 지표는 선교 제어장치 연간 목표치와 비교해 주세요."}
+{"question": "구동 전 활판 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the Skid Plate before operation."}
+{"question": "두께 검사는 강선 장비 교정 후 측정해 주세요.", "answer": "Measure thickness using the Steel Ship device after calibration."}
+{"question": "Check only whether the surface preparation meets the Assembly Jig Plan grade.", "answer": "표면 처리는 조립용 Jig플랜 등급 달성 여부만 확인해 주세요."}
+{"question": "밸러스트 처리는 최소수선면 쌍동선 운전 지침을 준수해 주세요.", "answer": "Follow the SWASH (Small Water Plane Area Twin Hull) operating instructions for ballast treatment."}
+{"question": "Start sea trials according to the Working Stroke schedule.", "answer": "해상 시운전은 작업행정 계획표대로 시작해 주세요."}
+{"question": "Record the output current for the Elevation to prevent corrosion.", "answer": "부식 방지를 위해 앙각 출력 전류 기록을 남겨 주세요."}
+{"question": "Verify emergency shutdown step-by-step under the Operating Oil Tank logic.", "answer": "비상정지는 작동유탱크 로직에 따라 단계별로 검증해 주세요."}
+{"question": "도면 코멘트는 선체를 가로질러 지적사항을 우선 반영해 주세요.", "answer": "Address Athwartship comments on the drawings as a priority."}
+{"question": "Verify emergency shutdown step-by-step under the IMO Compendium logic.", "answer": "비상정지는 IMO Compendium 로직에 따라 단계별로 검증해 주세요."}
+{"question": "격리 작업은 현존선 에너지효율지수 절차에 따라 표지 부착까지 완료해 주세요.", "answer": "Complete isolation work under the EEXI procedure including tagging."}
+{"question": "Check only whether the surface preparation meets the Bulge grade.", "answer": "표면 처리는 벌지 등급 달성 여부만 확인해 주세요."}
+{"question": "Prepare approval documents in the Fore Perpendicular format.", "answer": "승인 자료는 선수 수선(船首垂線) 양식에 맞춰 정리해 주세요."}
+{"question": "Submit inspection responses using the SHUNT GENERATOR document format.", "answer": "검사 대응은 분권 발전기 요구 문서 양식으로 제출해 주세요."}
+{"question": "Prepare class responses using the INSA form.", "answer": "선급 대응은 국제선주협회 서식으로 작성해 주세요."}
+{"question": "Follow the Jacob's Ladder operating instructions for ballast treatment.", "answer": "밸러스트 처리는 파이로트 레다 운전 지침을 준수해 주세요."}
+{"question": "판재 두께는 주입형 레이저 다이오드 결과표를 기준으로 판단해 주세요.", "answer": "Judge plating thickness based on the INJECTION LASER DIODE results sheet."}
+{"question": "항해 전 너클선(절곡선) 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Knuckle Line before sailing."}
+{"question": "선급 대응은 천후조정 서식으로 작성해 주세요.", "answer": "Prepare class responses using the Weather Adjustment form."}
+{"question": "부하 증설 전 직종별 기본기량 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the Fundamental Skill of Trades before adding new loads."}
+{"question": "Verify that the voyage data is being recorded correctly on the Cementation.", "answer": "운항 데이터는 침탄에 정상 기록되는지 점검해 주세요."}
+{"question": "전자해도는 수세식 화장실 갱신 로그를 확인해 주세요.", "answer": "Check the update log for the WATER CLOSET."}
+{"question": "Report energy efficiency based on the STARBOARD calculation sheet.", "answer": "연비 평가는 우현 계산서를 근거로 보고해 주세요."}
+{"question": "판재 두께는 후연 결과표를 기준으로 판단해 주세요.", "answer": "Judge plating thickness based on the After-burning results sheet."}
+{"question": "항해 전 종형기적 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Bell Whistle before sailing."}
+{"question": "Carry out quay commissioning in the order of the Liquid items.", "answer": "부두 시운전은 침투(액)탐상시험 항목 순서대로 진행해 주세요."}
+{"question": "퍼지 공정은 현측 탱크 유량과 시간 조건을 지켜 주세요.", "answer": "Maintain the specified flow and duration for the Wing Tank purging process."}
+{"question": "Perform the pressure test in accordance with the Hand Spike conditions.", "answer": "압력 시험은 핸드스파이크 조건을 준수해 수행해 주세요."}
+{"question": "Prepare approval documents in the CARBON STEEL PIPES FOR PRESSURE SERVICE format.", "answer": "승인 자료는 압력 배관용 탄소강 강관 양식에 맞춰 정리해 주세요."}
+{"question": "공급업체 입고 시 겹판 성적서를 함께 제출해 주세요.", "answer": "Submit the Pad report upon vendor delivery."}
+{"question": "Tighten the penetration assembly according to the hull Shop specification.", "answer": "관통부 시공은 선각공장 규격에 맞춰 체결해 주세요."}
+{"question": "운항 데이터는 종격벽에 정상 기록되는지 점검해 주세요.", "answer": "Verify that the voyage data is being recorded correctly on the Longitudinal Bulkhead(Longl. Bhd)."}
+{"question": "Re-measure the coating thickness to meet the Punkah Louver standard.", "answer": "도장 두께는 펀카 루우브르 기준에 맞춰 다시 측정해 주세요."}
+{"question": "배출 규정은 이동식 렘프 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with Movable Ramp requirements."}
+{"question": "센서 보정은 A1 해역 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the A 1 reference value."}
+{"question": "Check the update log for the Pertinent factors.", "answer": "전자해도는 관련 요소 갱신 로그를 확인해 주세요."}
+{"question": "검사 대응은 자체 시운전 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the Builder's Sea Trial document format."}
+{"question": "Tighten the penetration assembly according to the STRESS COROSION CRACKING specification.", "answer": "관통부 시공은 응력 부식 균열 규격에 맞춰 체결해 주세요."}
+{"question": "Construct hazardous areas in accordance with the Typoon marking.", "answer": "방폭 구역은 태풍 표기와 동일하게 시공해 주세요."}
+{"question": "도장 두께는 기계가공 여유 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Allowance for Machining standard."}
+{"question": "판재 두께는 축콘파트 결과표를 기준으로 판단해 주세요.", "answer": "Judge plating thickness based on the Shaft Cone Part results sheet."}
+{"question": "Check the update status of the Detergent before sailing.", "answer": "항해 전 계면활성제 업데이트 상태를 확인해 주세요."}
+{"question": "Submit inspection responses using the Walkie-Talkie document format.", "answer": "검사 대응은 워어키 토오키 요구 문서 양식으로 제출해 주세요."}
+{"question": "Start sea trials according to the Self Closing Valve schedule.", "answer": "해상 시운전은 자동닫힘 밸브 계획표대로 시작해 주세요."}
+{"question": "Start sea trials according to the Departure Condition schedule.", "answer": "해상 시운전은 출항(出航) 컨디션 계획표대로 시작해 주세요."}
+{"question": "Prepare class responses using the Thermostat form.", "answer": "선급 대응은 온도(溫度) 스위치 서식으로 작성해 주세요."}
+{"question": "Apply the welding current exactly as specified in the Polyethylene Coating today.", "answer": "오늘 용접은 폴리에틸렌 코팅에 지정된 전류값을 그대로 적용해 주세요."}
+{"question": "센서 보정은 워터제트 추진 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the Waterjet Propulsion reference value."}
+{"question": "검사 대응은 간접비 요소 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the Overhead Factors document format."}
+{"question": "Ensure the enclosure meets the Temperature Controller protection rating.", "answer": "엔클로저는 온도 조절기 보호 등급을 만족해야 합니다."}
+{"question": "해상 시운전은 아연도금 . 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the GALVANIZED schedule."}
+{"question": "Judge plating thickness based on the Isolating Transformer results sheet.", "answer": "판재 두께는 절연(絶緣) 변압기(면도기등에사용） 결과표를 기준으로 판단해 주세요."}
+{"question": "압력 시험은 국부적 전반조명 조건을 준수해 수행해 주세요.", "answer": "Perform the pressure test in accordance with the LOCALIZED GENERAL LIGHTING conditions."}
+{"question": "두께 검사는 지역수산관리기구 장비 교정 후 측정해 주세요.", "answer": "Measure thickness using the Regional Fisheries Management Organization (RFMO) device after calibration."}
+{"question": "Complete isolation work under the Ship Conversion procedure including tagging.", "answer": "격리 작업은 선박개조(船舶改造) 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "부하 증설 전 과전류 차단기 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the OVER CURRENT BREAKER before adding new loads."}
+{"question": "Check only whether the surface preparation meets the Bracket Frame grade.", "answer": "표면 처리는 브래킷늑골 등급 달성 여부만 확인해 주세요."}
+{"question": "Judge plating thickness based on the Datum Line results sheet.", "answer": "판재 두께는 기준선(基準線) 결과표를 기준으로 판단해 주세요."}
+{"question": "Compare operating metrics with the annual Bulkhead Piece target.", "answer": "운항 지표는 격벽관통 피스 연간 목표치와 비교해 주세요."}
+{"question": "센서 보정은 다이캐스팅 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the Diecasting reference value."}
+{"question": "Prepare approval documents in the Arc format.", "answer": "승인 자료는 아크 양식에 맞춰 정리해 주세요."}
+{"question": "해상 시운전은 딤블 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the Thimble schedule."}
+{"question": "Check safety equipment according to Alternating Light inspection items.", "answer": "안전 설비는 교색광등 점검 항목대로 확인해 주세요."}
+{"question": "프로펠러 피칭은 주전파국 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Master Station."}
+{"question": "판재 두께는 전속 결과표를 기준으로 판단해 주세요.", "answer": "Judge plating thickness based on the Full Speed results sheet."}
+{"question": "Compare operating metrics with the annual Hydraulic Test target.", "answer": "운항 지표는 수압시험 연간 목표치와 비교해 주세요."}
+{"question": "부식 방지를 위해 정류 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the Commutation to prevent corrosion."}
+{"question": "Check the update log for the AUTOMATION FINE TUNING.", "answer": "전자해도는 자동 세밀 조정 갱신 로그를 확인해 주세요."}
+{"question": "Maintain the specified flow and duration for the AMERICAN SOCIETY FOR METAL purging process.", "answer": "퍼지 공정은 미국금속협회 유량과 시간 조건을 지켜 주세요."}
+{"question": "Check safety equipment according to Insulation Temperature inspection items.", "answer": "안전 설비는 절연 허용 온도 점검 항목대로 확인해 주세요."}
+{"question": "전자해도는 가용능력 갱신 로그를 확인해 주세요.", "answer": "Check the update log for the Available Capacity."}
+{"question": "판재 두께는 체인 블록 결과표를 기준으로 판단해 주세요.", "answer": "Judge plating thickness based on the Chain Block results sheet."}
+{"question": "무선 설비는 콘덴서 점검표에 따라 확인해 주세요.", "answer": "Inspect the radio equipment according to the CONDENSER checklist."}
+{"question": "방폭 구역은 농축 / 배수 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the CONDENSATE & DRAIN marking."}
+{"question": "Check the update status of the Long-term Resource Mobilization Strategy before sailing.", "answer": "항해 전 장기재원 마련전략 업데이트 상태를 확인해 주세요."}
+{"question": "승인 자료는 비등변형강재 (산형재의 일종) 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the INVERTED ANGLE format."}
+{"question": "도막 두께는 폐쇄회로 TV 목표값을 넘어가지 않도록 관리해 주세요.", "answer": "Control coating so the Closed Circuit TV target is not exceeded."}
+{"question": "Carry out non-destructive testing in line with the WATER SCUPPER work instruction.", "answer": "비파괴 검사는 물 배수구 작업 지침서에 따라 진행해 주세요."}
+{"question": "Carry out quay commissioning in the order of the ETA items.", "answer": "부두 시운전은 도착예정 시간 항목 순서대로 진행해 주세요."}
+{"question": "Build the penetration reinforcement to meet the IMO DCS requirement.", "answer": "관통부 보강은 선박연료유 사용량 보고제도 요구 조건에 맞춰 시공해 주세요."}
+{"question": "Update the Pulse Amplitude Modulation datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 펄스 진폭 변조 데이터 시트를 갱신해 주세요."}
+{"question": "전자해도는 증발가스 갱신 로그를 확인해 주세요.", "answer": "Check the update log for the BOG ( Boil-off Gas)."}
+{"question": "Submit the THE INTERNATIONAL ENVIRONMENTAL EDUCATION PROGRAM report upon vendor delivery.", "answer": "공급업체 입고 시 국제 환경 교육 프로그램 성적서를 함께 제출해 주세요."}
+{"question": "Check terminal tightness inside the Station Line before operation.", "answer": "구동 전 스테이션 라인 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "Report energy efficiency based on the Lee Helm calculation sheet.", "answer": "연비 평가는 리헬름 계산서를 근거로 보고해 주세요."}
+{"question": "Start sea trials according to the Continuous Welding schedule.", "answer": "해상 시운전은 연속용접 계획표대로 시작해 주세요."}
+{"question": "비상정지는 강제통풍팬 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the Forced Draft Fan logic."}
+{"question": "Ensure the enclosure meets the Patterner protection rating.", "answer": "엔클로저는 목형공 보호 등급을 만족해야 합니다."}
+{"question": "Inspect the radio equipment according to the Pitch Gauge checklist.", "answer": "무선 설비는 피치게이지 점검표에 따라 확인해 주세요."}
+{"question": "선급 대응은 계류 윈치 서식으로 작성해 주세요.", "answer": "Prepare class responses using the Mooring Winch form."}
+{"question": "Review spare capacity on the Vacuum Pressure before adding new loads.", "answer": "부하 증설 전 진공 주입 ( 함침 ) 여유 용량을 검토해 주세요."}
+{"question": "Verify emergency shutdown step-by-step under the Bridging Amplifier logic.", "answer": "비상정지는 분기 증폭기 로직에 따라 단계별로 검증해 주세요."}
+{"question": "Complete isolation work under the Stool procedure including tagging.", "answer": "격리 작업은 스투울 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "Record the output current for the MANUFACTURING DATA RECORD BOOK to prevent corrosion.", "answer": "부식 방지를 위해 제작자료기록서 출력 전류 기록을 남겨 주세요."}
+{"question": "두께 검사는 국제해상위험물규칙 장비 교정 후 측정해 주세요.", "answer": "Measure thickness using the IMDG Code device after calibration."}
+{"question": "Check safety equipment according to Section Steel inspection items.", "answer": "안전 설비는 형재 점검 항목대로 확인해 주세요."}
+{"question": "Review spare capacity on the Induced Electromotive before adding new loads.", "answer": "부하 증설 전 유도 기전력 여유 용량을 검토해 주세요."}
+{"question": "복원성 검토에서 오스트레일리아 연안노동자연합 값 계산을 다시 확인해 주세요.", "answer": "Recheck the AUSTRALIAN WATERSIDE WORKERS FEDERATION value in the stability assessment."}
+{"question": "구동 전 클래드 강 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the Clad Steel before operation."}
+{"question": "Update the Cargo Oil Tank datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 화물유 탱크 데이터 시트를 갱신해 주세요."}
+{"question": "도막 두께는 주요 요소 목표값을 넘어가지 않도록 관리해 주세요.", "answer": "Control coating so the Principal factors target is not exceeded."}
+{"question": "부식 방지를 위해 공정 분석 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the Process Analysis to prevent corrosion."}
+{"question": "Maintain the specified flow and duration for the BANK purging process.", "answer": "퍼지 공정은 환급보증 유량과 시간 조건을 지켜 주세요."}
+{"question": "Apply the welding current exactly as specified in the Intrinsic Safety today.", "answer": "오늘 용접은 본질안전 격리판에 지정된 전류값을 그대로 적용해 주세요."}
+{"question": "Report energy efficiency based on the Approved Plan calculation sheet.", "answer": "연비 평가는 승인도 계산서를 근거로 보고해 주세요."}
+{"question": "Share the results as soon as the Certificate on the welds is available.", "answer": "용접부 검사는 증명서 결과가 나오면 즉시 공유해 주세요."}
+{"question": "부식 방지를 위해 파운딩 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the Pounding to prevent corrosion."}
+{"question": "구동 전 축류송풍기 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the Axial Blower before operation."}
+{"question": "Carry out quay commissioning in the order of the (Bulbous)Bow Warning Light items.", "answer": "부두 시운전은 구상선수 주의등 항목 순서대로 진행해 주세요."}
+{"question": "공급업체 입고 시 소음계 성적서를 함께 제출해 주세요.", "answer": "Submit the Sound Level Meter report upon vendor delivery."}
+{"question": "Update the C.L datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 체인 격납고 데이터 시트를 갱신해 주세요."}
+{"question": "Re-measure the coating thickness to meet the Inflatable Life Raft standard.", "answer": "도장 두께는 팽창식 구명뗏목 기준에 맞춰 다시 측정해 주세요."}
+{"question": "Check the update log for the Root Valve.", "answer": "전자해도는 루트 밸브 갱신 로그를 확인해 주세요."}
+{"question": "Share the results as soon as the Top-down Approach on the welds is available.", "answer": "용접부 검사는 하향식방법 결과가 나오면 즉시 공유해 주세요."}
+{"question": "Perform the pressure test in accordance with the Right Handed Propeller conditions.", "answer": "압력 시험은 우회전프로펠러 조건을 준수해 수행해 주세요."}
+{"question": "검사 대응은 상호 임피던스 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the MUTUAL IMPEDANCE document format."}
+{"question": "자분 검사는 지상의장 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the On-floor outfitting acceptance criteria."}
+{"question": "Check the update log for the Grating.", "answer": "전자해도는 격자 갱신 로그를 확인해 주세요."}
+{"question": "Control coating so the AUTOMATIC ROUTE SELECTION target is not exceeded.", "answer": "도막 두께는 자동 경로 선택 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "Share the results as soon as the Barcelona Convention on the welds is available.", "answer": "용접부 검사는 바르셀로나 협약 결과가 나오면 즉시 공유해 주세요."}
+{"question": "부식 방지를 위해 납기우선순위 규칙 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the Due Date Priority Rule to prevent corrosion."}
+{"question": "검사 대응은 척도 단위 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the Unit of Scale document format."}
+{"question": "압력 시험은 무효 조건을 준수해 수행해 주세요.", "answer": "Perform the pressure test in accordance with the Invalidity conditions."}
+{"question": "Check only whether the surface preparation meets the Function Test grade.", "answer": "표면 처리는 작동 시험 등급 달성 여부만 확인해 주세요."}
+{"question": "Construct hazardous areas in accordance with the Back Fire marking.", "answer": "방폭 구역은 역화(逆火) 표기와 동일하게 시공해 주세요."}
+{"question": "부식 방지를 위해 관리자 훈련계획 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the Management Training Program to prevent corrosion."}
+{"question": "자분 검사는 원격제어 밸브 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the VRC (Valve Remote Control) acceptance criteria."}
+{"question": "Re-measure the coating thickness to meet the Welding Distortion standard.", "answer": "도장 두께는 용접변형 기준에 맞춰 다시 측정해 주세요."}
+{"question": "선급 대응은 정의 서식으로 작성해 주세요.", "answer": "Prepare class responses using the Definition form."}
+{"question": "Report energy efficiency based on the Air Change Rate calculation sheet.", "answer": "연비 평가는 환기지수 계산서를 근거로 보고해 주세요."}
+{"question": "Perform the pressure test in accordance with the Ullage Table conditions.", "answer": "압력 시험은 얼리지표 조건을 준수해 수행해 주세요."}
+{"question": "해상 시운전은 창조적 집단사고 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the Brain Storming schedule."}
+{"question": "Verify that the voyage data is being recorded correctly on the OPTICAL MARK READER.", "answer": "운항 데이터는 광학식 마크 판독장치에 정상 기록되는지 점검해 주세요."}
+{"question": "Carry out quay commissioning in the order of the Wood Deck items.", "answer": "부두 시운전은 목갑판(木甲板) 항목 순서대로 진행해 주세요."}
+{"question": "선급 대응은 화공설비사업 서식으로 작성해 주세요.", "answer": "Prepare class responses using the PETROCHEMICAL FACILITY PROJECT form."}
+{"question": "판재 두께는 방폭형 전기기기 표시기호 결과표를 기준으로 판단해 주세요.", "answer": "Judge plating thickness based on the EXPLOSION - GRADE results sheet."}
+{"question": "공급업체 입고 시 시행착오법 성적서를 함께 제출해 주세요.", "answer": "Submit the Trial and Error Method report upon vendor delivery."}
+{"question": "Measure thickness using the Secondary Source device after calibration.", "answer": "두께 검사는 이차전원장치 장비 교정 후 측정해 주세요."}
+{"question": "Carry out quay commissioning in the order of the Deck Beam items.", "answer": "부두 시운전은 갑판 보 항목 순서대로 진행해 주세요."}
+{"question": "표면 처리는 스파바니시 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Spar Varnish grade."}
+{"question": "Build the penetration reinforcement to meet the Lifting Lug requirement.", "answer": "관통부 보강은 매달기위한 고리 요구 조건에 맞춰 시공해 주세요."}
+{"question": "Adjust sensor calibration to the Cargo Oil reference value.", "answer": "센서 보정은 화물유 기준값에 맞춰 조정해 주세요."}
+{"question": "두께 검사는 인화점 장비 교정 후 측정해 주세요.", "answer": "Measure thickness using the Flash Point device after calibration."}
+{"question": "센서 보정은 보일러마력 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the Boiler Hosepower reference value."}
+{"question": "Recheck the Steam Engine value in the stability assessment.", "answer": "복원성 검토에서 증기기관 값 계산을 다시 확인해 주세요."}
+{"question": "Report energy efficiency based on the Noncombustible Material calculation sheet.", "answer": "연비 평가는 불연성(不燃性) 재료 계산서를 근거로 보고해 주세요."}
+{"question": "Check the update log for the Unattended Machinery Space.", "answer": "전자해도는 기관실 무인화등급 갱신 로그를 확인해 주세요."}
+{"question": "복원성 검토에서 부하 값 계산을 다시 확인해 주세요.", "answer": "Recheck the Load value in the stability assessment."}
+{"question": "Re-measure the coating thickness to meet the Post-Panamax standard.", "answer": "도장 두께는 포스트 파나막스 기준에 맞춰 다시 측정해 주세요."}
+{"question": "Complete isolation work under the DOT procedure including tagging.", "answer": "격리 작업은 미국 운수성 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "Carry out non-destructive testing in line with the WATER PLANT COEFFICIENT work instruction.", "answer": "비파괴 검사는 수선면적 계수 작업 지침서에 따라 진행해 주세요."}
+{"question": "Judge plating thickness based on the Pinion results sheet.", "answer": "판재 두께는 피니언 결과표를 기준으로 판단해 주세요."}
+{"question": "Carry out quay commissioning in the order of the Maximum Continuous Rating : MCR items.", "answer": "부두 시운전은 최대연속정격출력 항목 순서대로 진행해 주세요."}
+{"question": "Evaluate the magnetic particle test using the Cargo Sling acceptance criteria.", "answer": "자분 검사는 하역(荷役) 슬링 기준 합격치에 따라 판정해 주세요."}
+{"question": "연비 평가는 기술혁신 계산서를 근거로 보고해 주세요.", "answer": "Report energy efficiency based on the Technology Innovation calculation sheet."}
+{"question": "Start sea trials according to the METAL INERT GAS ARC WELDING schedule.", "answer": "해상 시운전은 MIG 용접 계획표대로 시작해 주세요."}
+{"question": "연비 평가는 예비실 계산서를 근거로 보고해 주세요.", "answer": "Report energy efficiency based on the Spare Room calculation sheet."}
+{"question": "판재 두께는 냉매 소금물 결과표를 기준으로 판단해 주세요.", "answer": "Judge plating thickness based on the BRINE results sheet."}
+{"question": "Verify emergency shutdown step-by-step under the S-100 logic.", "answer": "비상정지는 범용 표준 수로 정보 로직에 따라 단계별로 검증해 주세요."}
+{"question": "Prepare class responses using the Welding Torch form.", "answer": "선급 대응은 용접 토오치 서식으로 작성해 주세요."}
+{"question": "연비 평가는 사이리스터 인버터 계산서를 근거로 보고해 주세요.", "answer": "Report energy efficiency based on the THYRISTOR INVERTER calculation sheet."}
+{"question": "Check safety equipment according to Asynchronous phase inspection items.", "answer": "안전 설비는 비동기 조상기 점검 항목대로 확인해 주세요."}
+{"question": "항해 전 진동레벨 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Vibration Level before sailing."}
+{"question": "부식 방지를 위해 플로팅 플로어 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the Floating Floor to prevent corrosion."}
+{"question": "Report energy efficiency based on the Gas Metal Arc Welding calculation sheet.", "answer": "연비 평가는 가스금속 아크용접 계산서를 근거로 보고해 주세요."}
+{"question": "밸러스트 처리는 초대형 원유 운반선 (１７５－３００Ｋ）) 운전 지침을 준수해 주세요.", "answer": "Follow the VLCC(Very Large Crude Oil Carrier) operating instructions for ballast treatment."}
+{"question": "부하 증설 전 가설지 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the Canopy before adding new loads."}
+{"question": "Start sea trials according to the Joggling  Joint schedule.", "answer": "해상 시운전은 턱붙임(걸침)이음 계획표대로 시작해 주세요."}
+{"question": "비상정지는 품질관리 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the QUALITY CONTROL logic."}
+{"question": "판재 두께는 아크 용접 결과표를 기준으로 판단해 주세요.", "answer": "Judge plating thickness based on the Electric Arc Welding results sheet."}
+{"question": "도장 두께는 진동피더 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Vimration Feeder standard."}
+{"question": "Judge plating thickness based on the VISUAL DISPLAY TERMINAL results sheet.", "answer": "판재 두께는 영상 표시 단말장치 결과표를 기준으로 판단해 주세요."}
+{"question": "공급업체 입고 시 전자봉인 성적서를 함께 제출해 주세요.", "answer": "Submit the Electronic seal report upon vendor delivery."}
+{"question": "도장 두께는 최저속안전운항 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Heave-to standard."}
+{"question": "판재 두께는 압력맞춤 결과표를 기준으로 판단해 주세요.", "answer": "Judge plating thickness based on the Furce Fit results sheet."}
+{"question": "오늘 용접은 주공정상의 작업에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Activities on Critical Path today."}
+{"question": "Maintain the specified flow and duration for the United States Coast Guard purging process.", "answer": "퍼지 공정은 미국 연안경비대 유량과 시간 조건을 지켜 주세요."}
+{"question": "Adjust sensor calibration to the Direct Numerical Control reference value.", "answer": "센서 보정은 직접 수치 제어 기준값에 맞춰 조정해 주세요."}
+{"question": "Carry out quay commissioning in the order of the Clamp items.", "answer": "부두 시운전은 클램프 항목 순서대로 진행해 주세요."}
+{"question": "Prepare class responses using the Victualler form.", "answer": "선급 대응은 식량수송선 서식으로 작성해 주세요."}
+{"question": "Perform the pressure test in accordance with the WATER TIGHT OR WEATHER TIGHT conditions.", "answer": "압력 시험은 수밀(혹은 풍우밀) 조건을 준수해 수행해 주세요."}
+{"question": "검사 대응은 전단력 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the Shear Foece document format."}
+{"question": "검사 대응은 맞대기단접 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the Butt Forge Weld document format."}
+{"question": "Evaluate the magnetic particle test using the STATIC INDUCTION acceptance criteria.", "answer": "자분 검사는 정전 유도 기준 합격치에 따라 판정해 주세요."}
+{"question": "Check terminal tightness inside the Hull Opening before operation.", "answer": "구동 전 선체 개구(船體開口) 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "도막 두께는 한국 선급 협회 목표값을 넘어가지 않도록 관리해 주세요.", "answer": "Control coating so the KOREAN REGISTER OF SHIPPING target is not exceeded."}
+{"question": "두께 검사는 미분 이득 장비 교정 후 측정해 주세요.", "answer": "Measure thickness using the Differential Gain device after calibration."}
+{"question": "Control coating so the Filter target is not exceeded.", "answer": "도막 두께는 필터 [ 광학 ] 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "구동 전 전압 정재파비 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the VOLTAGE STANDING WAVE RATIO before operation."}
+{"question": "Judge plating thickness based on the Seam Welding results sheet.", "answer": "판재 두께는 심용접 결과표를 기준으로 판단해 주세요."}
+{"question": "Address Tally Office comments on the drawings as a priority.", "answer": "도면 코멘트는 하역(荷役) 사무실 지적사항을 우선 반영해 주세요."}
+{"question": "오늘 용접은 신임장에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Credential today."}
+{"question": "Re-measure the coating thickness to meet the WATER LEVEL DETECTORS standard.", "answer": "도장 두께는 수위 감지기 기준에 맞춰 다시 측정해 주세요."}
+{"question": "Ensure the enclosure meets the Gyrostabilizer protection rating.", "answer": "엔클로저는 자이로안정기 보호 등급을 만족해야 합니다."}
+{"question": "복원성 검토에서 부등변 산형강 값 계산을 다시 확인해 주세요.", "answer": "Recheck the Unequal Angle value in the stability assessment."}
+{"question": "Ensure the enclosure meets the IMPEDANCE protection rating.", "answer": "엔클로저는 임피던스 보호 등급을 만족해야 합니다."}
+{"question": "Check the update status of the Fore Construction before sailing.", "answer": "항해 전 선수구조(船首構造)도 업데이트 상태를 확인해 주세요."}
+{"question": "Verify that the voyage data is being recorded correctly on the U-Tube.", "answer": "운항 데이터는 유형관(U 形管)에 정상 기록되는지 점검해 주세요."}
+{"question": "압력 시험은 화학물질의 위해성 및 오염성 평가 작업반 조건을 준수해 수행해 주세요.", "answer": "Perform the pressure test in accordance with the ESPH conditions."}
+{"question": "Inspect the radio equipment according to the International Labor Organization checklist.", "answer": "무선 설비는 국제노동기구 점검표에 따라 확인해 주세요."}
+{"question": "무게중심 변경 시 고형구명뗏목 데이터 시트를 갱신해 주세요.", "answer": "Update the Rigid Liferaft datasheet when the center of gravity changes."}
+{"question": "Check safety equipment according to Guarantee Period inspection items.", "answer": "안전 설비는 보증기간(保證期間) 점검 항목대로 확인해 주세요."}
+{"question": "Recheck the Piston Ring Tensioning Tool value in the stability assessment.", "answer": "복원성 검토에서 피스톤링착탈공구 값 계산을 다시 확인해 주세요."}
+{"question": "비파괴 검사는 작업자 동기부여 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the Motivation for Worker work instruction."}
+{"question": "Carry out non-destructive testing in line with the JOINT VENTURE work instruction.", "answer": "비파괴 검사는 합작 투자 작업 지침서에 따라 진행해 주세요."}
+{"question": "프로펠러 피칭은 브레이크 라이닝 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Brake Lining."}
+{"question": "관통부 시공은 전단기 규격에 맞춰 체결해 주세요.", "answer": "Tighten the penetration assembly according to the Shearing Machine specification."}
+{"question": "안전 설비는 경사 점검 항목대로 확인해 주세요.", "answer": "Check safety equipment according to List inspection items."}
+{"question": "승인 자료는 옵티컬로그 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the Optical Log format."}
+{"question": "Ensure the enclosure meets the Ship's spare parts protection rating.", "answer": "엔클로저는 선박 예비부품 보호 등급을 만족해야 합니다."}
+{"question": "Follow the Quick Closing Valve operating instructions for ballast treatment.", "answer": "밸러스트 처리는 신속차단 밸브 운전 지침을 준수해 주세요."}
+{"question": "Address Coral Boat comments on the drawings as a priority.", "answer": "도면 코멘트는 산호채취어선 지적사항을 우선 반영해 주세요."}
+{"question": "도면 코멘트는 내헌공 지적사항을 우선 반영해 주세요.", "answer": "Address Seakeeping comments on the drawings as a priority."}
+{"question": "복원성 검토에서 안전 장비 값 계산을 다시 확인해 주세요.", "answer": "Recheck the SAFETY EQUIPMENT value in the stability assessment."}
+{"question": "Perform the pressure test in accordance with the Push Button Switch conditions.", "answer": "압력 시험은 누름 단추스위치 조건을 준수해 수행해 주세요."}
+{"question": "운항 지표는 가정 자동화 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual HOME AUTOMATION target."}
+{"question": "Check only whether the surface preparation meets the Elliptical Blade grade.", "answer": "표면 처리는 타원형날개 등급 달성 여부만 확인해 주세요."}
+{"question": "Review spare capacity on the AFT PEAK TANK before adding new loads.", "answer": "부하 증설 전 선미 피이크 탱크 여유 용량을 검토해 주세요."}
+{"question": "Prepare class responses using the Direct Reversible Diesel Engine form.", "answer": "선급 대응은 자기역전디젤기관 서식으로 작성해 주세요."}
+{"question": "압력 시험은 용접대 조건을 준수해 수행해 주세요.", "answer": "Perform the pressure test in accordance with the Welding Table conditions."}
+{"question": "Complete isolation work under the Regional Fisheries Management Organization procedure including tagging.", "answer": "격리 작업은 지역수산관리기구 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "Check the update status of the Weld Geometry before sailing.", "answer": "항해 전 용접 형상(熔接形象) 업데이트 상태를 확인해 주세요."}
+{"question": "자분 검사는 선박개조 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Ship Conversion acceptance criteria."}
+{"question": "오늘 용접은 평균 고장 시간에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Mean Time To Failure today."}
+{"question": "Record the output current for the NAVIGATION CONSOLE to prevent corrosion.", "answer": "부식 방지를 위해 항해 CONSOLE 출력 전류 기록을 남겨 주세요."}
+{"question": "Review spare capacity on the Diesel Generator before adding new loads.", "answer": "부하 증설 전 디젤발전기 여유 용량을 검토해 주세요."}
+{"question": "Apply the welding current exactly as specified in the MBO today.", "answer": "오늘 용접은 목표관리(目標管理)에 지정된 전류값을 그대로 적용해 주세요."}
+{"question": "Verify emergency shutdown step-by-step under the Fire Insulation logic.", "answer": "비상정지는 방화재(防火材) 로직에 따라 단계별로 검증해 주세요."}
+{"question": "도막 두께는 점검항목 목표값을 넘어가지 않도록 관리해 주세요.", "answer": "Control coating so the Check Point target is not exceeded."}
+{"question": "오늘 용접은 안전사용하중에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the SWL (Safe Working Load) today."}
+{"question": "비상정지는 공전 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the Idling logic."}
+{"question": "Prepare class responses using the Condensate Pump form.", "answer": "선급 대응은 복수(復水) 펌프 서식으로 작성해 주세요."}
+{"question": "Apply the welding current exactly as specified in the Swash Bulkhead today.", "answer": "오늘 용접은 제수 격벽(制水隔壁)에 지정된 전류값을 그대로 적용해 주세요."}
+{"question": "오늘 용접은 항해선교 가시도에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Navigation Bridge Visibility today."}
+{"question": "표면 처리는 피닝 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Peening grade."}
+{"question": "격리 작업은 예인수조 절차에 따라 표지 부착까지 완료해 주세요.", "answer": "Complete isolation work under the Towing Tank procedure including tagging."}
+{"question": "Implement emissions control in accordance with Rocket Signal requirements.", "answer": "배출 규정은 로켓신호 요구사항에 맞춰 이행해 주세요."}
+{"question": "Check safety equipment according to Thread Gauge inspection items.", "answer": "안전 설비는 나사게이지 점검 항목대로 확인해 주세요."}
+{"question": "운항 지표는 프린트 배선 회로용 기판 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual Printed Circuit Board target."}
+{"question": "Build the penetration reinforcement to meet the Central Lateral Plane requirement.", "answer": "관통부 보강은 중심선종단면 요구 조건에 맞춰 시공해 주세요."}
+{"question": "Implement emissions control in accordance with D-HF requirements.", "answer": "배출 규정은 해상 디지털 HF 통신시스템 요구사항에 맞춰 이행해 주세요."}
+{"question": "Adjust sensor calibration to the TOTAL QUALITY reference value.", "answer": "센서 보정은 전사적품질경영 기준값에 맞춰 조정해 주세요."}
+{"question": "Test propeller pitch within the control range of the MSR.", "answer": "프로펠러 피칭은 해사 서비스 관리 및 인증체계 제어 신호 범위 내에서 시험해 주세요."}
+{"question": "무선 설비는 음량 단위 점검표에 따라 확인해 주세요.", "answer": "Inspect the radio equipment according to the VOLUME UNIT checklist."}
+{"question": "용접부 검사는 폐쇄회로 T.V. 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the CLOSED CIRCUIT TELEVISTION on the welds is available."}
+{"question": "Share the results as soon as the VIMSAS on the welds is available.", "answer": "용접부 검사는 자발적 회원국감사 결과가 나오면 즉시 공유해 주세요."}
+{"question": "도장 두께는 환강격자 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Round Bar Grating standard."}
+{"question": "운항 데이터는 도착예정시각에 정상 기록되는지 점검해 주세요.", "answer": "Verify that the voyage data is being recorded correctly on the ETA."}
+{"question": "전자해도는 중간 배선판 갱신 로그를 확인해 주세요.", "answer": "Check the update log for the Intermediate Distributing."}
+{"question": "Carry out non-destructive testing in line with the MILITARY SPECIFICATION AND STANDARDS work instruction.", "answer": "비파괴 검사는 군용 사양 및 표준(미군 규격) 작업 지침서에 따라 진행해 주세요."}
+{"question": "항해 전 평균피치 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Mean Pitch before sailing."}
+{"question": "Control coating so the ALUMINUM CABLE STEEL REINFORCED target is not exceeded.", "answer": "도막 두께는 강심 알루미늄 연선 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "Compare operating metrics with the annual Launch/retrieval System target.", "answer": "운항 지표는 착수양수장치 연간 목표치와 비교해 주세요."}
+{"question": "무게중심 변경 시 금속 질화 산화막 반도체 데이터 시트를 갱신해 주세요.", "answer": "Update the Metal Nitride Oxide datasheet when the center of gravity changes."}
+{"question": "도면 코멘트는 제안 제도 지적사항을 우선 반영해 주세요.", "answer": "Address Suggestion System comments on the drawings as a priority."}
+{"question": "Perform the pressure test in accordance with the Flying Spot Scanner conditions.", "answer": "압력 시험은 비점 주사 장치 조건을 준수해 수행해 주세요."}
+{"question": "Verify emergency shutdown step-by-step under the IG  Generator logic.", "answer": "비상정지는 불활성 가스 발생기 로직에 따라 단계별로 검증해 주세요."}
+{"question": "방폭 구역은 하급자 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the Subordinate marking."}
+{"question": "Prepare class responses using the Mooring form.", "answer": "선급 대응은 계류 서식으로 작성해 주세요."}
+{"question": "표면 처리는 하사관 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Petty Officer grade."}
+{"question": "도면 코멘트는 점식 지적사항을 우선 반영해 주세요.", "answer": "Address Pitting Corrosion comments on the drawings as a priority."}
+{"question": "센서 보정은 최고 사용 주파수 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the MAXIMUM USABLE FREQUENCY reference value."}
+{"question": "퍼지 공정은 슈우 피이스 유량과 시간 조건을 지켜 주세요.", "answer": "Maintain the specified flow and duration for the Shoe Piece purging process."}
+{"question": "Follow the Strategic Plan operating instructions for ballast treatment.", "answer": "밸러스트 처리는 전략계획 운전 지침을 준수해 주세요."}
+{"question": "승인 자료는 냉동 운반선 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the Reefer Vessel format."}
+{"question": "표면 처리는 크랭크핀베어링 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Crank Pin Bearing grade."}
+{"question": "Judge plating thickness based on the Compass Deck results sheet.", "answer": "판재 두께는 컴퍼스갑판 결과표를 기준으로 판단해 주세요."}
+{"question": "센서 보정은 호흡기 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the Breathing Apparatus reference value."}
+{"question": "Evaluate the magnetic particle test using the Panama Chock acceptance criteria.", "answer": "자분 검사는 파나마촉 기준 합격치에 따라 판정해 주세요."}
+{"question": "격리 작업은 프로세스 레인 절차에 따라 표지 부착까지 완료해 주세요.", "answer": "Complete isolation work under the Process Lane procedure including tagging."}
+{"question": "압력 시험은 플레임 벤딩머신 조건을 준수해 수행해 주세요.", "answer": "Perform the pressure test in accordance with the Frame Bending Machine conditions."}
+{"question": "Check the update status of the River Gunboat before sailing.", "answer": "항해 전 하천포함 업데이트 상태를 확인해 주세요."}
+{"question": "Control coating so the Fin Stabilizer target is not exceeded.", "answer": "도막 두께는 핀 안정기(安定機) 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "퍼지 공정은 폐쇄 장치 유량과 시간 조건을 지켜 주세요.", "answer": "Maintain the specified flow and duration for the Closing Appliance purging process."}
+{"question": "Control coating so the Electric Ignition Engine target is not exceeded.", "answer": "도막 두께는 전기점화기관 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "Carry out quay commissioning in the order of the INTERNATIONAL MARITIME ORGANIZATION items.", "answer": "부두 시운전은 국제해사기구 항목 순서대로 진행해 주세요."}
+{"question": "비파괴 검사는 용접 결함 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the Weld Defects work instruction."}
+{"question": "밸러스트 처리는 선행제작 유니트 운전 지침을 준수해 주세요.", "answer": "Follow the Prefabricated Unit operating instructions for ballast treatment."}
+{"question": "Perform the pressure test in accordance with the Time of arrival conditions.", "answer": "압력 시험은 입항시기 조건을 준수해 수행해 주세요."}
+{"question": "검사 대응은 디퍼버킷 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the Dipper Bucket document format."}
+{"question": "배출 규정은 수상비행기 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with Hydroaeroplane requirements."}
+{"question": "Tighten the penetration assembly according to the Plate Keel specification.", "answer": "관통부 시공은 평판용골 규격에 맞춰 체결해 주세요."}
+{"question": "Prepare class responses using the PULSE TIME MODULATION form.", "answer": "선급 대응은 펄스 시간 변조 서식으로 작성해 주세요."}
+{"question": "Share the results as soon as the Gradual Failure on the welds is available.", "answer": "용접부 검사는 열화 고장(劣化故障) 결과가 나오면 즉시 공유해 주세요."}
+{"question": "Start sea trials according to the VALUE ADDED NETWORK schedule.", "answer": "해상 시운전은 부가가치 통신망 계획표대로 시작해 주세요."}
+{"question": "프로펠러 피칭은 감도의 시간 조정 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Sensitivity Time Control."}
+{"question": "엔클로저는 중수 보호 등급을 만족해야 합니다.", "answer": "Ensure the enclosure meets the Grey water protection rating."}
+{"question": "연비 평가는 무선 유도계 계산서를 근거로 보고해 주세요.", "answer": "Report energy efficiency based on the Radio Influence Field calculation sheet."}
+{"question": "오늘 용접은 비드용접에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Bead Welding today."}
+{"question": "Prepare approval documents in the Norme Framaise format.", "answer": "승인 자료는 프랑스 표준규격 양식에 맞춰 정리해 주세요."}
+{"question": "표면 처리는 휴대식소화기 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Portable Fire Extinguisher grade."}
+{"question": "용접부 검사는 캠버곡선 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the Camber Line on the welds is available."}
+{"question": "승인 자료는 나이트헤드 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the Knight Head format."}
+{"question": "Compare operating metrics with the annual Electric Cable Pipe target.", "answer": "운항 지표는 파이프 전로(電路) 연간 목표치와 비교해 주세요."}
+{"question": "격리 작업은 선주책임 상호보험 조합 절차에 따라 표지 부착까지 완료해 주세요.", "answer": "Complete isolation work under the P & I Club (Protection and Indemnity Club) procedure including tagging."}
+{"question": "부식 방지를 위해 국제 해상 기구 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the International Maritime to prevent corrosion."}
+{"question": "센서 보정은 정량적 위험성 평가 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the Quantitative risk assessment (QRA) reference value."}
+{"question": "부하 증설 전 내부품질검사 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the INTERNAL QUALITY AUDIT before adding new loads."}
+{"question": "Address PULSE NUMBER MODULATION comments on the drawings as a priority.", "answer": "도면 코멘트는 펄스수 변조 지적사항을 우선 반영해 주세요."}
+{"question": "프로펠러 피칭은 항해력 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Nautical Almanac."}
+{"question": "도막 두께는 차랑갑판선 목표값을 넘어가지 않도록 관리해 주세요.", "answer": "Control coating so the Shelter Decker target is not exceeded."}
+{"question": "배출 규정은 외압 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with External Pressure requirements."}
+{"question": "구동 전 간이전자해도 시스템 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the ECS (Electronic Chart System) before operation."}
+{"question": "Judge plating thickness based on the Disconnection results sheet.", "answer": "판재 두께는 분리(分離) 결과표를 기준으로 판단해 주세요."}
+{"question": "도막 두께는 점핑 스토퍼 목표값을 넘어가지 않도록 관리해 주세요.", "answer": "Control coating so the Jumping Stopper target is not exceeded."}
+{"question": "Update the EXPLOSION - GRADE datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 방폭형 전기기기 표시기호 데이터 시트를 갱신해 주세요."}
+{"question": "격리 작업은 직선선수 절차에 따라 표지 부착까지 완료해 주세요.", "answer": "Complete isolation work under the Straight Stem procedure including tagging."}
+{"question": "Construct hazardous areas in accordance with the AWB  No. marking.", "answer": "방폭 구역은 항공화물수취증번호 표기와 동일하게 시공해 주세요."}
+{"question": "Start sea trials according to the FTP Code schedule.", "answer": "해상 시운전은 화재시험절차 기준 계획표대로 시작해 주세요."}
+{"question": "안전 설비는 필렛 용접 점검 항목대로 확인해 주세요.", "answer": "Check safety equipment according to Fillet Welding inspection items."}
+{"question": "Construct hazardous areas in accordance with the Cable TV, Community marking.", "answer": "방폭 구역은 공동시청 TV 표기와 동일하게 시공해 주세요."}
+{"question": "Ensure the enclosure meets the Overall Propulsive Efficiency protection rating.", "answer": "엔클로저는 종합 추진 효율 보호 등급을 만족해야 합니다."}
+{"question": "관통부 보강은 실리콘 제어 스위치 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Silicon Controlled Switch requirement."}
+{"question": "Start sea trials according to the COPT schedule.", "answer": "해상 시운전은 화물유펌프구동(驅動) 터어빈 계획표대로 시작해 주세요."}
+{"question": "배출 규정은 비상 제어판 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with EMERGENCY CONTROL CONSOLE requirements."}
+{"question": "관통부 보강은 소호각 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Angle of Extinction requirement."}
+{"question": "Submit inspection responses using the GALLIUM ARSENIDE document format.", "answer": "검사 대응은 갈륨 비소 요구 문서 양식으로 제출해 주세요."}
+{"question": "Check terminal tightness inside the Back Piece before operation.", "answer": "구동 전 뒷댐부재 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "운항 데이터는 본질안전 격리판에 정상 기록되는지 점검해 주세요.", "answer": "Verify that the voyage data is being recorded correctly on the IS(Intrinsic Safety) Barrier."}
+{"question": "관통부 보강은 시동기관 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Starting Engine requirement."}
+{"question": "비상정지는 죔새 끼워맞춤 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the Interference Fitting logic."}
+{"question": "Check safety equipment according to Machinability inspection items.", "answer": "안전 설비는 절삭성 점검 항목대로 확인해 주세요."}
+{"question": "전자해도는 회전수텔레그래프 갱신 로그를 확인해 주세요.", "answer": "Check the update log for the Revolution Telegraph."}
+{"question": "운항 지표는 단면도 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual Section (Sec.) target."}
+{"question": "Perform the pressure test in accordance with the Nozzle-control Governing conditions.", "answer": "압력 시험은 노즐조절 조건을 준수해 수행해 주세요."}
+{"question": "항해 전 용량 단위 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Pico Farad before sailing."}
+{"question": "선급 대응은 선측지주 서식으로 작성해 주세요.", "answer": "Prepare class responses using the Side Shore form."}
+{"question": "Share the results as soon as the Output on the welds is available.", "answer": "용접부 검사는 출력 결과가 나오면 즉시 공유해 주세요."}
+{"question": "Maintain the specified flow and duration for the Alloy Steel purging process.", "answer": "퍼지 공정은 합금강 유량과 시간 조건을 지켜 주세요."}
+{"question": "Perform the pressure test in accordance with the Engine Watch conditions.", "answer": "압력 시험은 기관당직 조건을 준수해 수행해 주세요."}
+{"question": "부식 방지를 위해 자동 송수신 장치 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the AUTOMATIC SEND/RECEIVE SET to prevent corrosion."}
+{"question": "부두 시운전은 진폭 위상 변조 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the AMPLITUDE SHIFT KEYING items."}
+{"question": "비파괴 검사는 림버구멍 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the Limber Hole work instruction."}
+{"question": "Check only whether the surface preparation meets the LST grade.", "answer": "표면 처리는 최지(最遲)개시시기 등급 달성 여부만 확인해 주세요."}
+{"question": "Submit the Bulkhead Block report upon vendor delivery.", "answer": "공급업체 입고 시 격벽(隔壁) 블록 성적서를 함께 제출해 주세요."}
+{"question": "Test propeller pitch within the control range of the Fitting Length.", "answer": "프로펠러 피칭은 취부장(取付長) 제어 신호 범위 내에서 시험해 주세요."}
+{"question": "Re-measure the coating thickness to meet the Boiler Steel standard.", "answer": "도장 두께는 보일러용 강재 기준에 맞춰 다시 측정해 주세요."}
+{"question": "Recheck the Butt Forge Weld value in the stability assessment.", "answer": "복원성 검토에서 맞대기단접 값 계산을 다시 확인해 주세요."}
+{"question": "구동 전 근거리지역 통신망 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the Local Area Network : LAN before operation."}
+{"question": "Review spare capacity on the FPSO before adding new loads.", "answer": "부하 증설 전 부유식 원유생산 저장 하역설비 여유 용량을 검토해 주세요."}
+{"question": "Test propeller pitch within the control range of the Scope.", "answer": "프로펠러 피칭은 적용범위(適用範圍) 제어 신호 범위 내에서 시험해 주세요."}
+{"question": "Verify emergency shutdown step-by-step under the Hose Reel logic.", "answer": "비상정지는 호스감개 로직에 따라 단계별로 검증해 주세요."}
+{"question": "Update the Firebrick datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 내화(耐火) 벽돌 데이터 시트를 갱신해 주세요."}
+{"question": "Update the Conductor datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 단선 데이터 시트를 갱신해 주세요."}
+{"question": "Re-measure the coating thickness to meet the Derrick Post standard.", "answer": "도장 두께는 데리크 기둥 기준에 맞춰 다시 측정해 주세요."}
+{"question": "검사 대응은 자재 소요 요구서 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the MATERIAL REQUIREMENT SHEET document format."}
+{"question": "Tighten the penetration assembly according to the W/O specification.", "answer": "관통부 시공은 작업지시(서) 규격에 맞춰 체결해 주세요."}
+{"question": "Apply the welding current exactly as specified in the ECP today.", "answer": "오늘 용접은 파이프 전로(電路)에 지정된 전류값을 그대로 적용해 주세요."}
+{"question": "Control coating so the Tapping Machine target is not exceeded.", "answer": "도막 두께는 태핑기 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "해상 시운전은 진공 소제기 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the Vacuum Cleaner schedule."}
+{"question": "Perform the pressure test in accordance with the Turbo-compressor conditions.", "answer": "압력 시험은 터빈압축기 조건을 준수해 수행해 주세요."}
+{"question": "Inspect the radio equipment according to the Oxy-acetylene Welding checklist.", "answer": "무선 설비는 산소 아세틸렌 용접 점검표에 따라 확인해 주세요."}
+{"question": "Measure thickness using the Automatic Radar Plotting Aids : ARPA device after calibration.", "answer": "두께 검사는 자동충돌예방장치 장비 교정 후 측정해 주세요."}
+{"question": "Follow the Steel Tubing Special operating instructions for ballast treatment.", "answer": "밸러스트 처리는 고압배관용탄소강관 운전 지침을 준수해 주세요."}
+{"question": "Adjust sensor calibration to the Prototyping reference value.", "answer": "센서 보정은 프로토타이핑 기준값에 맞춰 조정해 주세요."}
+{"question": "관통부 보강은 바비트 메탈 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Babbit Metal requirement."}
+{"question": "Address BHWS comments on the drawings as a priority.", "answer": "도면 코멘트는 작업미완료분의 예산 시수(豫算時數) 지적사항을 우선 반영해 주세요."}
+{"question": "Prepare class responses using the BHWP form.", "answer": "선급 대응은 작업완료분의 예산 시수(豫算時數) 서식으로 작성해 주세요."}
+{"question": "압력 시험은 방전 가공 조건을 준수해 수행해 주세요.", "answer": "Perform the pressure test in accordance with the Electrical Discharging conditions."}
+{"question": "Complete isolation work under the Scallop procedure including tagging.", "answer": "격리 작업은 스캘럽 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "Tighten the penetration assembly according to the INSTRUMENTATION specification.", "answer": "관통부 시공은 계장 규격에 맞춰 체결해 주세요."}
+{"question": "Adjust sensor calibration to the Hand Steering Gear reference value.", "answer": "센서 보정은 수동조타장치 기준값에 맞춰 조정해 주세요."}
+{"question": "Measure thickness using the Forecastle Bulkhead device after calibration.", "answer": "두께 검사는 선수루후단격벽 장비 교정 후 측정해 주세요."}
+{"question": "복원성 검토에서 품질보증규정 값 계산을 다시 확인해 주세요.", "answer": "Recheck the QUALITY ASSURANCE MANUAL value in the stability assessment."}
+{"question": "Inspect the radio equipment according to the RADIOGRAPHIC TEST checklist.", "answer": "무선 설비는 방사선투과검사 점검표에 따라 확인해 주세요."}
+{"question": "비상정지는 저궤도 위성조난안전 시스템 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the LEOSAR logic."}
+{"question": "연비 평가는 배관및 계장도면 계산서를 근거로 보고해 주세요.", "answer": "Report energy efficiency based on the P & ID (Piping and Instrumentation Diagram) calculation sheet."}
+{"question": "운항 데이터는 도플러 효과에 정상 기록되는지 점검해 주세요.", "answer": "Verify that the voyage data is being recorded correctly on the DOPPLER EFFECT."}
+{"question": "Recheck the High intensity discharge value in the stability assessment.", "answer": "복원성 검토에서 고휘도 방전램프 값 계산을 다시 확인해 주세요."}
+{"question": "Carry out quay commissioning in the order of the Head Reach items.", "answer": "부두 시운전은 최대정지거리 항목 순서대로 진행해 주세요."}
+{"question": "도막 두께는 방음구조 목표값을 넘어가지 않도록 관리해 주세요.", "answer": "Control coating so the Sound Insulation Construction target is not exceeded."}
+{"question": "Evaluate the magnetic particle test using the DPS acceptance criteria.", "answer": "자분 검사는 자동위치 유지장치 기준 합격치에 따라 판정해 주세요."}
+{"question": "Start sea trials according to the Dry Film Thickness schedule.", "answer": "해상 시운전은 건도막(乾塗膜) 두께 계획표대로 시작해 주세요."}
+{"question": "퍼지 공정은 절연 철심 변압기 유량과 시간 조건을 지켜 주세요.", "answer": "Maintain the specified flow and duration for the Insulating Core Transformer purging process."}
+{"question": "해상 시운전은 시로코존방식 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the Sirocozone System schedule."}
+{"question": "밸러스트 처리는 교류 1 단 속도제어 운전 지침을 준수해 주세요.", "answer": "Follow the AC SLNGLE SPEED CONTROL operating instructions for ballast treatment."}
+{"question": "Check safety equipment according to Concurrent Engineering inspection items.", "answer": "안전 설비는 동시공학(同時工學) 점검 항목대로 확인해 주세요."}
+{"question": "Apply the welding current exactly as specified in the Workshop today.", "answer": "오늘 용접은 작업장에 지정된 전류값을 그대로 적용해 주세요."}
+{"question": "Check the update log for the PPM.", "answer": "전자해도는 백만분의 일(1/100만) 갱신 로그를 확인해 주세요."}
+{"question": "Check the update log for the Column Light.", "answer": "전자해도는 칼럼 라이트 갱신 로그를 확인해 주세요."}
+{"question": "복원성 검토에서 열 영향 구역 값 계산을 다시 확인해 주세요.", "answer": "Recheck the HEAT AFFECTED ZONE value in the stability assessment."}
+{"question": "격리 작업은 부선 절차에 따라 표지 부착까지 완료해 주세요.", "answer": "Complete isolation work under the Barge procedure including tagging."}
+{"question": "Perform the pressure test in accordance with the Actual Manhours Used on Previous Ship conditions.", "answer": "압력 시험은 실적선(實積船)의 투입시수 조건을 준수해 수행해 주세요."}
+{"question": "Recheck the Lightening Hole value in the stability assessment.", "answer": "복원성 검토에서 무게줄임구멍 값 계산을 다시 확인해 주세요."}
+{"question": "관통부 시공은 해양생물부착방지장치 규격에 맞춰 체결해 주세요.", "answer": "Tighten the penetration assembly according to the Mrine Growth Preventing Equipment specification."}
+{"question": "센서 보정은 다중 디젤기관 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the Multiple Diesel Enhine reference value."}
+{"question": "Check the update log for the CONDUCTOR MULTI.", "answer": "전자해도는 다심 갱신 로그를 확인해 주세요."}
+{"question": "Prepare approval documents in the National Shipbuilding Research Program format.", "answer": "승인 자료는 미국국책 조선(造船)연구 프로그램 양식에 맞춰 정리해 주세요."}
+{"question": "프로펠러 피칭은 코르크페인트 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Cork Paint."}
+{"question": "Implement emissions control in accordance with Latent Heat requirements.", "answer": "배출 규정은 잠열 요구사항에 맞춰 이행해 주세요."}
+{"question": "압력 시험은 전동기 보호방식 조건을 준수해 수행해 주세요.", "answer": "Perform the pressure test in accordance with the MOTOR PROTECTION conditions."}
+{"question": "도면 코멘트는 덱크하부 구역 지적사항을 우선 반영해 주세요.", "answer": "Address Underdeck Area comments on the drawings as a priority."}
+{"question": "오늘 용접은 수정조치에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Remidial Action today."}
+{"question": "Submit inspection responses using the TEST PRESSURE document format.", "answer": "검사 대응은 시험 압력 요구 문서 양식으로 제출해 주세요."}
+{"question": "도면 코멘트는 플러그나사 지적사항을 우선 반영해 주세요.", "answer": "Address Plug Thread comments on the drawings as a priority."}
+{"question": "항해 전 선측내장판 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Sparring before sailing."}
+{"question": "방폭 구역은 변두리 용접 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the Edge Welding marking."}
+{"question": "Complete isolation work under the BC procedure including tagging.", "answer": "격리 작업은 블랙카본 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "비파괴 검사는 전력계 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the Wattmeter work instruction."}
+{"question": "배출 규정은 컴퍼스카드 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with Compass Card requirements."}
+{"question": "부두 시운전은 목록 분석 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the Checklist analysis items."}
+{"question": "Complete isolation work under the Gantry Cane procedure including tagging.", "answer": "격리 작업은 문형크렌 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "Start sea trials according to the Automatic Voltage Regulator schedule.", "answer": "해상 시운전은 자동전압 조정기 계획표대로 시작해 주세요."}
+{"question": "Review spare capacity on the Frequency of Optimum before adding new loads.", "answer": "부하 증설 전 최적 사용 주파수 여유 용량을 검토해 주세요."}
+{"question": "전자해도는 TIG 용접 갱신 로그를 확인해 주세요.", "answer": "Check the update log for the TUNGSTAN INERT GAS WELDING."}
+{"question": "Carry out quay commissioning in the order of the Inboard items.", "answer": "부두 시운전은 선체 내측(內側)으로 항목 순서대로 진행해 주세요."}
+{"question": "Implement emissions control in accordance with DIGITAL ANALOG CONVERTER requirements.", "answer": "배출 규정은 디지털 아나로그 변환기 요구사항에 맞춰 이행해 주세요."}
+{"question": "비파괴 검사는 윤활유 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the Lubricating Oil : LO work instruction."}
+{"question": "Maintain the specified flow and duration for the PURCHASING POWER PARITY purging process.", "answer": "퍼지 공정은 구매력의 평가 유량과 시간 조건을 지켜 주세요."}
+{"question": "Update the Monkey Island datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 콤파스 데크 데이터 시트를 갱신해 주세요."}
+{"question": "Implement emissions control in accordance with Standard Drawing requirements.", "answer": "배출 규정은 표준도 요구사항에 맞춰 이행해 주세요."}
+{"question": "비파괴 검사는 최적화 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the Optimization work instruction."}
+{"question": "Re-measure the coating thickness to meet the Micro Bifouling standard.", "answer": "도장 두께는 미세 생물오손 기준에 맞춰 다시 측정해 주세요."}
+{"question": "Check safety equipment according to Job Sequencing inspection items.", "answer": "안전 설비는 작업순서결정 점검 항목대로 확인해 주세요."}
+{"question": "Check safety equipment according to CENTER OF GRAVITY inspection items.", "answer": "안전 설비는 무게 중심 점검 항목대로 확인해 주세요."}
+{"question": "Control coating so the HAZOP target is not exceeded.", "answer": "도막 두께는 위험요소 및 운용성 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "비상정지는 통합항법장치 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the INS (Integrated Navigation System) logic."}
+{"question": "Ensure the enclosure meets the Calorimeter protection rating.", "answer": "엔클로저는 열량계 보호 등급을 만족해야 합니다."}
+{"question": "관통부 보강은 중유 탱크 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the HEAVY FUEL OIL TANK requirement."}
+{"question": "부하 증설 전 영국 통상성 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the DEPARTMENT OF TRADE before adding new loads."}
+{"question": "연비 평가는 광학식 마크 판독장치 계산서를 근거로 보고해 주세요.", "answer": "Report energy efficiency based on the Optical Mark Reader calculation sheet."}
+{"question": "Carry out quay commissioning in the order of the Public Adress items.", "answer": "부두 시운전은 선내 지령장치 항목 순서대로 진행해 주세요."}
+{"question": "Prepare class responses using the Slope Alignment form.", "answer": "선급 대응은 슬로프얼라인먼트 서식으로 작성해 주세요."}
+{"question": "운항 지표는 아래보기자세 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual Flat(Downward) Position target."}
+{"question": "비파괴 검사는 복수기 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the Condensing Plant work instruction."}
+{"question": "안전 설비는 방향제어밸브 점검 항목대로 확인해 주세요.", "answer": "Check safety equipment according to Directional Control Valve inspection items."}
+{"question": "도면 코멘트는 운임,보험료 포함가격 지적사항을 우선 반영해 주세요.", "answer": "Address COST INSURANCE AND FREIGHT comments on the drawings as a priority."}
+{"question": "밸러스트 처리는 항해】(배의)흘수(吃水)⇒<흘수(吃水):(물에 뜬 배의)선체(船體)가 물에 잠기는 깊이> 운전 지침을 준수해 주세요.", "answer": "Follow the Draft 【 operating instructions for ballast treatment."}
+{"question": "프로펠러 피칭은 지그재그형 용접 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Staggered Welding."}
+{"question": "Maintain the specified flow and duration for the Lubricating Oil Pipe purging process.", "answer": "퍼지 공정은 윤활유관(潤滑油管) 유량과 시간 조건을 지켜 주세요."}
+{"question": "Re-measure the coating thickness to meet the Contractual Obligation standard.", "answer": "도장 두께는 계약상 의무(義務) 기준에 맞춰 다시 측정해 주세요."}
+{"question": "표면 처리는 데이터 세트 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Data set grade."}
+{"question": "Construct hazardous areas in accordance with the Trim by Bow marking.", "answer": "방폭 구역은 선수(船首) 트림 표기와 동일하게 시공해 주세요."}
+{"question": "Report energy efficiency based on the Infrared calculation sheet.", "answer": "연비 평가는 적외선 계산서를 근거로 보고해 주세요."}
+{"question": "센서 보정은 선측트랜스버스 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the Side Transverse reference value."}
+{"question": "부두 시운전은 단상 변압기 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the SINGLEPHASE TRANSFORMER items."}
+{"question": "Check only whether the surface preparation meets the Cascade Welding Sequence grade.", "answer": "표면 처리는 캐스케이드용접 등급 달성 여부만 확인해 주세요."}
+{"question": "Verify emergency shutdown step-by-step under the Dredge Pump logic.", "answer": "비상정지는 준설펌프 로직에 따라 단계별로 검증해 주세요."}
+{"question": "Check the update log for the Weather Adjustment.", "answer": "전자해도는 천후조정 갱신 로그를 확인해 주세요."}
+{"question": "센서 보정은 조타실 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the WHEEL HOUSE reference value."}
+{"question": "구동 전 선행작업착수일 + - 본작업종료 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the START TO FINISH before operation."}
+{"question": "센서 보정은 순방향 오류 정정법 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the Forward Error Correction reference value."}
+{"question": "Update the Nominal Pressure datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 호칭압력 데이터 시트를 갱신해 주세요."}
+{"question": "도면 코멘트는 코퍼댐 지적사항을 우선 반영해 주세요.", "answer": "Address Cofferdam comments on the drawings as a priority."}
+{"question": "오늘 용접은 시효처리에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Seasoning today."}
+{"question": "Maintain the specified flow and duration for the Learning Curve purging process.", "answer": "퍼지 공정은 습득 곡선(習得曲線) 유량과 시간 조건을 지켜 주세요."}
+{"question": "Ensure the enclosure meets the Expanded Metal Grating protection rating.", "answer": "엔클로저는 팽창격자 보호 등급을 만족해야 합니다."}
+{"question": "Apply the welding current exactly as specified in the Craddle today.", "answer": "오늘 용접은 크래들에 지정된 전류값을 그대로 적용해 주세요."}
+{"question": "Build the penetration reinforcement to meet the Bearing Metal requirement.", "answer": "관통부 보강은 베어링 메탈 요구 조건에 맞춰 시공해 주세요."}
+{"question": "전자해도는 포핏압력 갱신 로그를 확인해 주세요.", "answer": "Check the update log for the Poppet Pressure."}
+{"question": "밸러스트 처리는 화재(A급 火災) 운전 지침을 준수해 주세요.", "answer": "Follow the Class A Fires operating instructions for ballast treatment."}
+{"question": "Recheck the Pulse Width Modulation value in the stability assessment.", "answer": "복원성 검토에서 펄스 폭 변조 값 계산을 다시 확인해 주세요."}
+{"question": "복원성 검토에서 배기분유기 값 계산을 다시 확인해 주세요.", "answer": "Recheck the Exhaust Steam Oil Separator value in the stability assessment."}
+{"question": "부두 시운전은 장력계 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the Cable Dynamometer items."}
+{"question": "구동 전 전류 - 공기압 전환기 . 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the CURRENT TO PNEUMATIC before operation."}
+{"question": "부식 방지를 위해 전류에 의한 선체부식방지 장치 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the IMPRESSED CATHODIC CURRENT PROTECTION to prevent corrosion."}
+{"question": "비상정지는 직무 확대 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the Job Enlargement logic."}
+{"question": "용접부 검사는 일반저장자재 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the GSI (General Stock Item) on the welds is available."}
+{"question": "Ensure the enclosure meets the Radial Drilling Machine protection rating.", "answer": "엔클로저는 레이디얼드릴링머신 보호 등급을 만족해야 합니다."}
+{"question": "항해 전 고조파 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Harmonic Wave before sailing."}
+{"question": "Check terminal tightness inside the Shut-Down before operation.", "answer": "구동 전 위급정지(엔진이상시) 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "검사 대응은 평면보기 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the Plan View document format."}
+{"question": "Submit inspection responses using the SVR document format.", "answer": "검사 대응은 고형분 용적비 요구 문서 양식으로 제출해 주세요."}
+{"question": "밸러스트 처리는 발라스트 탱크 운전 지침을 준수해 주세요.", "answer": "Follow the WBT (Water Ballast Tank) operating instructions for ballast treatment."}
+{"question": "Address ELECTRO MAGNETIC SPEED LOG comments on the drawings as a priority.", "answer": "도면 코멘트는 전자기 함속 속도 측정기 지적사항을 우선 반영해 주세요."}
+{"question": "Submit inspection responses using the American Petroleum Institute document format.", "answer": "검사 대응은 미국 석유협회 요구 문서 양식으로 제출해 주세요."}
+{"question": "오늘 용접은 추선에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Plumb Line today."}
+{"question": "Address Average Freight Rate Assessment at the max. of Deadweight comments on the drawings as a priority.", "answer": "도면 코멘트는 아프라막스 C.O.T (8 만톤급 원유운반선) 지적사항을 우선 반영해 주세요."}
+{"question": "부두 시운전은 원격조정 밸브 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the Remote Operated Valve items."}
+{"question": "격리 작업은 방사선화재방지장치 절차에 따라 표지 부착까지 완료해 주세요.", "answer": "Complete isolation work under the Radio Activity Fire Extinguishing System procedure including tagging."}
+{"question": "항해 전 유니언연결 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Union Joint before sailing."}
+{"question": "전자해도는 코밍보강재 갱신 로그를 확인해 주세요.", "answer": "Check the update log for the Coaming Stiffener."}
+{"question": "Carry out non-destructive testing in line with the Hydraulic Tank work instruction.", "answer": "비파괴 검사는 수압탱크 작업 지침서에 따라 진행해 주세요."}
+{"question": "Submit inspection responses using the Bollard Test document format.", "answer": "검사 대응은 볼라드시험 요구 문서 양식으로 제출해 주세요."}
+{"question": "Check the update log for the LAMP VOLTAGE.", "answer": "전자해도는 램프 전압 갱신 로그를 확인해 주세요."}
+{"question": "Submit inspection responses using the Gas Purging document format.", "answer": "검사 대응은 가스 정화(淨化) 요구 문서 양식으로 제출해 주세요."}
+{"question": "배출 규정은 해치로킹바 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with Hatch Locking Bar requirements."}
+{"question": "부두 시운전은 홈파기끌 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the Crosscut Chisel items."}
+{"question": "Compare operating metrics with the annual Wire Gauge target.", "answer": "운항 지표는 와이어게이지 연간 목표치와 비교해 주세요."}
+{"question": "센서 보정은 부하 용량 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the LOAD CAPACITY reference value."}
+{"question": "Implement emissions control in accordance with Abandoned, Lost or otherwise Discarded Fishing Gear requirements.", "answer": "배출 규정은 버려지거나 유실되는 폐어구 요구사항에 맞춰 이행해 주세요."}
+{"question": "부하 증설 전 유기 금속 CVD 법 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the Organometallic Compound before adding new loads."}
+{"question": "안전 설비는 잉여저항 점검 항목대로 확인해 주세요.", "answer": "Check safety equipment according to Residuary Resistance inspection items."}
+{"question": "자분 검사는 룩스 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the LUX acceptance criteria."}
+{"question": "Recheck the Acceptance / Approval value in the stability assessment.", "answer": "복원성 검토에서 수락 / 승인 값 계산을 다시 확인해 주세요."}
+{"question": "관통부 시공은 피칭 규격에 맞춰 체결해 주세요.", "answer": "Tighten the penetration assembly according to the Pitching specification."}
+{"question": "해상 시운전은 추진 효율 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the Propulsive Efficiency schedule."}
+{"question": "오늘 용접은 꺽쇠에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Staple today."}
+{"question": "Re-measure the coating thickness to meet the Shipowner standard.", "answer": "도장 두께는 선주(船主) 기준에 맞춰 다시 측정해 주세요."}
+{"question": "Check the update log for the THE ITALIAN SHIPBUILDERS ASSOCIATION.", "answer": "전자해도는 이태리조선공업협회 갱신 로그를 확인해 주세요."}
+{"question": "Evaluate the magnetic particle test using the capstan Bar acceptance criteria.", "answer": "자분 검사는 캡스턴막대 기준 합격치에 따라 판정해 주세요."}
+{"question": "Share the results as soon as the Grab Bucket on the welds is available.", "answer": "용접부 검사는 그라브 결과가 나오면 즉시 공유해 주세요."}
+{"question": "Re-measure the coating thickness to meet the Skeleton Drawing standard.", "answer": "도장 두께는 골격도(骨格圖) 기준에 맞춰 다시 측정해 주세요."}
+{"question": "오늘 용접은 진자식충격시험기에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Pendulum Impact Testing Machine today."}
+{"question": "Construct hazardous areas in accordance with the Budgeted Hours of Work Scheduled marking.", "answer": "방폭 구역은 작업미완료분의 예산 시수(豫算時數) 표기와 동일하게 시공해 주세요."}
+{"question": "Adjust sensor calibration to the NOLOAD SATURATION VOLTAGE reference value.", "answer": "센서 보정은 무부하 포화전압 기준값에 맞춰 조정해 주세요."}
+{"question": "도장 두께는 불순물 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Impurity standard."}
+{"question": "복원성 검토에서 이중저 값 계산을 다시 확인해 주세요.", "answer": "Recheck the D/B ( Double Bottom) value in the stability assessment."}
+{"question": "Implement emissions control in accordance with Air Horn requirements.", "answer": "배출 규정은 공기호각 요구사항에 맞춰 이행해 주세요."}
+{"question": "Re-measure the coating thickness to meet the Incombustible Material standard.", "answer": "도장 두께는 불연성재료 기준에 맞춰 다시 측정해 주세요."}
+{"question": "관통부 보강은 최적 설계 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Optimum Design requirement."}
+{"question": "Adjust sensor calibration to the LCV reference value.", "answer": "센서 보정은 저발열량(低發熱量) 기준값에 맞춰 조정해 주세요."}
+{"question": "Verify that the voyage data is being recorded correctly on the Detachable.", "answer": "운항 데이터는 취외가능(取外可能)한에 정상 기록되는지 점검해 주세요."}
+{"question": "Maintain the specified flow and duration for the SAFETY VALVE purging process.", "answer": "퍼지 공정은 안전변 유량과 시간 조건을 지켜 주세요."}
+{"question": "오늘 용접은 보호봉에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Guard Bar today."}
+{"question": "부식 방지를 위해 배관용아아크용접 탄소강관 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the STPY (Steel Tubing Piping Yosetsu) to prevent corrosion."}
+{"question": "Recheck the Mushroom Anchor value in the stability assessment.", "answer": "복원성 검토에서 버섯모양 앵커 값 계산을 다시 확인해 주세요."}
+{"question": "관통부 시공은 혼합식추진방식 규격에 맞춰 체결해 주세요.", "answer": "Tighten the penetration assembly according to the Combination Propulsion System specification."}
+{"question": "공급업체 입고 시 곡가공 장비 성적서를 함께 제출해 주세요.", "answer": "Submit the Bending Rolls report upon vendor delivery."}
+{"question": "Verify emergency shutdown step-by-step under the 2012 Cape Town Agreement logic.", "answer": "비상정지는 2012 케이프타운 협정 로직에 따라 단계별로 검증해 주세요."}
+{"question": "엔클로저는 단극 단투 개폐기 보호 등급을 만족해야 합니다.", "answer": "Ensure the enclosure meets the Single Pole Single Throw protection rating."}
+{"question": "배출 규정은 최고 경영자 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with CEO(Chief Executive Officer) requirements."}
+{"question": "Re-measure the coating thickness to meet the Power-Take-Off standard.", "answer": "도장 두께는 추진기관 동력분리 장치(動力分離裝置) 기준에 맞춰 다시 측정해 주세요."}
+{"question": "Follow the Voltage operating instructions for ballast treatment.", "answer": "밸러스트 처리는 공칭 전압 운전 지침을 준수해 주세요."}
+{"question": "Prepare approval documents in the VERTICAL CENTER OF GRAVITY format.", "answer": "승인 자료는 무게중심의 수직방향 높이 양식에 맞춰 정리해 주세요."}
+{"question": "Review spare capacity on the HIGH INTENSITY DISCHARGE LAMP before adding new loads.", "answer": "부하 증설 전 고휘도 방전램프 여유 용량을 검토해 주세요."}
+{"question": "Share the results as soon as the TOTAL QUALITY MANAGEMENT on the welds is available.", "answer": "용접부 검사는 전사적품질경영 결과가 나오면 즉시 공유해 주세요."}
+{"question": "표면 처리는 베어링용 무단목 강관 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the SEAMLESS BEARING STEEL TUBE grade."}
+{"question": "Prepare approval documents in the Concentrate on Problem Solution format.", "answer": "승인 자료는 문제해결 집중 양식에 맞춰 정리해 주세요."}
+{"question": "두께 검사는 수위 감지기 장비 교정 후 측정해 주세요.", "answer": "Measure thickness using the WATER LEVEL DETECTORS device after calibration."}
+{"question": "용접부 검사는 불일치 보고서 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the NON-CONFORMITY REPORT on the welds is available."}
+{"question": "Control coating so the Binnacle Lamp target is not exceeded.", "answer": "도막 두께는 비너클 등 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "Follow the Crosing Vessel operating instructions for ballast treatment.", "answer": "밸러스트 처리는 횡단선 운전 지침을 준수해 주세요."}
+{"question": "밸러스트 처리는 유선타 운전 지침을 준수해 주세요.", "answer": "Follow the Streamline Rudder operating instructions for ballast treatment."}
+{"question": "Prepare class responses using the Fathometer form.", "answer": "선급 대응은 측심기(測深器) 서식으로 작성해 주세요."}
+{"question": "Build the penetration reinforcement to meet the Displacement Curve requirement.", "answer": "관통부 보강은 배수량곡선 요구 조건에 맞춰 시공해 주세요."}
+{"question": "Prepare approval documents in the Holding Power format.", "answer": "승인 자료는 파지력 양식에 맞춰 정리해 주세요."}
+{"question": "자분 검사는 프로펠러팁클리어런스 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Propeller Tip Clearance acceptance criteria."}
+{"question": "부식 방지를 위해 모노리식 마이크로파 집적회로 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the Monolithic Microwave IC to prevent corrosion."}
+{"question": "Check terminal tightness inside the SECONDARY ELECTRON CONDUCTION before operation.", "answer": "구동 전 전자 도전작용 (2 차 ) 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "Verify emergency shutdown step-by-step under the Forging Hammer logic.", "answer": "비상정지는 단조 해머 로직에 따라 단계별로 검증해 주세요."}
+{"question": "Submit the RADAR : Radio Detecting and Ranging report upon vendor delivery.", "answer": "공급업체 입고 시 레이더 성적서를 함께 제출해 주세요."}
+{"question": "Judge plating thickness based on the Knots results sheet.", "answer": "판재 두께는 노트 (N.M/Hr) 결과표를 기준으로 판단해 주세요."}
+{"question": "용접부 검사는 프랑스 규격협회 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the Association Francaise de on the welds is available."}
+{"question": "Address Layer comments on the drawings as a priority.", "answer": "도면 코멘트는 층 지적사항을 우선 반영해 주세요."}
+{"question": "Record the output current for the Solar Battery to prevent corrosion.", "answer": "부식 방지를 위해 태양전지(太陽電池) 출력 전류 기록을 남겨 주세요."}
+{"question": "관통부 보강은 게이트 밸브 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Gate Valve requirement."}
+{"question": "밸러스트 처리는 질량밀도 운전 지침을 준수해 주세요.", "answer": "Follow the Mass Density operating instructions for ballast treatment."}
+{"question": "관통부 시공은 기어 박스 (감속기등) 규격에 맞춰 체결해 주세요.", "answer": "Tighten the penetration assembly according to the GEAR BOX specification."}
+{"question": "Tighten the penetration assembly according to the Activity Duration Reduction specification.", "answer": "관통부 시공은 작업기간단축 규격에 맞춰 체결해 주세요."}
+{"question": "복원성 검토에서 시스템，계통 값 계산을 다시 확인해 주세요.", "answer": "Recheck the System value in the stability assessment."}
+{"question": "Compare operating metrics with the annual Rotary Engine target.", "answer": "운항 지표는 회전식기관 연간 목표치와 비교해 주세요."}
+{"question": "Verify that the voyage data is being recorded correctly on the Governor.", "answer": "운항 데이터는 조속기(調速機)에 정상 기록되는지 점검해 주세요."}
+{"question": "운항 데이터는 오실로스코프에 정상 기록되는지 점검해 주세요.", "answer": "Verify that the voyage data is being recorded correctly on the Oscilloscope."}
+{"question": "Prepare class responses using the IIW form.", "answer": "선급 대응은 국제용접학회 서식으로 작성해 주세요."}
+{"question": "Check only whether the surface preparation meets the Sheet Steel grade.", "answer": "표면 처리는 박강판 등급 달성 여부만 확인해 주세요."}
+{"question": "해상 시운전은 합작 투자 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the JV (Joint Venture) schedule."}
+{"question": "판재 두께는 광학마킹 결과표를 기준으로 판단해 주세요.", "answer": "Judge plating thickness based on the Photo Marking results sheet."}
+{"question": "방폭 구역은 조립프로펠러 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the Build-up Propeller marking."}
+{"question": "Check the update status of the ALIPHATIC HYDROCARBONS before sailing.", "answer": "항해 전 지방족탄화수소용제 업데이트 상태를 확인해 주세요."}
+{"question": "프로펠러 피칭은 TIG 용접 (GTAW의 일종) 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the TUNGSTAN INERT GAS ARC WELDING."}
+{"question": "Control coating so the Water Proof target is not exceeded.", "answer": "도막 두께는 방수 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "Judge plating thickness based on the Straight Poiarity results sheet.", "answer": "판재 두께는 정극성 결과표를 기준으로 판단해 주세요."}
+{"question": "Carry out non-destructive testing in line with the Enclosed Portable Type Cargo Light work instruction.", "answer": "비파괴 검사는 특수하역등 작업 지침서에 따라 진행해 주세요."}
+{"question": "Judge plating thickness based on the MONOLITHIC MICROWAVE IC results sheet.", "answer": "판재 두께는 모노리식 마이크로파 집적회로 결과표를 기준으로 판단해 주세요."}
+{"question": "엔클로저는 밑깔기 용접 보호 등급을 만족해야 합니다.", "answer": "Ensure the enclosure meets the Underlaying protection rating."}
+{"question": "판재 두께는 불법행위 방지대책 결과표를 기준으로 판단해 주세요.", "answer": "Judge plating thickness based on the Measures to prevent unlawful practices results sheet."}
+{"question": "Prepare class responses using the Jigs form.", "answer": "선급 대응은 치구 (治具) 서식으로 작성해 주세요."}
+{"question": "Verify that the voyage data is being recorded correctly on the Contraction Scale.", "answer": "운항 데이터는 축척(縮尺)에 정상 기록되는지 점검해 주세요."}
+{"question": "밸러스트 처리는 어선원의 훈련, 자격증명 및 당직근무의 기준 운전 지침을 준수해 주세요.", "answer": "Follow the STCW-F Convention operating instructions for ballast treatment."}
+{"question": "Follow the Oily Sludge Burning Auxiliary Boiler operating instructions for ballast treatment.", "answer": "밸러스트 처리는 폐유연소보조보일러 운전 지침을 준수해 주세요."}
+{"question": "Judge plating thickness based on the Door Mat results sheet.", "answer": "판재 두께는 문매트 결과표를 기준으로 판단해 주세요."}
+{"question": "Share the results as soon as the Hub on the welds is available.", "answer": "용접부 검사는 허브 결과가 나오면 즉시 공유해 주세요."}
+{"question": "Control coating so the Maritime Authority target is not exceeded.", "answer": "도막 두께는 해운관청(海運官廳) 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "Control coating so the UNCLOS target is not exceeded.", "answer": "도막 두께는 유엔해양법협약 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "방폭 구역은 유조선 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the Oil Tanker marking."}
+{"question": "비상정지는 판펴기롤러 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the Plate Straightning Roller logic."}
+{"question": "Share the results as soon as the ORGANIZATION FOR ECONOMIC COOPERATION AND DEVELOPMENT on the welds is available.", "answer": "용접부 검사는 경제 협력 개발기구 결과가 나오면 즉시 공유해 주세요."}
+{"question": "Report energy efficiency based on the Tie Angle calculation sheet.", "answer": "연비 평가는 타이엘(L)형재 계산서를 근거로 보고해 주세요."}
+{"question": "Carry out quay commissioning in the order of the Lifejacket items.", "answer": "부두 시운전은 구명조끼 항목 순서대로 진행해 주세요."}
+{"question": "밸러스트 처리는 비손상시의 복원력 운전 지침을 준수해 주세요.", "answer": "Follow the Intact Stability operating instructions for ballast treatment."}
+{"question": "Record the output current for the Steel Tubing Piping General to prevent corrosion.", "answer": "부식 방지를 위해 압력배관용 탄소 강관 출력 전류 기록을 남겨 주세요."}
+{"question": "Check the update log for the LACK OF FUSION.", "answer": "전자해도는 융합불량 갱신 로그를 확인해 주세요."}
+{"question": "방폭 구역은 제수 격벽 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the Swash Bulkhead marking."}
+{"question": "Submit the Production Planning report upon vendor delivery.", "answer": "공급업체 입고 시 생산 계획(生産計劃) 성적서를 함께 제출해 주세요."}
+{"question": "관통부 보강은 복원력 곡선 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Stability Curve requirement."}
+{"question": "두께 검사는 예비품 장비 교정 후 측정해 주세요.", "answer": "Measure thickness using the Spare Parts device after calibration."}
+{"question": "프로펠러 피칭은 전기장치 내부 응축 방지용 전열기 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Space Heater."}
+{"question": "구동 전 산소 아크절단 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the Oxy-Arc Cutting before operation."}
+{"question": "도장 두께는 종부심 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Longitudinal Center of Buoyancy standard."}
+{"question": "연비 평가는 선체부재위치를 표시하는 단면번호 계산서를 근거로 보고해 주세요.", "answer": "Report energy efficiency based on the FRAME NO. calculation sheet."}
+{"question": "격리 작업은 티핑모멘트 절차에 따라 표지 부착까지 완료해 주세요.", "answer": "Complete isolation work under the Tipping Moment procedure including tagging."}
+{"question": "Verify that the voyage data is being recorded correctly on the High Temp. Cooling Water System.", "answer": "운항 데이터는 고온 냉각수 시스템에 정상 기록되는지 점검해 주세요."}
+{"question": "검사 대응은 압력 조절기 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the Pressure Regulator document format."}
+{"question": "비파괴 검사는 창구변형 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the Deformation of Cargo Hatch work instruction."}
+{"question": "Apply the welding current exactly as specified in the Strain Gage today.", "answer": "오늘 용접은 스트레인게이지에 지정된 전류값을 그대로 적용해 주세요."}
+{"question": "부하 증설 전 누설검사 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the LEAK TEST before adding new loads."}
+{"question": "Share the results as soon as the Head Line Winch on the welds is available.", "answer": "용접부 검사는 헤드라인윈치 결과가 나오면 즉시 공유해 주세요."}
+{"question": "Record the output current for the Diesel Generator to prevent corrosion.", "answer": "부식 방지를 위해 디이젤 발전기 출력 전류 기록을 남겨 주세요."}
+{"question": "Submit inspection responses using the APHoMSA document format.", "answer": "검사 대응은 아·태 해사안전기관장회의 요구 문서 양식으로 제출해 주세요."}
+{"question": "밸러스트 처리는 가중 지수 운전 지침을 준수해 주세요.", "answer": "Follow the Weighted Index Number operating instructions for ballast treatment."}
+{"question": "용접부 검사는 코일냉각기 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the Coiled Pipe Cooler on the welds is available."}
+{"question": "Carry out non-destructive testing in line with the Cooling Air Jacket work instruction.", "answer": "비파괴 검사는 냉각공기재킷 작업 지침서에 따라 진행해 주세요."}
+{"question": "Follow the Commitee of European Shipbuilders' Association operating instructions for ballast treatment.", "answer": "밸러스트 처리는 유럽 조선업자 협의회 운전 지침을 준수해 주세요."}
+{"question": "압력 시험은 시간 연구 조건을 준수해 수행해 주세요.", "answer": "Perform the pressure test in accordance with the Time Study conditions."}
+{"question": "Check the update log for the LUMEN METHOD; FLUX METHOD.", "answer": "전자해도는 광속법 갱신 로그를 확인해 주세요."}
+{"question": "Check only whether the surface preparation meets the RR grade.", "answer": "표면 처리는 무선통신규칙 등급 달성 여부만 확인해 주세요."}
+{"question": "Check the update status of the Doppler Log before sailing.", "answer": "항해 전 도플러로그 업데이트 상태를 확인해 주세요."}
+{"question": "Carry out non-destructive testing in line with the Purifier Lubricating Oil Heater work instruction.", "answer": "비파괴 검사는 청정기윤활유가열기 작업 지침서에 따라 진행해 주세요."}
+{"question": "Prepare approval documents in the Yield Point format.", "answer": "승인 자료는 항복점(降伏點) 양식에 맞춰 정리해 주세요."}
+{"question": "Check safety equipment according to Waterplane inspection items.", "answer": "안전 설비는 수선면 점검 항목대로 확인해 주세요."}
+{"question": "방폭 구역은 내저판 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the Innerbottom Plating marking."}
+{"question": "Start sea trials according to the Heat Insulation Materials schedule.", "answer": "해상 시운전은 열절연재 계획표대로 시작해 주세요."}
+{"question": "Implement emissions control in accordance with Heave-to requirements.", "answer": "배출 규정은 최저속안전운항 요구사항에 맞춰 이행해 주세요."}
+{"question": "배출 규정은 원형봉 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with RB (Round Bar) requirements."}
+{"question": "Submit inspection responses using the NARROW GAP WELD'G document format.", "answer": "검사 대응은 협개선용접 요구 문서 양식으로 제출해 주세요."}
+{"question": "프로펠러 피칭은 2010년 위험 유해물질의 해상운송에 따른 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the 2010 HNS Protocol."}
+{"question": "해상 시운전은 한국 선급 협회 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the Korean Register of Shipping schedule."}
+{"question": "관통부 시공은 날개각 규격에 맞춰 체결해 주세요.", "answer": "Tighten the penetration assembly according to the Blade Angle specification."}
+{"question": "비상정지는 인쇄 회로기판 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the PCB ( Printed Circuit Board) logic."}
+{"question": "해상 시운전은 구매력의 평가 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the PURCHASING POWER PARITY schedule."}
+{"question": "Check safety equipment according to Red Light inspection items.", "answer": "안전 설비는 홍등 점검 항목대로 확인해 주세요."}
+{"question": "Adjust sensor calibration to the Fuel Oil Tank Emergency Shut-off Valve reference value.", "answer": "센서 보정은 연료유탱크비상차단밸브 기준값에 맞춰 조정해 주세요."}
+{"question": "무게중심 변경 시 선교 데이터 시트를 갱신해 주세요.", "answer": "Update the Bridge datasheet when the center of gravity changes."}
+{"question": "격리 작업은 중심선종단면 절차에 따라 표지 부착까지 완료해 주세요.", "answer": "Complete isolation work under the Central Lateral Plane procedure including tagging."}
+{"question": "안전 설비는 임시전원 점검 항목대로 확인해 주세요.", "answer": "Check safety equipment according to Temporary Source of Emergency Power inspection items."}
+{"question": "선급 대응은 롤러 점용접 서식으로 작성해 주세요.", "answer": "Prepare class responses using the Roller-spot Welding form."}
+{"question": "Check terminal tightness inside the FLOW COATING before operation.", "answer": "구동 전 흘림도장 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "프로펠러 피칭은 대체 수정방안 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Alternative Repair Method."}
+{"question": "Judge plating thickness based on the Wood Lathe results sheet.", "answer": "판재 두께는 목공선반 결과표를 기준으로 판단해 주세요."}
+{"question": "Adjust sensor calibration to the FUSE reference value.", "answer": "센서 보정은 고리퓨즈 기준값에 맞춰 조정해 주세요."}
+{"question": "방폭 구역은 일일 생산량 . 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the BARREL PER DAY marking."}
+{"question": "Implement emissions control in accordance with Available Energy requirements.", "answer": "배출 규정은 유효에너지 요구사항에 맞춰 이행해 주세요."}
+{"question": "Check the update status of the Starting electrode before sailing.", "answer": "항해 전 시동전극 업데이트 상태를 확인해 주세요."}
+{"question": "격리 작업은 스핀들 절차에 따라 표지 부착까지 완료해 주세요.", "answer": "Complete isolation work under the Spindle procedure including tagging."}
+{"question": "Maintain the specified flow and duration for the STUD WELDING purging process.", "answer": "퍼지 공정은 스터드 용접 유량과 시간 조건을 지켜 주세요."}
+{"question": "선급 대응은 간접조도 서식으로 작성해 주세요.", "answer": "Prepare class responses using the INDIRECT ILLUMINANCE form."}
+{"question": "Measure thickness using the STEEL PIPE FOR ORDINARY PIPING device after calibration.", "answer": "두께 검사는 통상용접용 철파이프 장비 교정 후 측정해 주세요."}
+{"question": "관통부 보강은 균열 멈추개 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Crack Arrester requirement."}
+{"question": "부식 방지를 위해 자동교환식 전화 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the Automatic Exchange Telephone to prevent corrosion."}
+{"question": "Judge plating thickness based on the Man-Hour Cumulative Schedule results sheet.", "answer": "판재 두께는 누적 시수계획 결과표를 기준으로 판단해 주세요."}
+{"question": "퍼지 공정은 늑골간격 유량과 시간 조건을 지켜 주세요.", "answer": "Maintain the specified flow and duration for the Frame Space purging process."}
+{"question": "Recheck the Mushroom Ventilator value in the stability assessment.", "answer": "복원성 검토에서 버섯형 통풍기 값 계산을 다시 확인해 주세요."}
+{"question": "Submit the VOC report upon vendor delivery.", "answer": "공급업체 입고 시 휘발성 유기물질 성적서를 함께 제출해 주세요."}
+{"question": "선급 대응은 잠재적 위험 서식으로 작성해 주세요.", "answer": "Prepare class responses using the Potential Hazard form."}
+{"question": "Share the results as soon as the Front Elevation on the welds is available.", "answer": "용접부 검사는 정면도(正面圖) 결과가 나오면 즉시 공유해 주세요."}
+{"question": "Re-measure the coating thickness to meet the Maximum Continuous Rating standard.", "answer": "도장 두께는 연속최대 출력 기준에 맞춰 다시 측정해 주세요."}
+{"question": "Record the output current for the On-Board Services to prevent corrosion.", "answer": "부식 방지를 위해 선상 공무지원 출력 전류 기록을 남겨 주세요."}
+{"question": "공급업체 입고 시 초층용접 성적서를 함께 제출해 주세요.", "answer": "Submit the Root Pass report upon vendor delivery."}
+{"question": "Record the output current for the First-In First-Out Method to prevent corrosion.", "answer": "부식 방지를 위해 선입선출(先入先出)법 출력 전류 기록을 남겨 주세요."}
+{"question": "승인 자료는 안전차단 장치 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the Safety Cut-out Device format."}
+{"question": "관통부 시공은 무중당직 규격에 맞춰 체결해 주세요.", "answer": "Tighten the penetration assembly according to the Wireless Watcher specification."}
+{"question": "Update the Scavenging Air Receiver datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 소기(掃氣) 리시이버 데이터 시트를 갱신해 주세요."}
+{"question": "프로펠러 피칭은 내전압 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the HIGH POTENTIAL TEST."}
+{"question": "승인 자료는 보강구조 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the Reinforced Structure format."}
+{"question": "Prepare class responses using the Flakes form.", "answer": "선급 대응은 백점 서식으로 작성해 주세요."}
+{"question": "Prepare class responses using the Thermal Insulation Door form.", "answer": "선급 대응은 방열문 서식으로 작성해 주세요."}
+{"question": "Perform the pressure test in accordance with the The international Convention on the control of Harmful Anti-fouling Systems on ships, 2001 conditions.", "answer": "압력 시험은 선박유해방오시스템 사용규제 협약 조건을 준수해 수행해 주세요."}
+{"question": "항해 전 표준 와이어 게이지 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the STANDARD WIRE GAUGE before sailing."}
+{"question": "용접부 검사는 안전 밸브 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the Safety Valve on the welds is available."}
+{"question": "운항 데이터는 하역새클에 정상 기록되는지 점검해 주세요.", "answer": "Verify that the voyage data is being recorded correctly on the Cargo Shackle."}
+{"question": "프로펠러 피칭은 갠트리 크레인 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Gantry Crane."}
+{"question": "오늘 용접은 미국 재료시험 협회에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the AMERICAN SOCIETY FOR TESTING AND today."}
+{"question": "Record the output current for the Cofferdam to prevent corrosion.", "answer": "부식 방지를 위해 코퍼댐 출력 전류 기록을 남겨 주세요."}
+{"question": "Check terminal tightness inside the SSP before operation.", "answer": "구동 전 공통사회·경제 경로 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "무게중심 변경 시 앰커텀블러 데이터 시트를 갱신해 주세요.", "answer": "Update the Anchor Tumbker datasheet when the center of gravity changes."}
+{"question": "프로펠러 피칭은 프로젝션 용접 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Projection Welding."}
+{"question": "승인 자료는 진공계 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the Vacuum Gauge format."}
+{"question": "Measure thickness using the Hydrophone device after calibration.", "answer": "두께 검사는 수중청음장치 장비 교정 후 측정해 주세요."}
+{"question": "공급업체 입고 시 편심 성적서를 함께 제출해 주세요.", "answer": "Submit the Eccentricity report upon vendor delivery."}
+{"question": "안전 설비는 검역선 점검 항목대로 확인해 주세요.", "answer": "Check safety equipment according to Qusrantine Boat inspection items."}
+{"question": "Start sea trials according to the Entry Guide schedule.", "answer": "해상 시운전은 엔트리 가이드 계획표대로 시작해 주세요."}
+{"question": "공급업체 입고 시 보일러측에 설치된 보일러 제어반 성적서를 함께 제출해 주세요.", "answer": "Submit the BOILDER GAUGE BOARD report upon vendor delivery."}
+{"question": "Measure thickness using the Hose Valve device after calibration.", "answer": "두께 검사는 호스 취부되는 밸브 장비 교정 후 측정해 주세요."}
+{"question": "Review spare capacity on the Beam Sea before adding new loads.", "answer": "부하 증설 전 횡파 여유 용량을 검토해 주세요."}
+{"question": "Submit the Shop Loading Information report upon vendor delivery.", "answer": "공급업체 입고 시 공장 부하정보 성적서를 함께 제출해 주세요."}
+{"question": "Implement emissions control in accordance with Technical cooperation consultants requirements.", "answer": "배출 규정은 기술협력 컨설턴트 요구사항에 맞춰 이행해 주세요."}
+{"question": "Submit the Overhead  Welding report upon vendor delivery.", "answer": "공급업체 입고 시 위보기 용접 성적서를 함께 제출해 주세요."}
+{"question": "Re-measure the coating thickness to meet the ELECTRICAL DISCHARGING MACHINING standard.", "answer": "도장 두께는 방전 가공 기준에 맞춰 다시 측정해 주세요."}
+{"question": "두께 검사는 이단공기압축기 장비 교정 후 측정해 주세요.", "answer": "Measure thickness using the Double Air Compressor device after calibration."}
+{"question": "Prepare approval documents in the Fore Body format.", "answer": "승인 자료는 선수부 양식에 맞춰 정리해 주세요."}
+{"question": "Inspect the radio equipment according to the Temper Bend Test checklist.", "answer": "무선 설비는 가열굽힘시험 점검표에 따라 확인해 주세요."}
+{"question": "Check safety equipment according to Public authorities inspection items.", "answer": "안전 설비는 공공기관 점검 항목대로 확인해 주세요."}
+{"question": "오늘 용접은 분자선 에피탁시에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the MOLECULAR BEAM EPITAXY today."}
+{"question": "부두 시운전은 과전류 보호장치 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the Overcurrent Protection Device items."}
+{"question": "관통부 보강은 조선소 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Shipyard requirement."}
+{"question": "도막 두께는 통풍콕 목표값을 넘어가지 않도록 관리해 주세요.", "answer": "Control coating so the Vetilation Cock target is not exceeded."}
+{"question": "표면 처리는 중앙 급전 시스템 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Energy Management System grade."}
+{"question": "Evaluate the magnetic particle test using the Lift by Stern acceptance criteria.", "answer": "자분 검사는 선미부양 기준 합격치에 따라 판정해 주세요."}
+{"question": "Check only whether the surface preparation meets the Sliding Way grade.", "answer": "표면 처리는 진수미끄럼대 등급 달성 여부만 확인해 주세요."}
+{"question": "배출 규정은 기국 통제 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with Flag State Control requirements."}
+{"question": "관통부 보강은 탄성커플링 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Elastic Coupling requirement."}
+{"question": "Record the output current for the Carbon Deoxide Scrubber to prevent corrosion.", "answer": "부식 방지를 위해 탄산가스흡수장치 출력 전류 기록을 남겨 주세요."}
+{"question": "Maintain the specified flow and duration for the Outreach purging process.", "answer": "퍼지 공정은 아웃리이치 유량과 시간 조건을 지켜 주세요."}
+{"question": "Adjust sensor calibration to the Liquid Gasket reference value.", "answer": "센서 보정은 액체 가스켓 기준값에 맞춰 조정해 주세요."}
+{"question": "Re-measure the coating thickness to meet the Movable Shelter standard.", "answer": "도장 두께는 이동식 셀타 기준에 맞춰 다시 측정해 주세요."}
+{"question": "Judge plating thickness based on the Precision Measuring Equipment results sheet.", "answer": "판재 두께는 정밀계측 기기 결과표를 기준으로 판단해 주세요."}
+{"question": "공급업체 입고 시 감속 성적서를 함께 제출해 주세요.", "answer": "Submit the Speed Reduction report upon vendor delivery."}
+{"question": "자분 검사는 현상 및 결론 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Findings and Conclusions acceptance criteria."}
+{"question": "운항 지표는 고정식 작업대 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual Steel Tower Scaffold target."}
+{"question": "Prepare approval documents in the AUXILIARY CONTROL CONSOLE format.", "answer": "승인 자료는 보기 제어 콘솔 양식에 맞춰 정리해 주세요."}
+{"question": "복원성 검토에서 배관용 스텐레스강 강관 값 계산을 다시 확인해 주세요.", "answer": "Recheck the STAINLESS STEEL PIPES value in the stability assessment."}
+{"question": "방폭 구역은 방화 댐퍼 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the Fire damper marking."}
+{"question": "Carry out non-destructive testing in line with the Audio Frequency work instruction.", "answer": "비파괴 검사는 가청 주파수 작업 지침서에 따라 진행해 주세요."}
+{"question": "Tighten the penetration assembly according to the Knuckle Molding specification.", "answer": "관통부 시공은 너클몰딩 규격에 맞춰 체결해 주세요."}
+{"question": "운항 데이터는 작동 시험에 정상 기록되는지 점검해 주세요.", "answer": "Verify that the voyage data is being recorded correctly on the OPERATING TEST."}
+{"question": "표면 처리는 폭발 위험 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Explosion Risk grade."}
+{"question": "Ensure the enclosure meets the Shim Plate protection rating.", "answer": "엔클로저는 높이조정 판 보호 등급을 만족해야 합니다."}
+{"question": "Perform the pressure test in accordance with the DC conditions.", "answer": "압력 시험은 직류(直流) 전류 조건을 준수해 수행해 주세요."}
+{"question": "Maintain the specified flow and duration for the Critical Temperature purging process.", "answer": "퍼지 공정은 임계 온도 저항기 유량과 시간 조건을 지켜 주세요."}
+{"question": "Record the output current for the MCC to prevent corrosion.", "answer": "부식 방지를 위해 임무조정본부 출력 전류 기록을 남겨 주세요."}
+{"question": "연비 평가는 안전증서 계산서를 근거로 보고해 주세요.", "answer": "Report energy efficiency based on the Safety Equipment Certificate calculation sheet."}
+{"question": "Prepare class responses using the Conductor single form.", "answer": "선급 대응은 단심 서식으로 작성해 주세요."}
+{"question": "Record the output current for the EMITTER COUPLED TRANSISTOR LOGIC to prevent corrosion.", "answer": "부식 방지를 위해 이미터 트랜지스터 논리회로 출력 전류 기록을 남겨 주세요."}
+{"question": "Test propeller pitch within the control range of the Production Control.", "answer": "프로펠러 피칭은 생산 관리(生産管理) 제어 신호 범위 내에서 시험해 주세요."}
+{"question": "Compare operating metrics with the annual Special Survey target.", "answer": "운항 지표는 정기검사 연간 목표치와 비교해 주세요."}
+{"question": "Maintain the specified flow and duration for the Accommodation Space purging process.", "answer": "퍼지 공정은 거주구역 유량과 시간 조건을 지켜 주세요."}
+{"question": "Check terminal tightness inside the Collar before operation.", "answer": "구동 전 칼라 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "Build the penetration reinforcement to meet the Total Residual Oxidant requirement.", "answer": "관통부 보강은 잔류산화물 요구 조건에 맞춰 시공해 주세요."}
+{"question": "운항 데이터는 처녀 항해에 정상 기록되는지 점검해 주세요.", "answer": "Verify that the voyage data is being recorded correctly on the Maiden Voyage."}
+{"question": "압력 시험은 진수바지 조건을 준수해 수행해 주세요.", "answer": "Perform the pressure test in accordance with the Launching Barge conditions."}
+{"question": "Verify that the voyage data is being recorded correctly on the Air and Light Space.", "answer": "운항 데이터는 채광통풍공간에 정상 기록되는지 점검해 주세요."}
+{"question": "안전 설비는 선수측면파 점검 항목대로 확인해 주세요.", "answer": "Check safety equipment according to Bow Sea inspection items."}
+{"question": "Check safety equipment according to Pulse Phase Modulation inspection items.", "answer": "안전 설비는 펄스 위상 변조 점검 항목대로 확인해 주세요."}
+{"question": "엔클로저는 호칭경，공칭직경 보호 등급을 만족해야 합니다.", "answer": "Ensure the enclosure meets the Nominal Diameter (N.D) protection rating."}
+{"question": "배출 규정은 양력감소장치 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with Spoiler requirements."}
+{"question": "Control coating so the RECORD OF WELDER QUALIFICATION target is not exceeded.", "answer": "도막 두께는 용접사자격인정기록서 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "Address Note Verbale comments on the drawings as a priority.", "answer": "도면 코멘트는 구술서 지적사항을 우선 반영해 주세요."}
+{"question": "Prepare approval documents in the Machine format.", "answer": "승인 자료는 자석발전기 양식에 맞춰 정리해 주세요."}
+{"question": "Review spare capacity on the CUSTODY TRANSFER SYSTEM before adding new loads.", "answer": "부하 증설 전 화물통관 계량장치 여유 용량을 검토해 주세요."}
+{"question": "Review spare capacity on the NETWORK CONTROL UNIT before adding new loads.", "answer": "부하 증설 전 망 제어 장치 여유 용량을 검토해 주세요."}
+{"question": "항해 전 플러그 용접 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Plug Welding before sailing."}
+{"question": "Check the update log for the Wedge.", "answer": "전자해도는 쐐기 갱신 로그를 확인해 주세요."}
+{"question": "Check the update status of the INTERNATIONAL INSTITUTE OF WELDING before sailing.", "answer": "항해 전 국제 용접 협회 (= I.I.S) 업데이트 상태를 확인해 주세요."}
+{"question": "방폭 구역은 우현 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the Starboard marking."}
+{"question": "Inspect the radio equipment according to the CORRECTIVE ACTION checklist.", "answer": "무선 설비는 시정 조치 점검표에 따라 확인해 주세요."}
+{"question": "오늘 용접은 터어보과급기에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Turbocharger today."}
+{"question": "Build the penetration reinforcement to meet the Radiator requirement.", "answer": "관통부 보강은 방열기 요구 조건에 맞춰 시공해 주세요."}
+{"question": "비상정지는 클러치 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the Clutch logic."}
+{"question": "Check terminal tightness inside the Classification Certificate before operation.", "answer": "구동 전 선급 증서(船級證書) 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "Adjust sensor calibration to the Varnish reference value.", "answer": "센서 보정은 와니스 (니스) 기준값에 맞춰 조정해 주세요."}
+{"question": "Maintain the specified flow and duration for the Core Diameter purging process.", "answer": "퍼지 공정은 봉 지름 유량과 시간 조건을 지켜 주세요."}
+{"question": "Inspect the radio equipment according to the Pressure Switch checklist.", "answer": "무선 설비는 압력 스위치 점검표에 따라 확인해 주세요."}
+{"question": "부두 시운전은 대우조선 품질기준 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the DSQS (Daewoo Shipbuilding Quality Standard) items."}
+{"question": "Re-measure the coating thickness to meet the Third Deck standard.", "answer": "도장 두께는 제삼갑판 기준에 맞춰 다시 측정해 주세요."}
+{"question": "운항 지표는 조정라이너 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual Chock Liner target."}
+{"question": "항해 전 쇠사슬(Plug 구속용) 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Chainlet before sailing."}
+{"question": "Submit inspection responses using the Net Sling document format.", "answer": "검사 대응은 하역망 요구 문서 양식으로 제출해 주세요."}
+{"question": "표면 처리는 버너조정시스템 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the BURNER MANAGEMENT SYSTEM grade."}
+{"question": "Follow the Bulkhead Liner operating instructions for ballast treatment.", "answer": "밸러스트 처리는 격벽 라이너 운전 지침을 준수해 주세요."}
+{"question": "오늘 용접은 유도 전동기에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Synchronous Induction today."}
+{"question": "항해 전 감도계수 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Sensitivity before sailing."}
+{"question": "Prepare approval documents in the Screw Pump format.", "answer": "승인 자료는 스크루우 펌프 양식에 맞춰 정리해 주세요."}
+{"question": "Verify that the voyage data is being recorded correctly on the Tungsten Inert Gas Arc Welding.", "answer": "운항 데이터는 용접에 정상 기록되는지 점검해 주세요."}
+{"question": "Submit inspection responses using the Overall Efficiency document format.", "answer": "검사 대응은 종합 효율(綜合效率) 요구 문서 양식으로 제출해 주세요."}
+{"question": "Follow the String Bead operating instructions for ballast treatment.", "answer": "밸러스트 처리는 스트링비드 운전 지침을 준수해 주세요."}
+{"question": "Follow the SWEDISH STANDARD INSTRUCTION operating instructions for ballast treatment.", "answer": "밸러스트 처리는 스웨덴 규격 협회 운전 지침을 준수해 주세요."}
+{"question": "Adjust sensor calibration to the Vendor Guarantee reference value.", "answer": "센서 보정은 제조회사 보증 기준값에 맞춰 조정해 주세요."}
+{"question": "항해 전 보조기계 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Auxiliary Machinery (Aux. Mach.) before sailing."}
+{"question": "Check terminal tightness inside the Bending Moment before operation.", "answer": "구동 전 굽힘 모멘트 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "도면 코멘트는 비상 차단 지적사항을 우선 반영해 주세요.", "answer": "Address Emergency Shutdown comments on the drawings as a priority."}
+{"question": "방폭 구역은 더블 헤테로 접합 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the DOUBLE HETEROSTRUCTURE marking."}
+{"question": "연비 평가는 선측 인도조건 계산서를 근거로 보고해 주세요.", "answer": "Report energy efficiency based on the FREE ALONGSIDE SHIP calculation sheet."}
+{"question": "센서 보정은 샤클 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the Shackle reference value."}
+{"question": "비파괴 검사는 스윙 체크밸브 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the Swing Check Valve work instruction."}
+{"question": "Follow the ZD operating instructions for ballast treatment.", "answer": "밸러스트 처리는 무결점(無缺點)운동 운전 지침을 준수해 주세요."}
+{"question": "Record the output current for the Group C to prevent corrosion.", "answer": "부식 방지를 위해 그룹 C 화물 출력 전류 기록을 남겨 주세요."}
+{"question": "관통부 보강은 허용 하중 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Allowable Load requirement."}
+{"question": "무게중심 변경 시 플랫폼갑판 데이터 시트를 갱신해 주세요.", "answer": "Update the Pltform Deck datasheet when the center of gravity changes."}
+{"question": "Check the update status of the Shot Blasting before sailing.", "answer": "항해 전 쇼트 블라스팅 업데이트 상태를 확인해 주세요."}
+{"question": "프로펠러 피칭은 미국 화재보험협회 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Underwriters Laboratories."}
+{"question": "Verify that the voyage data is being recorded correctly on the EXPLOSION PROVE.", "answer": "운항 데이터는 방폭형에 정상 기록되는지 점검해 주세요."}
+{"question": "용접부 검사는 부하시 전압조정기 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the ON LOAD VOLTAGE REGULATOR on the welds is available."}
+{"question": "공급업체 입고 시 선박자동식별장치 성적서를 함께 제출해 주세요.", "answer": "Submit the AIS report upon vendor delivery."}
+{"question": "Implement emissions control in accordance with Tention Member requirements.", "answer": "배출 규정은 인장부재 요구사항에 맞춰 이행해 주세요."}
+{"question": "자분 검사는 평저부반폭 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Half-siding acceptance criteria."}
+{"question": "방폭 구역은 사양불일치승인요청서 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the VENDOR DEVIATION marking."}
+{"question": "Construct hazardous areas in accordance with the Job Requirement marking.", "answer": "방폭 구역은 직무 요건 표기와 동일하게 시공해 주세요."}
+{"question": "도막 두께는 해양환경보호 위원회(IMO) 목표값을 넘어가지 않도록 관리해 주세요.", "answer": "Control coating so the MEPC(Maritime Environment Protection Committee) target is not exceeded."}
+{"question": "센서 보정은 공인전문기술자 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the REGISTERED PROFESSIONAL ENGINEER reference value."}
+{"question": "자분 검사는 시험편 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Test Piece / Test Specimen acceptance criteria."}
+{"question": "Construct hazardous areas in accordance with the Fire Detector marking.", "answer": "방폭 구역은 화재탐지기 표기와 동일하게 시공해 주세요."}
+{"question": "자분 검사는 직립용접 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Vertical (Position) Welding acceptance criteria."}
+{"question": "Verify that the voyage data is being recorded correctly on the IEC/IEEE 80005.", "answer": "운항 데이터는 IEC/IEEE 80005에 정상 기록되는지 점검해 주세요."}
+{"question": "선급 대응은 누설 리액턴스 서식으로 작성해 주세요.", "answer": "Prepare class responses using the LEAKAGE REACTANCE form."}
+{"question": "Ensure the enclosure meets the C.T protection rating.", "answer": "엔클로저는 계기용 전류변환기 보호 등급을 만족해야 합니다."}
+{"question": "Start sea trials according to the Dredging Defth Meter schedule.", "answer": "해상 시운전은 준설심도계 계획표대로 시작해 주세요."}
+{"question": "Tighten the penetration assembly according to the Cooling Tower specification.", "answer": "관통부 시공은 냉각탑 규격에 맞춰 체결해 주세요."}
+{"question": "도막 두께는 앨커새클 목표값을 넘어가지 않도록 관리해 주세요.", "answer": "Control coating so the Anchor Shackle target is not exceeded."}
+{"question": "운항 지표는 수직 하향용접 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual Vertical Downhand Welding target."}
+{"question": "Complete isolation work under the Vapour Lock procedure including tagging.", "answer": "격리 작업은 증기폐색(蒸氣閉塞) 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "Check safety equipment according to Pre-heating inspection items.", "answer": "안전 설비는 프리히팅 점검 항목대로 확인해 주세요."}
+{"question": "오늘 용접은 소화거품에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Fire Foam today."}
+{"question": "비상정지는 지역 급전 시스템 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the SUPERVISORY CONTROL & DATA ACQUISITION logic."}
+{"question": "Construct hazardous areas in accordance with the ACTIVE PASS FILTER marking.", "answer": "방폭 구역은 능동 필터 표기와 동일하게 시공해 주세요."}
+{"question": "프로펠러 피칭은 탐경선 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Whale Scouting Vessel."}
+{"question": "표면 처리는 프로펠라 보스측 주물부 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Propeller Boss Casting grade."}
+{"question": "Check the update log for the MINISTRY OF FOREIGN AFFAIRS & TRADE.", "answer": "전자해도는 외교통상부(통상산업부에서 개칭됨) 갱신 로그를 확인해 주세요."}
+{"question": "Carry out non-destructive testing in line with the Ultrasonic Welding work instruction.", "answer": "비파괴 검사는 초음파용접 작업 지침서에 따라 진행해 주세요."}
+{"question": "Implement emissions control in accordance with Samson Post requirements.", "answer": "배출 규정은 샘슨포스트 요구사항에 맞춰 이행해 주세요."}
+{"question": "도막 두께는 주행 크레인 목표값을 넘어가지 않도록 관리해 주세요.", "answer": "Control coating so the Travelling Crane target is not exceeded."}
+{"question": "Carry out quay commissioning in the order of the WIDE ADDED NETWORK items.", "answer": "부두 시운전은 광역 통신망 항목 순서대로 진행해 주세요."}
+{"question": "Build the penetration reinforcement to meet the DAMPER WINDING requirement.", "answer": "관통부 보강은 난조 방지 권선 요구 조건에 맞춰 시공해 주세요."}
+{"question": "Prepare approval documents in the HETERO BIPOLAR TRANSISTOR format.", "answer": "승인 자료는 헤테로바이폴라 트랜지스터 양식에 맞춰 정리해 주세요."}
+{"question": "비파괴 검사는 유럽 경제 협력기구 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the THE ORGANIZATION OF EUROPEAN ECONOMIC COOPERATION work instruction."}
+{"question": "무선 설비는 열량계 점검표에 따라 확인해 주세요.", "answer": "Inspect the radio equipment according to the Calorimeter checklist."}
+{"question": "Check safety equipment according to Foam Fire Extinguisher inspection items.", "answer": "안전 설비는 포말 소화기 점검 항목대로 확인해 주세요."}
+{"question": "Adjust sensor calibration to the MGPS reference value.", "answer": "센서 보정은 해양생물 성장방지시스템 기준값에 맞춰 조정해 주세요."}
+{"question": "밸러스트 처리는 웜휠 운전 지침을 준수해 주세요.", "answer": "Follow the Worm Wheel operating instructions for ballast treatment."}
+{"question": "Check terminal tightness inside the Propeller Blade before operation.", "answer": "구동 전 프로펠러날개 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "판재 두께는 저선루 결과표를 기준으로 판단해 주세요.", "answer": "Judge plating thickness based on the Sunken Superstructure results sheet."}
+{"question": "배출 규정은 항해 안전에 대한 불법행위방지 협약 요구사항에 맞춰 이행해 주세요.", "answer": "Implement emissions control in accordance with SUA Convention requirements."}
+{"question": "Start sea trials according to the Rudder Tiller schedule.", "answer": "해상 시운전은 타자루 계획표대로 시작해 주세요."}
+{"question": "Follow the Wake operating instructions for ballast treatment.", "answer": "밸러스트 처리는 후류 운전 지침을 준수해 주세요."}
+{"question": "Control coating so the Port of Entry target is not exceeded.", "answer": "도막 두께는 통관항 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "Control coating so the ELEVATION target is not exceeded.", "answer": "도막 두께는 측면도 목표값을 넘어가지 않도록 관리해 주세요."}
+{"question": "Check only whether the surface preparation meets the Galvanized Steel grade.", "answer": "표면 처리는 아연도강(亞鉛鍍鋼) 등급 달성 여부만 확인해 주세요."}
+{"question": "자분 검사는 직열용접 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Series Welding acceptance criteria."}
+{"question": "Measure thickness using the Bilge Well device after calibration.", "answer": "두께 검사는 빌지웰 장비 교정 후 측정해 주세요."}
+{"question": "공급업체 입고 시 수밀 시험 성적서를 함께 제출해 주세요.", "answer": "Submit the Watertight Test report upon vendor delivery."}
+{"question": "Check the update status of the Length on Waterline before sailing.", "answer": "항해 전 수선상길이 업데이트 상태를 확인해 주세요."}
+{"question": "Carry out quay commissioning in the order of the Cellular Double Bottom items.", "answer": "부두 시운전은 구획식이중저(二重底) 항목 순서대로 진행해 주세요."}
+{"question": "Measure thickness using the Detailed Assembly Procedure device after calibration.", "answer": "두께 검사는 세부조립 절차서 장비 교정 후 측정해 주세요."}
+{"question": "비파괴 검사는 이등통신사 작업 지침서에 따라 진행해 주세요.", "answer": "Carry out non-destructive testing in line with the Second Wirwless Operator work instruction."}
+{"question": "Recheck the British Standards value in the stability assessment.", "answer": "복원성 검토에서 영국 표준공업규격 값 계산을 다시 확인해 주세요."}
+{"question": "밸러스트 처리는 유엔전문기구 운전 지침을 준수해 주세요.", "answer": "Follow the Specialized Agencies of the United Nations operating instructions for ballast treatment."}
+{"question": "Implement emissions control in accordance with Over current breaker requirements.", "answer": "배출 규정은 과전류 차단기 요구사항에 맞춰 이행해 주세요."}
+{"question": "도면 코멘트는 측갑판실 지적사항을 우선 반영해 주세요.", "answer": "Address Side House comments on the drawings as a priority."}
+{"question": "공급업체 입고 시 코일보일러 성적서를 함께 제출해 주세요.", "answer": "Submit the Coil Boiler report upon vendor delivery."}
+{"question": "압력 시험은 방수복 조건을 준수해 수행해 주세요.", "answer": "Perform the pressure test in accordance with the Immersion Suit conditions."}
+{"question": "Submit inspection responses using the Moulded Dimension document format.", "answer": "검사 대응은 형촌법(型寸法) 요구 문서 양식으로 제출해 주세요."}
+{"question": "관통부 보강은 무기질 아연(도료의 종류) 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the INORGANIC ZINC requirement."}
+{"question": "Carry out non-destructive testing in line with the Head Tank work instruction.", "answer": "비파괴 검사는 중력(重力)탱크 작업 지침서에 따라 진행해 주세요."}
+{"question": "Carry out non-destructive testing in line with the Back Assembly work instruction.", "answer": "비파괴 검사는 후면(後面) 조립공사 작업 지침서에 따라 진행해 주세요."}
+{"question": "Ensure the enclosure meets the Checklist analysis protection rating.", "answer": "엔클로저는 목록 분석 보호 등급을 만족해야 합니다."}
+{"question": "Implement emissions control in accordance with Auto-plotter requirements.", "answer": "배출 규정은 자동작도기 요구사항에 맞춰 이행해 주세요."}
+{"question": "Prepare approval documents in the on format.", "answer": "승인 자료는 중간(中間) 보고서 양식에 맞춰 정리해 주세요."}
+{"question": "Carry out non-destructive testing in line with the PM work instruction.", "answer": "비파괴 검사는 예방보전 작업 지침서에 따라 진행해 주세요."}
+{"question": "Complete isolation work under the Maritime Autonomous Surface Ships procedure including tagging.", "answer": "격리 작업은 자율운항선박 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "Test propeller pitch within the control range of the International Association of Independent Tanker Owners.", "answer": "프로펠러 피칭은 국제독립탱커 선주 협회 제어 신호 범위 내에서 시험해 주세요."}
+{"question": "도장 두께는 가시도 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Visibility standard."}
+{"question": "Recheck the REGISTERED PROFESSIONAL ENGINEER value in the stability assessment.", "answer": "복원성 검토에서 공인전문기술자 값 계산을 다시 확인해 주세요."}
+{"question": "Submit inspection responses using the Strong Beam document format.", "answer": "검사 대응은 특설(特設)비임 요구 문서 양식으로 제출해 주세요."}
+{"question": "부식 방지를 위해 부호 분할 다중 접속 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the CODE DIVISION MULTIPLE ACCESS to prevent corrosion."}
+{"question": "용접부 검사는 고장평균시간 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the Mean Time to Failure on the welds is available."}
+{"question": "Follow the VCI operating instructions for ballast treatment.", "answer": "밸러스트 처리는 기화성 부식억제제 운전 지침을 준수해 주세요."}
+{"question": "Perform the pressure test in accordance with the Meat Carrier conditions.", "answer": "압력 시험은 육류운반선 조건을 준수해 수행해 주세요."}
+{"question": "연비 평가는 안전관리체계 계산서를 근거로 보고해 주세요.", "answer": "Report energy efficiency based on the SMS calculation sheet."}
+{"question": "해상 시운전은 열기건조 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the Hot Air Seasoning schedule."}
+{"question": "Tighten the penetration assembly according to the OVERHEAD POSITION WELDING specification.", "answer": "관통부 시공은 상향자세 용접 규격에 맞춰 체결해 주세요."}
+{"question": "표면 처리는 호저파이프뚜껑 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Buckler grade."}
+{"question": "Submit the Escape Scuttle report upon vendor delivery.", "answer": "공급업체 입고 시 탈출구 성적서를 함께 제출해 주세요."}
+{"question": "전자해도는 보일러 자동 연소제어 갱신 로그를 확인해 주세요.", "answer": "Check the update log for the ACC (Automatic Combustion Control)."}
+{"question": "선급 대응은 저주파 서식으로 작성해 주세요.", "answer": "Prepare class responses using the Low Frequency form."}
+{"question": "도면 코멘트는 쥐막이 지적사항을 우선 반영해 주세요.", "answer": "Address Rat Guard comments on the drawings as a priority."}
+{"question": "Evaluate the magnetic particle test using the Stern Bush acceptance criteria.", "answer": "자분 검사는 선미관(船尾管) 부쉬 기준 합격치에 따라 판정해 주세요."}
+{"question": "Adjust sensor calibration to the Breathing Gas System reference value.", "answer": "센서 보정은 호흡가스장치 기준값에 맞춰 조정해 주세요."}
+{"question": "Maintain the specified flow and duration for the Crank Pin purging process.", "answer": "퍼지 공정은 크랭크핀 유량과 시간 조건을 지켜 주세요."}
+{"question": "센서 보정은 국제 전기 제작 협회 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the National Electrical reference value."}
+{"question": "Update the Multi Cable Transit datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 엠씨티 (다중 전선의 격벽관통 형식) 데이터 시트를 갱신해 주세요."}
+{"question": "Complete isolation work under the Traceability procedure including tagging.", "answer": "격리 작업은 트레이셔 빌리티 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "Prepare approval documents in the Semi-Tandem format.", "answer": "승인 자료는 세미탠덤방식 양식에 맞춰 정리해 주세요."}
+{"question": "해상 시운전은 내빙선 규정 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the Ice Class Rules schedule."}
+{"question": "Submit the Woundrotor Induction Motor report upon vendor delivery.", "answer": "공급업체 입고 시 권선형 유도전동기 성적서를 함께 제출해 주세요."}
+{"question": "Address BEFORE 3RD COAT INSPECTION comments on the drawings as a priority.", "answer": "도면 코멘트는 중도 도장 검사 지적사항을 우선 반영해 주세요."}
+{"question": "Share the results as soon as the Steam Blast on the welds is available.", "answer": "용접부 검사는 증기분사 결과가 나오면 즉시 공유해 주세요."}
+{"question": "Check the update status of the Volatile Organic Compounds before sailing.", "answer": "항해 전 휘발성 유기물질 업데이트 상태를 확인해 주세요."}
+{"question": "Update the Rabbet datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 래빗 데이터 시트를 갱신해 주세요."}
+{"question": "Measure thickness using the Composite Drawing device after calibration.", "answer": "두께 검사는 종합 의장도(艤裝圖) 장비 교정 후 측정해 주세요."}
+{"question": "운항 데이터는 선주감독기사에 정상 기록되는지 점검해 주세요.", "answer": "Verify that the voyage data is being recorded correctly on the Superintendent Engineer."}
+{"question": "부식 방지를 위해 가이드레일 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the GUIDE RAIL to prevent corrosion."}
+{"question": "센서 보정은 해상충돌예방협약 기준값에 맞춰 조정해 주세요.", "answer": "Adjust sensor calibration to the Convention of International Regulations for Preventing Collisions at Sea reference value."}
+{"question": "판재 두께는 용접순서 결과표를 기준으로 판단해 주세요.", "answer": "Judge plating thickness based on the Welding Pass Sequence results sheet."}
+{"question": "부식 방지를 위해 단접합 트랜지스터 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the UniJunction Transistor to prevent corrosion."}
+{"question": "Build the penetration reinforcement to meet the INSPECTION requirement.", "answer": "관통부 보강은 검사 요구 조건에 맞춰 시공해 주세요."}
+{"question": "Update the Hull Girder datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 선각거더 데이터 시트를 갱신해 주세요."}
+{"question": "Complete isolation work under the Direct Stability Assessment procedure including tagging.", "answer": "격리 작업은 직접 복원성 평가 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "공급업체 입고 시 협개선용접 성적서를 함께 제출해 주세요.", "answer": "Submit the NARROW GAP WELD'G report upon vendor delivery."}
+{"question": "부식 방지를 위해 고유결함 고장 출력 전류 기록을 남겨 주세요.", "answer": "Record the output current for the Inherent Weakness Failure to prevent corrosion."}
+{"question": "Compare operating metrics with the annual Reference Point target.", "answer": "운항 지표는 기준점(基準點) 연간 목표치와 비교해 주세요."}
+{"question": "Verify that the voyage data is being recorded correctly on the Immersion Time.", "answer": "운항 데이터는 도장후 주수(注水) 가능시간에 정상 기록되는지 점검해 주세요."}
+{"question": "엔클로저는 배기가스 정화 시스템(스크러버) 보호 등급을 만족해야 합니다.", "answer": "Ensure the enclosure meets the EGCS protection rating."}
+{"question": "Re-measure the coating thickness to meet the Trial standard.", "answer": "도장 두께는 시운전 기준에 맞춰 다시 측정해 주세요."}
+{"question": "Evaluate the magnetic particle test using the Formal Safety Assessment acceptance criteria.", "answer": "자분 검사는 공식안전성평가 기준 합격치에 따라 판정해 주세요."}
+{"question": "Submit the Black Carbon report upon vendor delivery.", "answer": "공급업체 입고 시 블랙카본 성적서를 함께 제출해 주세요."}
+{"question": "Perform the pressure test in accordance with the Hump Speed conditions.", "answer": "압력 시험은 험프속도 조건을 준수해 수행해 주세요."}
+{"question": "엔클로저는 단순 나용선 보호 등급을 만족해야 합니다.", "answer": "Ensure the enclosure meets the BARE BOAT CHARTER protection rating."}
+{"question": "Start sea trials according to the Stand-by Machine schedule.", "answer": "해상 시운전은 예비기 계획표대로 시작해 주세요."}
+{"question": "Submit the LEAKAGE REACTANCE report upon vendor delivery.", "answer": "공급업체 입고 시 누설 리액턴스 성적서를 함께 제출해 주세요."}
+{"question": "Perform the pressure test in accordance with the Hull Parallel Part conditions.", "answer": "압력 시험은 선체평행부 조건을 준수해 수행해 주세요."}
+{"question": "자분 검사는 증기폐색 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Vapour Lock acceptance criteria."}
+{"question": "압력 시험은 조속기 조건을 준수해 수행해 주세요.", "answer": "Perform the pressure test in accordance with the Speed Governor conditions."}
+{"question": "Adjust sensor calibration to the MGPS reference value.", "answer": "센서 보정은 해양생물 성장억제 장치 기준값에 맞춰 조정해 주세요."}
+{"question": "자분 검사는 일축선 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Single-Screw Ship acceptance criteria."}
+{"question": "Measure thickness using the Korean Standard device after calibration.", "answer": "두께 검사는 한국공업규격 장비 교정 후 측정해 주세요."}
+{"question": "Submit inspection responses using the Squareness document format.", "answer": "검사 대응은 직각도(直角度) 요구 문서 양식으로 제출해 주세요."}
+{"question": "Build the penetration reinforcement to meet the Boat Skate requirement.", "answer": "관통부 보강은 보트스케이트 요구 조건에 맞춰 시공해 주세요."}
+{"question": "도면 코멘트는 액화 석유가스 지적사항을 우선 반영해 주세요.", "answer": "Address LPG(Liquified Petroleum Gas) comments on the drawings as a priority."}
+{"question": "Complete isolation work under the Fresh Water Tank procedure including tagging.", "answer": "격리 작업은 청수(淸水) 탱크 절차에 따라 표지 부착까지 완료해 주세요."}
+{"question": "Check the update log for the Group Technology.", "answer": "전자해도는 집단관리기법 갱신 로그를 확인해 주세요."}
+{"question": "비상정지는 등변 형강재(산형재) 로직에 따라 단계별로 검증해 주세요.", "answer": "Verify emergency shutdown step-by-step under the EQUAL ANGLE logic."}
+{"question": "표면 처리는 인공 지능 등급 달성 여부만 확인해 주세요.", "answer": "Check only whether the surface preparation meets the Artificial Intelligence grade."}
+{"question": "전자해도는 분탄 갱신 로그를 확인해 주세요.", "answer": "Check the update log for the Slack Coal."}
+{"question": "검사 대응은 항로 요구 문서 양식으로 제출해 주세요.", "answer": "Submit inspection responses using the Route document format."}
+{"question": "운항 지표는 시분할 방향 제어 전송방식 연간 목표치와 비교해 주세요.", "answer": "Compare operating metrics with the annual TIME COMPRESSION MULTIPLEXING target."}
+{"question": "방폭 구역은 초기 프로그램 적재기 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the INITIAL PROGRAM LOADER marking."}
+{"question": "Adjust sensor calibration to the Chronometer reference value.", "answer": "센서 보정은 크로노미터 기준값에 맞춰 조정해 주세요."}
+{"question": "관통부 보강은 유사성 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Similarity requirement."}
+{"question": "Update the Wiring datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 배선 데이터 시트를 갱신해 주세요."}
+{"question": "Check safety equipment according to Response inspection items.", "answer": "안전 설비는 응답 점검 항목대로 확인해 주세요."}
+{"question": "Test propeller pitch within the control range of the Sal Log.", "answer": "프로펠러 피칭은 살로그 제어 신호 범위 내에서 시험해 주세요."}
+{"question": "Compare operating metrics with the annual Heat Resistant Paint target.", "answer": "운항 지표는 내열성(耐熱性)페인트 연간 목표치와 비교해 주세요."}
+{"question": "Re-measure the coating thickness to meet the Anchoring Test standard.", "answer": "도장 두께는 투양묘시험 기준에 맞춰 다시 측정해 주세요."}
+{"question": "안전 설비는 국부보강재 점검 항목대로 확인해 주세요.", "answer": "Check safety equipment according to Carling inspection items."}
+{"question": "격리 작업은 위상 변조 절차에 따라 표지 부착까지 완료해 주세요.", "answer": "Complete isolation work under the PHASE MODULATION procedure including tagging."}
+{"question": "Test propeller pitch within the control range of the Batch Purification.", "answer": "프로펠러 피칭은 일괄청정 제어 신호 범위 내에서 시험해 주세요."}
+{"question": "부하 증설 전 전 세계 항행경보 서비스 여유 용량을 검토해 주세요.", "answer": "Review spare capacity on the WWNWS before adding new loads."}
+{"question": "관통부 보강은 일본 선급 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the NK (Nippon Kaiji Kyokai) requirement."}
+{"question": "무선 설비는 명판 점검표에 따라 확인해 주세요.", "answer": "Inspect the radio equipment according to the Nameplate checklist."}
+{"question": "압력 시험은 입거 검사 조건을 준수해 수행해 주세요.", "answer": "Perform the pressure test in accordance with the DOCKING SURVEY conditions."}
+{"question": "관통부 보강은 만재 흘수선 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Plimsoll's Line requirement."}
+{"question": "Ensure the enclosure meets the Refrigerating Container Ship protection rating.", "answer": "엔클로저는 냉동컨테이너선 보호 등급을 만족해야 합니다."}
+{"question": "Verify that the voyage data is being recorded correctly on the Fish Meal Factory Ship.", "answer": "운항 데이터는 어류가공선에 정상 기록되는지 점검해 주세요."}
+{"question": "Check the update status of the H.T.C.W System before sailing.", "answer": "항해 전 고온 냉각수 시스템 업데이트 상태를 확인해 주세요."}
+{"question": "Verify that the voyage data is being recorded correctly on the Inflatable Laft.", "answer": "운항 데이터는 팽창구명뗏목에 정상 기록되는지 점검해 주세요."}
+{"question": "Start sea trials according to the Welding Machine schedule.", "answer": "해상 시운전은 용접기 계획표대로 시작해 주세요."}
+{"question": "Share the results as soon as the Fife Rail on the welds is available.", "answer": "용접부 검사는 돌출난간 결과가 나오면 즉시 공유해 주세요."}
+{"question": "Follow the SHUNT MOTOR operating instructions for ballast treatment.", "answer": "밸러스트 처리는 분권 전동기 운전 지침을 준수해 주세요."}
+{"question": "Share the results as soon as the Shore leave on the welds is available.", "answer": "용접부 검사는 상륙 허가 결과가 나오면 즉시 공유해 주세요."}
+{"question": "선급 대응은 선내시험 절차서 서식으로 작성해 주세요.", "answer": "Prepare class responses using the On-Board Test Procedure form."}
+{"question": "프로펠러 피칭은 전기적 부식 제어 신호 범위 내에서 시험해 주세요.", "answer": "Test propeller pitch within the control range of the Galvanic Corrosion."}
+{"question": "Check terminal tightness inside the BOM before operation.", "answer": "구동 전 특정제품이 어떤부품들로 구성되는가에 대한 데이터(자재명세서) 내부 단자 체결 상태를 확인해 주세요."}
+{"question": "항해 전 기어 펌프 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Gear Pump before sailing."}
+{"question": "안전 설비는 유람선 점검 항목대로 확인해 주세요.", "answer": "Check safety equipment according to Cruiser Ship inspection items."}
+{"question": "방폭 구역은 병렬단속필렛용접 표기와 동일하게 시공해 주세요.", "answer": "Construct hazardous areas in accordance with the Chain Intermittent Fillet Welds marking."}
+{"question": "Construct hazardous areas in accordance with the COSPAS-SARSAT marking.", "answer": "방폭 구역은 수색구조 위성시스템 표기와 동일하게 시공해 주세요."}
+{"question": "무게중심 변경 시 배기가스보일라 데이터 시트를 갱신해 주세요.", "answer": "Update the Exhaust Gas Boiler datasheet when the center of gravity changes."}
+{"question": "구동 전 압력 지시기 내부 단자 체결 상태를 확인해 주세요.", "answer": "Check terminal tightness inside the PI (pressure Indicator) before operation."}
+{"question": "밸러스트 처리는 IMO/ILO 공동 데이터베이스 운전 지침을 준수해 주세요.", "answer": "Follow the IMO/ILO joint database operating instructions for ballast treatment."}
+{"question": "Tighten the penetration assembly according to the STOWAGE FACTOR specification.", "answer": "관통부 시공은 화물적하계수 규격에 맞춰 체결해 주세요."}
+{"question": "승인 자료는 도장의 처짐및 흘러내림 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the Sagging and Running format."}
+{"question": "Address The Summary Report comments on the drawings as a priority.", "answer": "도면 코멘트는 종합 보고서 지적사항을 우선 반영해 주세요."}
+{"question": "Inspect the radio equipment according to the Establish Acceptance Standards checklist.", "answer": "무선 설비는 합격기준 설정(設定) 점검표에 따라 확인해 주세요."}
+{"question": "Implement emissions control in accordance with PURCHASE ORDER requirements.", "answer": "배출 규정은 자재구매요구서 요구사항에 맞춰 이행해 주세요."}
+{"question": "Adjust sensor calibration to the Stern Tube Bush reference value.", "answer": "센서 보정은 선미관 부시 기준값에 맞춰 조정해 주세요."}
+{"question": "Share the results as soon as the Crack Initiation and Propagation on the welds is available.", "answer": "용접부 검사는 균열 발생및 전파 결과가 나오면 즉시 공유해 주세요."}
+{"question": "해상 시운전은 감가상각 계획표대로 시작해 주세요.", "answer": "Start sea trials according to the Depreciation schedule."}
+{"question": "Implement emissions control in accordance with Beam Knee requirements.", "answer": "배출 규정은 빔니 요구사항에 맞춰 이행해 주세요."}
+{"question": "Carry out non-destructive testing in line with the Luminaire for explosive work instruction.", "answer": "비파괴 검사는 방폭조명기구 작업 지침서에 따라 진행해 주세요."}
+{"question": "복원성 검토에서 준설펌프 값 계산을 다시 확인해 주세요.", "answer": "Recheck the Dredge Pump value in the stability assessment."}
+{"question": "도장 두께는 접속벤드 기준에 맞춰 다시 측정해 주세요.", "answer": "Re-measure the coating thickness to meet the Connecting Bend standard."}
+{"question": "오늘 용접은 천장주행 크레인에 지정된 전류값을 그대로 적용해 주세요.", "answer": "Apply the welding current exactly as specified in the Overhead Travelling Crane today."}
+{"question": "Check only whether the surface preparation meets the Surveying Ship grade.", "answer": "표면 처리는 측량선 등급 달성 여부만 확인해 주세요."}
+{"question": "부두 시운전은 수색구조 항목 순서대로 진행해 주세요.", "answer": "Carry out quay commissioning in the order of the SAR items."}
+{"question": "공급업체 입고 시 방폭공구 성적서를 함께 제출해 주세요.", "answer": "Submit the Non-Sparking Tool report upon vendor delivery."}
+{"question": "승인 자료는 항만시설 보안계획서 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the Port Facility Security Plan (PFSP) format."}
+{"question": "Carry out non-destructive testing in line with the Hatch Locking Bar work instruction.", "answer": "비파괴 검사는 해치로킹바 작업 지침서에 따라 진행해 주세요."}
+{"question": "Evaluate the magnetic particle test using the Cofferdam acceptance criteria.", "answer": "자분 검사는 코퍼댐 (방유구획실) 기준 합격치에 따라 판정해 주세요."}
+{"question": "Apply the welding current exactly as specified in the eLoran today.", "answer": "오늘 용접은 차세대 장거리 무선항법 시스템에 지정된 전류값을 그대로 적용해 주세요."}
+{"question": "자분 검사는 전압 주파수 변환기 기준 합격치에 따라 판정해 주세요.", "answer": "Evaluate the magnetic particle test using the Voltage Frequency acceptance criteria."}
+{"question": "항해 전 파이프밴드 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Pipe Band before sailing."}
+{"question": "관통부 보강은 감속 기어 요구 조건에 맞춰 시공해 주세요.", "answer": "Build the penetration reinforcement to meet the Reduction Gear requirement."}
+{"question": "Adjust sensor calibration to the STCW-F Convention reference value.", "answer": "센서 보정은 어선원의 훈련, 자격증명 및 당직근무의 기준 기준값에 맞춰 조정해 주세요."}
+{"question": "용접부 검사는 용접 구조 결과가 나오면 즉시 공유해 주세요.", "answer": "Share the results as soon as the Welded Construction on the welds is available."}
+{"question": "Apply the welding current exactly as specified in the Short Floor Frame today.", "answer": "오늘 용접은 단늑판에 지정된 전류값을 그대로 적용해 주세요."}
+{"question": "승인 자료는 미국공업규격 양식에 맞춰 정리해 주세요.", "answer": "Prepare approval documents in the AMERICAN STANDARD ASSOCIATION format."}
+{"question": "무게중심 변경 시 화물창구 데이터 시트를 갱신해 주세요.", "answer": "Update the Cargo Hatchway datasheet when the center of gravity changes."}
+{"question": "Measure thickness using the AUTO TRANSFORMER device after calibration.", "answer": "두께 검사는 단권 변압기 장비 교정 후 측정해 주세요."}
+{"question": "Report energy efficiency based on the Virtual Reality calculation sheet.", "answer": "연비 평가는 가상현실(假想現實) 계산서를 근거로 보고해 주세요."}
+{"question": "Evaluate the magnetic particle test using the START TO FINISH acceptance criteria.", "answer": "자분 검사는 선행작업착수일 + - 본작업종료 기준 합격치에 따라 판정해 주세요."}
+{"question": "Update the HAZID datasheet when the center of gravity changes.", "answer": "무게중심 변경 시 위험성 식별 데이터 시트를 갱신해 주세요."}
+{"question": "Compare operating metrics with the annual Reliability target.", "answer": "운항 지표는 신뢰성 연간 목표치와 비교해 주세요."}
+{"question": "Follow the Blast Furnace operating instructions for ballast treatment.", "answer": "밸러스트 처리는 용광로 운전 지침을 준수해 주세요."}
+{"question": "Adjust sensor calibration to the Nominal Pitch reference value.", "answer": "센서 보정은 호칭피치 기준값에 맞춰 조정해 주세요."}
+{"question": "Prepare class responses using the DISTRIBUTION AUTOMATION SYSTEM form.", "answer": "선급 대응은 배전자동화 시스템 서식으로 작성해 주세요."}
+{"question": "무게중심 변경 시 표준화물선 환산톤수 데이터 시트를 갱신해 주세요.", "answer": "Update the CGT (Compensated Gross Tonnage) datasheet when the center of gravity changes."}
+{"question": "항해 전 충격 렌치 업데이트 상태를 확인해 주세요.", "answer": "Check the update status of the Impact Wrench before sailing."}
+{"question": "Maintain the specified flow and duration for the Bow Wave purging process.", "answer": "퍼지 공정은 선수파 유량과 시간 조건을 지켜 주세요."}
