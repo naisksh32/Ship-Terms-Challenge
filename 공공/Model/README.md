@@ -1,3 +1,18 @@
+# Finetuning Models
+
+### 1. [Qwen3-1.7b-LOMO](https://huggingface.co/naisksh32/Qwen3-1.7B-LOMO-Shipbuilding-Marine)
+
+### 2. [Qwen3-0.6b-LOMO](https://huggingface.co/naisksh32/Qwen3-0.6B-LOMO-Shipbuilding-Marine)
+
+### 3. [Gemma3-1b-LOMO](https://huggingface.co/naisksh32/Gemma3-1B-LOMO-Shipbuilding-Marine)
+
+### 4. [Gemma3-270m-LOMO](https://huggingface.co/naisksh32/Gemma3-270m-LOMO-Shipbuilding-Marine)
+
+
+[Models HuggingFace](https://huggingface.co/naisksh32)
+
+---
+# Best Model
 ### Qwen3 1.7b
 **Hyperparameters**
 ```
